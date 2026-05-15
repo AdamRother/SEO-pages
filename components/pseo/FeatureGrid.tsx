@@ -1,0 +1,29 @@
+interface FeatureItem {
+  title: string
+  description: string
+}
+
+interface FeatureGridProps {
+  headline: string
+  items: FeatureItem[]
+}
+
+export default function FeatureGrid({ headline, items }: FeatureGridProps) {
+  return (
+    <section className="border-t border-border">
+      <div className="max-w-5xl mx-auto px-6 py-16">
+      <h2 className="font-serif text-2xl sm:text-3xl text-ink mb-10 text-center leading-tight">
+        {headline}
+      </h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {items.map((item, i) => (
+          <div key={i} className="bg-white rounded-2xl border border-border p-6 flex flex-col gap-3">
+            <h3 className="font-serif text-lg text-ink leading-snug">{item.title}</h3>
+            <p className="text-muted text-sm leading-relaxed">{item.description}</p>
+          </div>
+        ))}
+      </div>
+      </div>
+    </section>
+  )
+}

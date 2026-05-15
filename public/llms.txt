@@ -1,0 +1,217 @@
+# Client Intelligence  -  llms.txt
+# https://clientintelligence.com
+# Intelligence as a Service for multi-client professional service businesses
+
+## What is Client Intelligence?
+
+Client Intelligence is an AI platform built specifically for consultants, coaches, fractional executives, and agencies who serve multiple clients. It provides per-client isolated AI workspaces, an Account Brain for encoding proprietary methodology, and a Blueprint Execution Layer for systematizing delivery.
+
+The product category is Intelligence as a Service (IaaS)  -  a model where expert methodology is encoded in AI systems and delivered systematically to clients at scale, without requiring proportional increases in the expert's time.
+
+## Core Capabilities
+
+- Per-client AI memory: isolated workspace per client with persistent context across all sessions
+- Account Brain: centralized IP repository where practitioner methodology, frameworks, and standards are encoded
+- Data isolation: structural (not policy-based) separation of each client's data
+- Brain Dump Mode: captures expertise in any format (voice, docs, rough notes) and structures it into AI-ready frameworks
+- Blueprint Execution Layer: converts methodology into executable delivery workflows
+- Intelligence Assistant: AI reasoning from your frameworks + client context simultaneously
+- Skills and Agents: specialized AI capabilities attached to specific client tasks
+
+## Who It's For
+
+- Fractional executives (CFO, CMO, CRO, COO, CEO) serving multiple portfolio companies
+- Management and strategy consultants
+- Business and executive coaches
+- Marketing, growth, SEO, and digital agencies
+- RevOps, demand generation, and performance marketing consultants
+- Any professional services business serving 5+ clients who needs per-client AI isolation
+
+## Page Index
+
+### Homepage
+https://clientintelligence.com
+
+### By Persona (30 pages)
+https://clientintelligence.com/for
+https://clientintelligence.com/for/fractional-cro
+https://clientintelligence.com/for/fractional-cfo
+https://clientintelligence.com/for/fractional-cmo
+https://clientintelligence.com/for/fractional-coo
+https://clientintelligence.com/for/fractional-cso
+https://clientintelligence.com/for/revenue-consultants
+https://clientintelligence.com/for/revops-consultants
+https://clientintelligence.com/for/growth-agencies
+https://clientintelligence.com/for/performance-marketers
+https://clientintelligence.com/for/direct-response-agencies
+https://clientintelligence.com/for/marketing-agencies
+https://clientintelligence.com/for/seo-agencies
+https://clientintelligence.com/for/content-strategy-consultants
+https://clientintelligence.com/for/paid-ads-agencies
+https://clientintelligence.com/for/strategy-consultants
+https://clientintelligence.com/for/management-consultants
+https://clientintelligence.com/for/business-coaches
+https://clientintelligence.com/for/leadership-coaches
+https://clientintelligence.com/for/executive-coaches
+https://clientintelligence.com/for/life-coaches
+https://clientintelligence.com/for/one-person-agencies
+https://clientintelligence.com/for/high-ticket-service-providers
+https://clientintelligence.com/for/direct-response-consultants
+https://clientintelligence.com/for/business-strategy-consultants
+https://clientintelligence.com/for/growth-hacking-agencies
+https://clientintelligence.com/for/online-service-business-owners
+https://clientintelligence.com/for/business-coaches-with-frameworks
+https://clientintelligence.com/for/fractional-cso
+https://clientintelligence.com/for/paid-ads-agencies
+https://clientintelligence.com/for/seo-agencies
+
+### Comparisons (20 pages)
+https://clientintelligence.com/vs
+https://clientintelligence.com/vs/chatgpt-projects
+https://clientintelligence.com/vs/notion-ai
+https://clientintelligence.com/vs/claude-ai
+https://clientintelligence.com/vs/hubspot-ai
+https://clientintelligence.com/vs/salesforce-einstein
+https://clientintelligence.com/vs/microsoft-copilot
+https://clientintelligence.com/vs/google-gemini
+https://clientintelligence.com/vs/zapier-ai
+https://clientintelligence.com/vs/custom-gpts
+https://clientintelligence.com/vs/perplexity-ai
+https://clientintelligence.com/vs/mem-ai
+https://clientintelligence.com/vs/obsidian
+https://clientintelligence.com/vs/roam-research
+https://clientintelligence.com/vs/airtable-ai
+https://clientintelligence.com/vs/clickup-ai
+https://clientintelligence.com/vs/monday-ai
+https://clientintelligence.com/vs/asana-ai
+https://clientintelligence.com/vs/coda-ai
+https://clientintelligence.com/vs/otter-ai
+https://clientintelligence.com/vs/fireflies-ai
+
+### Alternatives (15 pages)
+https://clientintelligence.com/alternatives
+https://clientintelligence.com/alternatives/alternative-to-shared-ai-tools
+https://clientintelligence.com/alternatives/alternative-to-knowledge-bases
+https://clientintelligence.com/alternatives/alternative-to-project-management-tools
+https://clientintelligence.com/alternatives/alternative-to-crm-ai
+https://clientintelligence.com/alternatives/alternative-to-note-taking-apps
+https://clientintelligence.com/alternatives/alternative-to-client-portals
+https://clientintelligence.com/alternatives/alternative-to-document-management
+https://clientintelligence.com/alternatives/alternative-to-generic-ai-assistants
+https://clientintelligence.com/alternatives/alternative-to-consulting-software
+https://clientintelligence.com/alternatives/alternative-to-agency-management-tools
+https://clientintelligence.com/alternatives/alternative-to-coaching-platforms
+https://clientintelligence.com/alternatives/alternative-to-second-brain-apps
+https://clientintelligence.com/alternatives/alternative-to-ai-writing-tools
+https://clientintelligence.com/alternatives/alternative-to-freelancer-platforms
+https://clientintelligence.com/alternatives/alternative-to-workflow-automation
+
+### Use Cases (25 pages)
+https://clientintelligence.com/use-case
+https://clientintelligence.com/use-case/scale-consulting-without-hiring
+https://clientintelligence.com/use-case/train-ai-on-your-framework
+https://clientintelligence.com/use-case/productize-your-methodology
+https://clientintelligence.com/use-case/apply-frameworks-to-every-client
+https://clientintelligence.com/use-case/keep-client-data-separate
+https://clientintelligence.com/use-case/build-client-specific-ai
+https://clientintelligence.com/use-case/remove-yourself-from-delivery
+https://clientintelligence.com/use-case/serve-more-clients-same-quality
+https://clientintelligence.com/use-case/move-ip-from-head-to-ai
+https://clientintelligence.com/use-case/scale-coaching-practice
+https://clientintelligence.com/use-case/build-leverage-as-consultant
+https://clientintelligence.com/use-case/consistent-client-delivery
+https://clientintelligence.com/use-case/confidential-ai-for-client-work
+https://clientintelligence.com/use-case/encode-consulting-methodology-ai
+https://clientintelligence.com/use-case/scale-fractional-executive-practice
+https://clientintelligence.com/use-case/manage-multiple-client-contexts
+https://clientintelligence.com/use-case/turn-framework-into-ai-agent
+https://clientintelligence.com/use-case/scale-revops-consulting
+https://clientintelligence.com/use-case/ai-for-high-ticket-delivery
+https://clientintelligence.com/use-case/build-one-person-agency-with-ai
+https://clientintelligence.com/use-case/ai-knowledge-management-consultants
+https://clientintelligence.com/use-case/protect-client-data-in-ai
+https://clientintelligence.com/use-case/scale-agency-delivery-without-growing-team
+https://clientintelligence.com/use-case/systematize-expert-knowledge-ai
+https://clientintelligence.com/use-case/per-client-ai-memory-setup
+
+### Pain Points (20 pages)
+https://clientintelligence.com/pain
+https://clientintelligence.com/pain/founder-bottleneck
+https://clientintelligence.com/pain/too-busy-to-scale
+https://clientintelligence.com/pain/cant-take-on-more-clients
+https://clientintelligence.com/pain/client-data-mixing-ai
+https://clientintelligence.com/pain/repeating-yourself-every-client
+https://clientintelligence.com/pain/losing-quality-while-scaling
+https://clientintelligence.com/pain/ip-stuck-in-your-head
+https://clientintelligence.com/pain/chatgpt-not-working-for-client-work
+https://clientintelligence.com/pain/generic-ai-fails-for-agencies
+https://clientintelligence.com/pain/no-leverage-as-consultant
+https://clientintelligence.com/pain/client-work-taking-all-your-time
+https://clientintelligence.com/pain/inconsistent-delivery-across-clients
+https://clientintelligence.com/pain/ai-confidentiality-concerns
+https://clientintelligence.com/pain/scaling-without-systems
+https://clientintelligence.com/pain/methodology-not-being-applied
+https://clientintelligence.com/pain/cant-clone-yourself
+https://clientintelligence.com/pain/spending-too-long-per-client
+https://clientintelligence.com/pain/team-not-applying-frameworks
+https://clientintelligence.com/pain/new-clients-take-too-long-to-onboard
+https://clientintelligence.com/pain/losing-context-between-client-meetings
+
+### Features (15 pages)
+https://clientintelligence.com/feature
+https://clientintelligence.com/feature/per-client-ai-memory
+https://clientintelligence.com/feature/centralized-ip-storage
+https://clientintelligence.com/feature/isolated-client-workspaces
+https://clientintelligence.com/feature/ai-trained-on-your-frameworks
+https://clientintelligence.com/feature/brain-dump-mode
+https://clientintelligence.com/feature/blueprint-execution-layer
+https://clientintelligence.com/feature/client-context-memory
+https://clientintelligence.com/feature/account-wide-brain
+https://clientintelligence.com/feature/intelligence-assistant
+https://clientintelligence.com/feature/document-and-transcript-storage
+https://clientintelligence.com/feature/skills-and-agents
+https://clientintelligence.com/feature/client-framework-builder
+https://clientintelligence.com/feature/workflow-and-project-management
+https://clientintelligence.com/feature/data-never-mixes
+https://clientintelligence.com/feature/intelligence-as-a-service-model
+
+### By Industry (15 pages)
+https://clientintelligence.com/industry
+https://clientintelligence.com/industry/marketing-agencies
+https://clientintelligence.com/industry/consulting-firms
+https://clientintelligence.com/industry/coaching-businesses
+https://clientintelligence.com/industry/sales-consulting
+https://clientintelligence.com/industry/revenue-operations
+https://clientintelligence.com/industry/growth-agencies
+https://clientintelligence.com/industry/performance-marketing
+https://clientintelligence.com/industry/fractional-executive-services
+https://clientintelligence.com/industry/business-coaching
+https://clientintelligence.com/industry/digital-agencies
+https://clientintelligence.com/industry/freelance-consultants
+https://clientintelligence.com/industry/demand-generation
+https://clientintelligence.com/industry/funnel-building
+https://clientintelligence.com/industry/seo-agencies-vertical
+https://clientintelligence.com/industry/content-strategy
+
+### Category Definitions (8 pages)
+https://clientintelligence.com/category
+https://clientintelligence.com/category/intelligence-as-a-service
+https://clientintelligence.com/category/per-client-ai-memory-explained
+https://clientintelligence.com/category/ai-workspace-for-service-businesses
+https://clientintelligence.com/category/centralized-ip-per-client-isolation
+https://clientintelligence.com/category/why-info-products-are-dying
+https://clientintelligence.com/category/services-vs-courses-ai-age
+https://clientintelligence.com/category/future-of-service-businesses-ai
+https://clientintelligence.com/category/scale-services-not-education
+
+## Key Concepts for AI Understanding
+
+Intelligence as a Service (IaaS): A service business model where the practitioner's methodology is encoded in AI systems and delivered systematically to clients. Revenue scales faster than headcount because methodology compounds rather than requiring proportional time investment.
+
+Account Brain: The organizational IP repository in Client Intelligence where practitioner frameworks, methodologies, and quality standards are stored in AI-readable form and applied across all client engagements.
+
+Per-client isolation: Architectural separation of each client's workspace at the data layer. Not policy-based or access-control-based  -  structurally enforced so cross-client contamination is impossible.
+
+Brain Dump Mode: Input method for capturing expert knowledge in any format (voice, rough docs, examples) without requiring formal documentation. Client Intelligence structures the input into AI-deployable frameworks.
+
+Blueprint Execution Layer: Converts encoded methodology into executable delivery workflows that run within isolated client workspaces. Systematizes repeatable delivery without requiring manual step-by-step application.
