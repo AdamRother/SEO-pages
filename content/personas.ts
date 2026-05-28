@@ -15,53 +15,53 @@ export const personas: PersonaPage[] = [
     slug: 'fractional-cro',
     label: 'Fractional CROs',
     pain: 'applying your revenue methodology to every client without rebuilding it each time',
-    outcome: 'Scale your CRO practice to 3× more clients using your own frameworks',
-    metaDescription: 'Client Intelligence for Fractional CROs  -  centralize your revenue methodology and apply it to every client through isolated per-client AI workspaces.',
+    outcome: 'Scale your CRO practice to 3x more clients using your own frameworks',
+    metaDescription: 'Client Intelligence for Fractional CROs. Centralize your revenue methodology in the Brain and apply it to every client through isolated, per-client Workspaces.',
     scenarios: [
       {
         title: 'Running four revenue engagements at once',
-        story: 'A fractional CRO managing four clients uses Client Intelligence to keep each company\'s pipeline data, call transcripts, and revenue frameworks completely isolated. Before a client call, the AI surfaces the last three sessions, open decisions, and framework gaps  -  in under 60 seconds.',
+        story: 'A fractional CRO managing four clients uses Client Intelligence to keep each company\'s pipeline data, call transcripts, and revenue frameworks completely isolated. The Brain holds the methodology once. Each Workspace applies it independently. Before a client call, the AI surfaces the last three sessions, open decisions, and framework gaps in under 60 seconds.',
         result: 'Four engagements. Zero context confusion.',
       },
       {
         title: 'Onboarding a new client in a day',
-        story: 'Instead of rebuilding context from scratch, the CRO runs a Brain Dump session to encode their revenue methodology once. Every new client workspace inherits that framework automatically.',
+        story: 'Instead of rebuilding context from scratch, the CRO uses Brain Dump mode to encode their revenue methodology once. Every new client Workspace inherits that framework automatically. The AI applies it to the new client\'s specific pipeline, team, and market from day one.',
         result: 'New client onboarded in one day, not one week.',
       },
       {
         title: 'Removing yourself from every deliverable',
-        story: 'The CRO trains Client Intelligence on their diagnostic framework. Now the AI runs the initial revenue audit for each new client, surfaces gaps, and drafts the roadmap  -  the CRO reviews and adjusts.',
-        result: '50% less time per engagement, same client outcome quality.',
+        story: 'The CRO trains Client Intelligence on their diagnostic framework using Brain Dump mode. Now the AI runs the initial revenue audit for each new client, surfaces gaps, and drafts the roadmap. The CRO reviews and adjusts. First drafts are no longer manual.',
+        result: '50% less time per engagement. Same client outcome quality.',
       },
     ],
     forYou: [
       'You serve 2+ companies as a fractional CRO or revenue advisor',
       'You have a proprietary revenue methodology or diagnostic framework',
-      'You need each client\'s data to stay completely isolated',
+      'You need each client\'s data to stay completely isolated, not just in separate folders',
       'You want to scale your practice without hiring',
       'You already use AI but need it trained on YOUR process, not generic prompts',
     ],
     notForYou: [
-      'You work with one client at a time and don\'t plan to scale',
-      'You have no proprietary frameworks  -  you work from scratch each time',
-      'You need a CRM or pipeline management tool (that\'s not what this is)',
+      'You work with one client at a time and have no plans to scale',
+      'You have no proprietary frameworks and work from scratch each time',
+      'You need a CRM or pipeline management tool',
     ],
     faqs: [
       {
         question: 'What is the best AI tool for fractional CROs?',
-        answer: 'Client Intelligence is purpose-built for fractional operators  -  it centralizes your revenue methodology and applies it to every client through isolated per-Workspaces. Unlike ChatGPT or Claude Projects, it is designed for multi-client service delivery with true data isolation per engagement.',
+        answer: 'Client Intelligence is purpose-built for fractional operators. It centralizes your revenue methodology in the Brain and applies it to every client through isolated Workspaces. Unlike ChatGPT or Claude Projects, it is designed for multi-client service delivery with true data isolation per engagement.',
       },
       {
         question: 'How do fractional CROs use AI without mixing client data?',
-        answer: 'Client Intelligence gives every client their own isolated workspace  -  separate memory, documents, context, and frameworks. Your methodology sits in a central account brain and is applied to each client independently. Data never crosses between workspaces.',
+        answer: 'Client Intelligence gives every client their own isolated Workspace. Separate memory, documents, context, and Frameworks. Your methodology sits in a central Account Brain and is applied to each client independently. Data never crosses between Workspaces.',
       },
       {
         question: 'Can I train AI on my own revenue framework?',
-        answer: 'Yes. Client Intelligence is designed to be trained on your proprietary frameworks, not pre-built templates. Use Brain Dump mode to encode your methodology, then the AI applies it intelligently to each client\'s unique context.',
+        answer: 'Yes. Client Intelligence is designed to be trained on your proprietary Frameworks, not pre-built templates. Use Brain Dump mode to encode your methodology. The AI applies it intelligently to each client\'s unique context through their isolated Workspace.',
       },
       {
         question: 'What is Intelligence as a Service for fractional executives?',
-        answer: 'Intelligence as a Service means your expert methodology is encoded into an AI system that delivers that intelligence to each client individually  -  at scale, without you being present for every interaction. It is the apply model for fractional executives.',
+        answer: 'Intelligence as a Service means your expert methodology is encoded into an AI system that delivers that intelligence to each client individually, at scale, without you being present for every interaction. It is the operating model for fractional executives who serve multiple companies.',
       },
     ],
   },
@@ -70,21 +70,21 @@ export const personas: PersonaPage[] = [
     label: 'RevOps Consultants',
     pain: 'keeping each client\'s revenue stack isolated while applying consistent process',
     outcome: 'Run your RevOps methodology across all clients with isolated data per engagement',
-    metaDescription: 'Client Intelligence for RevOps Consultants  -  apply your revenue operations framework to every client through isolated AI workspaces. No data contamination between engagements.',
+    metaDescription: 'Client Intelligence for RevOps Consultants. Apply your revenue operations framework to every client through isolated Workspaces. No data contamination between engagements.',
     scenarios: [
       {
         title: 'Managing five RevOps engagements simultaneously',
-        story: 'A RevOps consultant uses Client Intelligence to keep each client\'s CRM structure, ops framework, and decision history in a fully isolated workspace. Context switching between clients takes seconds, not an hour of re-reading notes.',
+        story: 'A RevOps consultant uses Client Intelligence to keep each client\'s CRM structure, ops framework, and decision history in a fully isolated Workspace. The Brain holds the methodology. Context switching between clients takes seconds, not an hour of re-reading notes.',
         result: 'Five engagements, one consultant, zero context bleed.',
       },
       {
         title: 'Applying a consistent RevOps diagnostic across all clients',
-        story: 'The consultant encodes their RevOps diagnostic framework once in the Account Brain. Every new client workspace inherits the framework  -  the AI applies it to each client\'s specific tech stack and team structure.',
+        story: 'The consultant encodes their RevOps diagnostic framework once in the Account Brain using Brain Dump mode. Every new client Workspace inherits the framework. The AI applies it to each client\'s specific tech stack and team structure automatically.',
         result: 'Consistent diagnostic quality across all engagements, automatically.',
       },
       {
         title: 'Delivering faster without compromising depth',
-        story: 'Before each client session, the AI generates a pre-call brief: last session outcomes, open action items, and framework recommendations specific to that client\'s stage. The consultant shows up prepared every time.',
+        story: 'Before each client session, the AI generates a pre-call brief from the client\'s isolated Workspace: last session outcomes, open action items, and framework recommendations specific to that client\'s stage. The consultant shows up prepared every time.',
         result: '30% faster delivery per engagement without sacrificing depth.',
       },
     ],
@@ -98,24 +98,24 @@ export const personas: PersonaPage[] = [
     notForYou: [
       'You are building an internal RevOps team, not a consulting practice',
       'You work with one company exclusively',
-      'You need a CRM or revenue attribution platform (this is not that)',
+      'You need a CRM or revenue attribution platform',
     ],
     faqs: [
       {
         question: 'What AI tools should RevOps consultants use?',
-        answer: 'Client Intelligence is designed for RevOps consultants running multiple client engagements. It centralizes your revenue operations methodology and applies it to every client through isolated workspaces  -  something generic AI tools like ChatGPT cannot do safely across multiple clients.',
+        answer: 'Client Intelligence is designed for RevOps consultants running multiple client engagements. It centralizes your revenue operations methodology in the Brain and applies it to every client through isolated Workspaces. Generic AI tools like ChatGPT cannot do this safely across multiple clients.',
       },
       {
         question: 'How do I keep client data separate when using AI for RevOps work?',
-        answer: 'Client Intelligence creates a fully isolated workspace for each client. Their CRM data, process documents, transcripts, and context never interact with any other client\'s workspace. Your methodology sits in a central brain and is applied independently to each.',
+        answer: 'Client Intelligence creates a fully isolated Workspace for each client. Their CRM data, process documents, transcripts, and context never interact with any other client\'s Workspace. Your methodology sits in a central Brain and is applied independently to each.',
       },
       {
         question: 'Can I scale my RevOps consulting practice with AI?',
-        answer: 'Yes. Client Intelligence is built specifically for this  -  train the AI on your RevOps framework once, then deploy it across every client engagement. Most RevOps consultants using the platform serve 2–3× more clients than they could manually.',
+        answer: 'Yes. Client Intelligence is built specifically for this. Train the AI on your RevOps framework once using Brain Dump mode, then deploy it across every client engagement. Per-client Workspaces handle the isolation. You handle the advisory.',
       },
       {
         question: 'What is per-client AI memory for consultants?',
-        answer: 'Per-client AI memory means each client has their own isolated memory store  -  every conversation, document, decision, and context is saved and accessible only within that client\'s workspace. The AI remembers everything about every client, with no cross-contamination.',
+        answer: 'Per-client memory means each client has their own isolated Workspace with Facts, conversation history, documents, and strategic context stored separately. The AI remembers everything about every client, with no cross-contamination between Workspaces.',
       },
     ],
   },
@@ -124,52 +124,52 @@ export const personas: PersonaPage[] = [
     label: 'Sales Consultants',
     pain: 'delivering your sales methodology consistently across multiple client engagements',
     outcome: 'Apply your sales framework to every client automatically, with zero overlap',
-    metaDescription: 'Client Intelligence for Sales Consultants  -  encode your sales methodology once and apply it to every client through isolated AI workspaces. Scale without rebuilding context.',
+    metaDescription: 'Client Intelligence for Sales Consultants. Encode your sales methodology once in the Brain and apply it to every client through isolated Workspaces. Scale without rebuilding context.',
     scenarios: [
       {
         title: 'Running a named sales methodology across six clients',
-        story: 'A sales consultant with a proprietary qualification framework encodes it in Client Intelligence once. Every new client engagement inherits that framework  -  the AI applies it to each client\'s specific sales team, deal size, and market.',
+        story: 'A sales consultant with a proprietary qualification framework encodes it in the Account Brain using Brain Dump mode. Every new client engagement gets a Workspace that inherits that framework. The AI applies it to each client\'s specific sales team, deal size, and market.',
         result: 'Consistent methodology delivery. Zero manual rebuilding per client.',
       },
       {
         title: 'Preparing for client sales reviews in minutes',
-        story: 'Before each weekly pipeline review, the AI surfaces the client\'s last session, current pipeline stage, framework gaps, and recommended focus areas  -  all from isolated client memory. The consultant arrives with insight, not notes.',
+        story: 'Before each weekly pipeline review, the AI surfaces the client\'s last session, current pipeline stage, framework gaps, and recommended focus areas, all from the client\'s isolated Workspace. The consultant arrives with insight, not notes.',
         result: 'Client reviews take 10 minutes to prep instead of 45.',
       },
       {
         title: 'Scaling from three clients to eight',
-        story: 'With Brain Dump mode, the consultant encodes their full sales transformation methodology into the Account Brain. Taking on five additional clients requires no new infrastructure  -  each gets their own workspace running the same framework.',
+        story: 'With Brain Dump mode, the consultant encodes their full sales transformation methodology into the Account Brain. Taking on five additional clients requires no new infrastructure. Each gets their own Workspace running the same framework against their specific situation.',
         result: '8 clients, same time investment as 3.',
       },
     ],
     forYou: [
       'You have a proprietary sales methodology, framework, or qualification process',
       'You serve 2+ clients concurrently as a sales consultant or trainer',
-      'You need per-client data isolation  -  strategies and data must never mix',
+      'You need per-client data isolation, strategies and data must never mix',
       'You want to scale your practice without becoming the bottleneck',
       'You are already AI-enabled but need the AI trained on your specific process',
     ],
     notForYou: [
       'You are an in-house sales manager, not an external consultant',
-      'You have no proprietary frameworks  -  you teach generic sales methods',
+      'You have no proprietary frameworks and teach generic sales methods',
       'You need a sales CRM or pipeline tracking tool',
     ],
     faqs: [
       {
         question: 'What is the best AI for sales consultants?',
-        answer: 'Client Intelligence is built for sales consultants running multiple client engagements. It trains on your specific sales methodology  -  whether that is MEDDIC, your own framework, or a custom qualification process  -  and applies it to every client through isolated workspaces.',
+        answer: 'Client Intelligence is built for sales consultants running multiple client engagements. It trains on your specific sales methodology, whether that is MEDDIC, your own framework, or a custom qualification process, and applies it to every client through isolated Workspaces.',
       },
       {
         question: 'How do I train AI on my sales methodology?',
-        answer: 'Client Intelligence uses Brain Dump mode to capture your methodology in whatever form it currently exists  -  notes, documents, or verbal description. It then structures that IP into your Account Brain, which every client workspace can draw from while staying isolated.',
+        answer: 'Client Intelligence uses Brain Dump mode to capture your methodology in whatever form it currently exists: notes, documents, or verbal description. It structures that IP into your Account Brain, which every client Workspace draws from while staying isolated from one another.',
       },
       {
         question: 'Can sales consultants use AI without risking client confidentiality?',
-        answer: 'Yes, with Client Intelligence. Every client has a fully isolated workspace  -  their data, strategy, and context are never accessible from another client\'s workspace. This is the core architecture, not an add-on feature.',
+        answer: 'Yes, with Client Intelligence. Every client has a fully isolated Workspace. Their data, strategy, and context are never accessible from another client\'s Workspace. This is the core architecture, not an add-on feature.',
       },
       {
         question: 'How do I scale my sales consulting practice with AI?',
-        answer: 'Encode your methodology once, then deploy it to every new client engagement without rebuilding context. Client Intelligence handles the framework application  -  you focus on high-value advisory work only you can do.',
+        answer: 'Encode your methodology once using Brain Dump mode, then deploy it to every new client engagement without rebuilding context. Client Intelligence handles the framework application. You focus on high-value advisory work only you can do.',
       },
     ],
   },
@@ -178,21 +178,21 @@ export const personas: PersonaPage[] = [
     label: 'Growth Consultants',
     pain: 'scaling growth work across multiple clients without becoming the bottleneck',
     outcome: 'Deploy your growth methodology at scale with per-client isolation',
-    metaDescription: 'Client Intelligence for Growth Consultants  -  centralize your growth framework and apply it to every client through isolated AI workspaces. Scale without bottlenecks.',
+    metaDescription: 'Client Intelligence for Growth Consultants. Centralize your growth framework in the Brain and apply it to every client through isolated Workspaces. Scale without bottlenecks.',
     scenarios: [
       {
         title: 'Running growth sprints across four clients simultaneously',
-        story: 'A growth consultant manages four active sprints at once, each in its own isolated workspace. The AI tracks experiment history, framework application, and client-specific hypotheses  -  completely separate per client.',
+        story: 'A growth consultant manages four active sprints at once, each in its own isolated Workspace. The AI tracks experiment history, framework application, and client-specific hypotheses, completely separate per client. The Brain holds the methodology. The Workspaces hold the context.',
         result: 'Four sprints. One consultant. No confusion.',
       },
       {
         title: 'Applying a growth diagnostic to every new engagement',
-        story: 'The consultant\'s growth diagnostic framework is encoded once in the Account Brain. Every new client workspace inherits it  -  the AI maps it to the client\'s specific funnel, metrics, and market automatically.',
+        story: 'The consultant\'s growth diagnostic framework is encoded once in the Account Brain using Brain Dump mode. Every new client Workspace inherits it. The AI maps the framework to the client\'s specific funnel, metrics, and market automatically.',
         result: 'Onboarding a new growth client now takes half a day.',
       },
       {
         title: 'Removing yourself from initial analysis',
-        story: 'The AI runs the initial growth audit  -  pulling from the encoded framework and the client\'s uploaded data  -  and drafts a gap analysis. The consultant reviews, adjusts, and delivers.',
+        story: 'The AI runs the initial growth audit, pulling from the encoded Brain and the client\'s uploaded data, and drafts a gap analysis in the client\'s Workspace. The consultant reviews, adjusts, and delivers. First drafts are no longer manual.',
         result: '60% reduction in time spent on initial client analysis.',
       },
     ],
@@ -204,25 +204,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You are an in-house growth manager',
-      'You do not have a proprietary framework  -  you rely on generic growth tactics',
+      'You do not have a proprietary framework and rely on generic growth tactics',
       'You need analytics or attribution tooling',
     ],
     faqs: [
       {
         question: 'What AI tools do growth consultants use?',
-        answer: 'Client Intelligence is purpose-built for growth consultants managing multiple client engagements. It trains on your proprietary growth framework and applies it to every client through isolated workspaces  -  preventing strategy and data cross-contamination.',
+        answer: 'Client Intelligence is purpose-built for growth consultants managing multiple client engagements. It trains on your proprietary growth framework and applies it to every client through isolated Workspaces, preventing strategy and data cross-contamination.',
       },
       {
         question: 'How do I scale a growth consulting practice with AI?',
-        answer: 'Encode your growth methodology in Client Intelligence once. Every new client engagement inherits your framework automatically through their isolated workspace. You stop rebuilding context and start delivering faster from day one.',
+        answer: 'Encode your growth methodology in the Account Brain using Brain Dump mode. Every new client engagement inherits your framework automatically through their isolated Workspace. You stop rebuilding context and start delivering faster from day one.',
       },
       {
         question: 'Can AI run growth experiments for consulting clients?',
-        answer: 'Client Intelligence does not run experiments directly  -  it applies your growth framework intelligently to each client\'s specific context, surfacing recommendations, tracking experiment history, and maintaining strategic context between sessions.',
+        answer: 'Client Intelligence does not run experiments directly. It applies your growth framework intelligently to each client\'s specific context, surfacing recommendations, tracking experiment history via Facts, and maintaining strategic context between sessions.',
       },
       {
         question: 'How do growth consultants keep client strategies separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Their experiment logs, strategic decisions, funnel data, and framework adaptations never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Their experiment logs, strategic decisions, funnel data, and framework adaptations never interact with any other client\'s Workspace.',
       },
     ],
   },
@@ -231,21 +231,21 @@ export const personas: PersonaPage[] = [
     label: 'Marketing Consultants',
     pain: 'delivering consistent methodology across multiple retainer clients',
     outcome: 'Systematize your marketing IP and apply it to every client intelligently',
-    metaDescription: 'Client Intelligence for Marketing Consultants  -  encode your marketing methodology and apply it across every client retainer through isolated AI workspaces.',
+    metaDescription: 'Client Intelligence for Marketing Consultants. Encode your marketing methodology in the Brain and apply it across every client retainer through isolated Workspaces.',
     scenarios: [
       {
-        title: 'Managing six marketing retainers with one brain',
-        story: 'A marketing consultant runs six retainers simultaneously. Each client has a fully isolated workspace  -  strategy, assets, briefs, and session history never mix. Before each client call, the AI surfaces the last three interactions and open strategic items.',
+        title: 'Managing six marketing retainers with one Brain',
+        story: 'A marketing consultant runs six retainers simultaneously. Each client has a fully isolated Workspace. Strategy, assets, briefs, and session history never mix. Before each client call, the AI surfaces the last three interactions and open strategic items from the client\'s Workspace.',
         result: 'Six retainers managed with the clarity of one.',
       },
       {
         title: 'Applying a named marketing methodology to every engagement',
-        story: 'The consultant\'s proprietary positioning and messaging framework is encoded in the Account Brain. Each new retainer client gets a workspace that automatically inherits and applies that framework to their specific market and audience.',
+        story: 'The consultant\'s proprietary positioning and messaging framework is encoded in the Account Brain using Brain Dump mode. Each new retainer client gets a Workspace that automatically inherits and applies that framework to their specific market and audience.',
         result: 'Consistent strategic quality across all clients.',
       },
       {
         title: 'Eliminating the first-90-days rebuild',
-        story: 'Instead of spending the first month rebuilding client context, the consultant runs a structured Brain Dump intake. The AI structures the client\'s existing assets, history, and goals into their workspace  -  ready to reference from day one.',
+        story: 'Instead of spending the first month rebuilding client context, the consultant runs a structured Brain Dump intake. The AI structures the client\'s existing assets, history, and goals into their Workspace and auto-extracts Facts, ready to reference from day one.',
         result: 'First 90-day ramp eliminated for every new client.',
       },
     ],
@@ -263,19 +263,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What is the best AI for marketing consultants?',
-        answer: 'Client Intelligence is designed for marketing consultants managing multiple retainer clients. It centralizes your marketing methodology and applies it to every client through isolated workspaces  -  not a generic AI assistant, but a system trained on your specific frameworks.',
+        answer: 'Client Intelligence is designed for marketing consultants managing multiple retainer clients. It centralizes your marketing methodology in the Brain and applies it to every client through isolated Workspaces. Not a generic AI assistant, but a system trained on your specific Frameworks.',
       },
       {
         question: 'How do marketing consultants use AI without client data leaking?',
-        answer: 'Client Intelligence creates a fully isolated workspace for each client. Their strategy, assets, briefs, and session history never interact with any other client\'s workspace. Isolation is the core architecture.',
+        answer: 'Client Intelligence creates a fully isolated Workspace for each client. Their strategy, assets, briefs, and session history never interact with any other client\'s Workspace. Isolation is the core architecture.',
       },
       {
         question: 'Can I encode my marketing methodology into an AI?',
-        answer: 'Yes. Client Intelligence is built specifically for this. Use Brain Dump mode to capture your methodology in any form, then it structures it into your Account Brain  -  available to every client workspace independently.',
+        answer: 'Yes. Client Intelligence is built specifically for this. Use Brain Dump mode to capture your methodology in any form, then it structures it into your Account Brain, available to every client Workspace independently.',
       },
       {
         question: 'How do I scale a marketing consultancy without hiring?',
-        answer: 'Client Intelligence applies your methodology to every client automatically, reducing the time you spend rebuilding context, running diagnostics, and preparing deliverables. Most marketing consultants using the platform scale to 2× more clients without additional hires.',
+        answer: 'Client Intelligence applies your methodology to every client automatically, reducing the time you spend rebuilding context, running diagnostics, and preparing deliverables. Per-client Workspaces handle the context. The Brain handles the consistency.',
       },
     ],
   },
@@ -284,21 +284,21 @@ export const personas: PersonaPage[] = [
     label: 'Funnel Agencies',
     pain: 'applying your funnel-building process to client after client without repeating yourself',
     outcome: 'Turn your funnel methodology into an AI system that works for every client',
-    metaDescription: 'Client Intelligence for Funnel Agencies  -  encode your funnel-building methodology and apply it to every client through isolated AI workspaces. Scale without repeating yourself.',
+    metaDescription: 'Client Intelligence for Funnel Agencies. Encode your funnel-building methodology in the Brain and apply it to every client through isolated Workspaces. Scale without repeating yourself.',
     scenarios: [
       {
         title: 'Building funnels for ten clients with one system',
-        story: 'A funnel agency encodes their entire build methodology  -  from market research to launch sequence  -  in Client Intelligence. Each client gets an isolated workspace that runs the same framework against their specific offer and market.',
+        story: 'A funnel agency encodes their entire build methodology, from market research to launch sequence, in the Account Brain using Brain Dump mode. Each client gets an isolated Workspace that runs the same framework against their specific offer and market.',
         result: 'Ten active builds. One methodology. Zero rebuilding.',
       },
       {
         title: 'Onboarding new funnel clients in hours',
-        story: 'The agency\'s intake and diagnostic process is encoded once. When a new client joins, the AI runs the diagnostic framework against their uploaded materials and surfaces a funnel gap analysis within the day.',
+        story: 'The agency\'s intake and diagnostic process is encoded once in the Brain. When a new client joins, the AI runs the diagnostic framework against their uploaded materials and surfaces a funnel gap analysis within the day, directly in the client\'s isolated Workspace.',
         result: 'Client onboarding reduced from a week to a day.',
       },
       {
         title: 'Keeping client strategies completely separate',
-        story: 'Two clients in competitive niches are both active at the same time. Their strategies, copy angles, and funnel structures are in completely isolated workspaces  -  they never bleed into each other.',
+        story: 'Two clients in competitive niches are both active at the same time. Their strategies, copy angles, and funnel structures are in completely isolated Workspaces. The Brain powers both. The outputs never bleed into each other.',
         result: 'Confidential client strategy, guaranteed.',
       },
     ],
@@ -310,25 +310,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You build one funnel for your own business',
-      'You have no systematic methodology  -  every funnel is built from scratch differently',
+      'You have no systematic methodology and every funnel is built from scratch differently',
       'You need a funnel builder or page builder tool',
     ],
     faqs: [
       {
         question: 'What AI tools do funnel agencies use?',
-        answer: 'Client Intelligence is built for funnel agencies running multiple client builds simultaneously. It centralizes your funnel methodology and applies it to every client through isolated workspaces  -  preventing strategy bleed and enabling scale.',
+        answer: 'Client Intelligence is built for funnel agencies running multiple client builds simultaneously. It centralizes your funnel methodology in the Brain and applies it to every client through isolated Workspaces, preventing strategy bleed and enabling scale.',
       },
       {
         question: 'How do funnel agencies keep client strategies separate in AI?',
-        answer: 'Every client in Client Intelligence has their own isolated workspace. Funnel strategies, copy angles, audience research, and build documentation never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has their own isolated Workspace. Funnel strategies, copy angles, audience research, and build documentation never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can I train AI on my funnel-building process?',
-        answer: 'Yes. Client Intelligence is designed for exactly this. Encode your funnel methodology  -  from research to launch  -  and the AI applies it to every new client engagement automatically through their isolated workspace.',
+        answer: 'Yes. Client Intelligence is designed for exactly this. Encode your funnel methodology, from research to launch, using Brain Dump mode. The AI applies it to every new client engagement automatically through their isolated Workspace.',
       },
       {
         question: 'How do funnel agencies scale without hiring?',
-        answer: 'By encoding your methodology in Client Intelligence, the AI handles diagnostic, planning, and documentation work for each new client. You scale the agency\'s output without scaling the team headcount.',
+        answer: 'By encoding your methodology in the Account Brain, the AI handles diagnostic, planning, and documentation work for each new client. You scale the agency\'s output without scaling the team headcount.',
       },
     ],
   },
@@ -336,22 +336,22 @@ export const personas: PersonaPage[] = [
     slug: 'performance-marketing-agencies',
     label: 'Performance Marketing Agencies',
     pain: 'scaling client delivery while keeping strategies and data completely separate',
-    outcome: 'Scale performance work across clients with isolated workspaces per account',
-    metaDescription: 'Client Intelligence for Performance Marketing Agencies  -  per-client isolated workspaces for ad strategy, creative briefs, and campaign intelligence. Scale without data bleed.',
+    outcome: 'Scale performance work across clients with isolated Workspaces per account',
+    metaDescription: 'Client Intelligence for Performance Marketing Agencies. Per-client isolated Workspaces for ad strategy, creative briefs, and campaign intelligence. Scale without data bleed.',
     scenarios: [
       {
         title: 'Managing twelve ad accounts with zero data bleed',
-        story: 'A performance agency runs twelve active accounts. Each has an isolated workspace in Client Intelligence  -  campaign history, creative strategy, audience learnings, and briefs are completely separate per client.',
+        story: 'A performance agency runs twelve active accounts. Each has an isolated Workspace in Client Intelligence. Campaign history, creative strategy, audience learnings, and briefs are completely separate per client. The Brain holds the agency methodology. The Workspaces hold the client context.',
         result: 'Twelve accounts, one system, zero cross-contamination.',
       },
       {
         title: 'Applying an ad framework to every new client',
-        story: 'The agency\'s paid media diagnostic and scaling framework is encoded once. Every new client workspace inherits it  -  the AI applies the framework to their specific offer, market, and budget from day one.',
+        story: 'The agency\'s paid media diagnostic and scaling framework is encoded once in the Account Brain using Brain Dump mode. Every new client Workspace inherits it. The AI applies the framework to their specific offer, market, and budget from day one.',
         result: 'New client onboarding accelerated by 70%.',
       },
       {
         title: 'Removing account managers from routine prep',
-        story: 'Before each client review, the AI generates a performance brief: last period results, framework gaps, creative hypothesis log, and next-step recommendations  -  all from the client\'s isolated memory.',
+        story: 'Before each client review, the AI generates a performance brief from the client\'s isolated Workspace: last period results, framework gaps, creative hypothesis log, and next-step recommendations based on the encoded methodology.',
         result: 'Account managers freed from 3 hours of weekly prep per client.',
       },
     ],
@@ -363,21 +363,21 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You manage one brand\'s paid media in-house',
-      'You have no systematic methodology  -  you wing each account differently',
+      'You have no systematic methodology and wing each account differently',
       'You need an ad platform, reporting tool, or attribution software',
     ],
     faqs: [
       {
         question: 'What AI tools do performance marketing agencies use?',
-        answer: 'Client Intelligence is purpose-built for performance agencies managing multiple client accounts. It centralizes your paid media methodology and gives each client a fully isolated workspace  -  strategy, creative briefs, and campaign history never bleed between accounts.',
+        answer: 'Client Intelligence is purpose-built for performance agencies managing multiple client accounts. It centralizes your paid media methodology in the Brain and gives each client a fully isolated Workspace. Strategy, creative briefs, and campaign history never bleed between accounts.',
       },
       {
         question: 'How do performance agencies keep client ad data separate in AI?',
-        answer: 'Client Intelligence creates a fully isolated workspace per client. Their campaign history, creative strategy, audience insights, and performance data are stored separately and never accessible from another client\'s workspace.',
+        answer: 'Client Intelligence creates a fully isolated Workspace per client. Their campaign history, creative strategy, audience insights, and performance data are stored separately and never accessible from another client\'s Workspace.',
       },
       {
         question: 'Can I scale a performance marketing agency with AI?',
-        answer: 'Yes. Encode your performance methodology in Client Intelligence and deploy it across every client engagement automatically. Most agencies using the platform increase their client capacity by 40-60% without additional account managers.',
+        answer: 'Yes. Encode your performance methodology in the Account Brain using Brain Dump mode and deploy it across every client engagement automatically. Per-client Workspaces ensure the context stays separate. The Brain ensures the methodology stays consistent.',
       },
       {
         question: 'What is the best AI for agencies managing multiple ad accounts?',
@@ -390,21 +390,21 @@ export const personas: PersonaPage[] = [
     label: 'AI Consultants',
     pain: 'building client-specific AI systems while managing your own proprietary implementation methodology',
     outcome: 'Use your AI consulting frameworks to deliver better systems to every client, faster',
-    metaDescription: 'Client Intelligence for AI Consultants  -  centralize your AI implementation methodology and apply it to every client through isolated workspaces. Built for the people who build AI for others.',
+    metaDescription: 'Client Intelligence for AI Consultants. Centralize your AI implementation methodology in the Brain and apply it to every client through isolated Workspaces. Built for the people who build AI for others.',
     scenarios: [
       {
         title: 'Running five AI implementation projects simultaneously',
-        story: 'An AI consultant managing five client implementations uses Client Intelligence to keep each project\'s architecture decisions, vendor evaluations, and implementation notes completely isolated while applying a consistent methodology across all five.',
+        story: 'An AI consultant managing five client implementations uses Client Intelligence to keep each project\'s architecture decisions, vendor evaluations, and implementation notes completely isolated in separate Workspaces, while applying a consistent methodology from the Account Brain across all five.',
         result: 'Five projects. One methodology. Zero overlap.',
       },
       {
         title: 'Encoding an AI readiness framework',
-        story: 'The consultant\'s AI readiness assessment framework is encoded in the Account Brain. Every new client engagement starts with that framework applied to their specific tech stack, team, and business model  -  automatically.',
+        story: 'The consultant\'s AI readiness assessment framework is encoded in the Account Brain using Brain Dump mode. Every new client engagement starts with that framework applied to their specific tech stack, team, and business model, automatically, through their isolated Workspace.',
         result: 'Assessment delivery time cut from 2 weeks to 2 days.',
       },
       {
         title: 'Building AI systems faster using AI',
-        story: 'The consultant uses Client Intelligence to maintain implementation documentation, decision logs, and architecture notes per client  -  all in isolated workspaces. The AI generates first drafts of client-specific documentation from the encoded methodology.',
+        story: 'The consultant uses Client Intelligence to maintain implementation documentation, decision logs, and architecture notes per client in isolated Workspaces. The AI generates first drafts of client-specific documentation from the encoded methodology in the Brain.',
         result: 'Documentation overhead reduced by 60%.',
       },
     ],
@@ -422,19 +422,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What AI tools do AI consultants use for their own practice?',
-        answer: 'Client Intelligence is built for AI consultants who implement AI for client businesses. It centralizes your implementation methodology and gives every client project a fully isolated workspace  -  so your frameworks stay consistent and client data stays confidential.',
+        answer: 'Client Intelligence is built for AI consultants who implement AI for client businesses. It centralizes your implementation methodology in the Brain and gives every client project a fully isolated Workspace. Your Frameworks stay consistent. Client data stays confidential.',
       },
       {
         question: 'How do AI consultants manage multiple client AI implementations?',
-        answer: 'Client Intelligence creates isolated workspaces per client engagement. Architecture decisions, vendor evaluations, implementation notes, and project history are kept completely separate  -  while your methodology applies consistently across all projects.',
+        answer: 'Client Intelligence creates isolated Workspaces per client engagement. Architecture decisions, vendor evaluations, implementation notes, and project history are kept completely separate, while your methodology applies consistently across all projects via the Account Brain.',
       },
       {
         question: 'Can an AI consultant train AI on their own implementation framework?',
-        answer: 'Yes, and this is the core use case. Client Intelligence is designed to be trained on your proprietary AI implementation methodology. Encode your assessment framework, deployment process, and best practices  -  the AI applies them to every new client engagement.',
+        answer: 'Yes, and this is the core use case. Client Intelligence is designed to be trained on your proprietary AI implementation methodology. Encode your assessment framework, deployment process, and best practices using Brain Dump mode. The AI applies them to every new client engagement.',
       },
       {
         question: 'What is the best platform for scaling an AI consulting practice?',
-        answer: 'Client Intelligence is purpose-built for this. It is the only platform that gives AI consultants a centralized methodology brain plus fully isolated Workspaces  -  the exact architecture needed to scale implementation work without risk or context rebuilding.',
+        answer: 'Client Intelligence is purpose-built for this. It is the only platform that gives AI consultants a centralized methodology Brain plus fully isolated Workspaces. That is the exact architecture needed to scale implementation work without risk or context rebuilding.',
       },
     ],
   },
@@ -443,22 +443,22 @@ export const personas: PersonaPage[] = [
     label: 'Online Business Coaches',
     pain: 'delivering bespoke coaching that feels personal even at scale',
     outcome: 'Apply your coaching methodology to every client with per-client memory',
-    metaDescription: 'Client Intelligence for Online Business Coaches  -  per-client AI memory and isolated workspaces so every client gets personalized coaching powered by your methodology.',
+    metaDescription: 'Client Intelligence for Online Business Coaches. Per-client Workspaces and isolated memory so every client gets personalized coaching powered by your methodology.',
     scenarios: [
       {
         title: 'Coaching 30 clients with individual attention',
-        story: 'An online business coach uses Client Intelligence to maintain a complete memory of every client\'s goals, progress, blockers, and breakthroughs in an isolated workspace. Before each session, the AI surfaces what matters most for that client right now.',
+        story: 'An online business coach uses Client Intelligence to maintain a complete memory of every client\'s goals, progress, blockers, and breakthroughs in isolated Workspaces. Facts are auto-extracted from session transcripts. Before each session, the AI surfaces what matters most for that client right now.',
         result: '30 clients, all feeling like the only one.',
       },
       {
         title: 'Applying a coaching methodology consistently at scale',
-        story: 'The coach\'s signature business framework is encoded in the Account Brain. Every client workspace inherits it  -  the AI applies the methodology to each client\'s unique situation, stage, and goals.',
+        story: 'The coach\'s signature business framework is encoded in the Account Brain using Brain Dump mode. Every client Workspace inherits it. The AI applies the methodology to each client\'s unique situation, stage, and goals.',
         result: 'Consistent methodology. Personalized application.',
       },
       {
         title: 'Ending the note-taking grind',
-        story: 'After each coaching session, the coach uploads the transcript. The AI extracts key decisions, action items, and framework applications into the client\'s isolated memory  -  ready for the next session automatically.',
-        result: 'Zero note-taking, complete continuity between sessions.',
+        story: 'After each coaching session, the coach uploads the transcript. The AI extracts key decisions, action items, and framework applications as Facts into the client\'s isolated Workspace, ready for the next session automatically.',
+        result: 'Zero note-taking. Complete continuity between sessions.',
       },
     ],
     forYou: [
@@ -475,19 +475,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What AI tools should online business coaches use?',
-        answer: 'Client Intelligence is built for coaches who need per-client memory and methodology application at scale. Unlike generic AI tools, it remembers every client individually in an isolated workspace and applies your coaching framework to their specific situation.',
+        answer: 'Client Intelligence is built for coaches who need per-client memory and methodology application at scale. Unlike generic AI tools, it remembers every client individually in an isolated Workspace, auto-extracts Facts from sessions, and applies your coaching framework to their specific situation.',
       },
       {
         question: 'How do online coaches use AI without losing the personal touch?',
-        answer: 'Client Intelligence gives every client their own isolated memory  -  goals, history, breakthroughs, blockers, and context. The AI uses that memory to surface what matters for each client in every session, making scale feel personal.',
+        answer: 'Client Intelligence gives every client their own isolated Workspace with persistent memory, goals, history, breakthroughs, blockers, and context stored as Facts. The AI uses that memory to surface what matters for each client in every session, making scale feel personal.',
       },
       {
         question: 'Can I encode my coaching methodology into an AI?',
-        answer: 'Yes. Client Intelligence is designed to be trained on your proprietary coaching framework. Encode your methodology once  -  it applies to every client engagement automatically through their isolated workspace.',
+        answer: 'Yes. Client Intelligence is designed to be trained on your proprietary coaching framework. Encode your methodology once using Brain Dump mode. It applies to every client engagement automatically through their isolated Workspace.',
       },
       {
         question: 'What is the best AI platform for scaling a coaching business?',
-        answer: 'Client Intelligence is the only platform built specifically for coaches who want to scale personalized delivery. Per-client memory, methodology training, and isolated workspaces are the core architecture  -  not add-ons.',
+        answer: 'Client Intelligence is the only platform built specifically for coaches who want to scale personalized delivery. Per-client memory, methodology training via the Account Brain, and isolated Workspaces are the core architecture, not add-ons.',
       },
     ],
   },
@@ -496,21 +496,21 @@ export const personas: PersonaPage[] = [
     label: 'Coaches with Named Methodologies',
     pain: 'getting your proprietary framework out of your head and into every client engagement',
     outcome: 'Encode your methodology once and apply it intelligently to every client',
-    metaDescription: 'Client Intelligence for coaches with named methodologies  -  move your proprietary framework from your head into an AI system that applies it to every client automatically.',
+    metaDescription: 'Client Intelligence for coaches with named methodologies. Move your proprietary framework from your head into the Brain so it applies to every client automatically.',
     scenarios: [
       {
         title: 'Encoding a named methodology in a day',
-        story: 'A coach with a proprietary 5-stage transformation framework uses Brain Dump mode to capture it completely  -  from the raw concepts in their head to a structured, AI-ready methodology in the Account Brain.',
+        story: 'A coach with a proprietary 5-stage transformation framework uses Brain Dump mode to capture it completely, from the raw concepts in their head to a structured, AI-ready methodology in the Account Brain. Voice or text, however the thinking currently exists.',
         result: 'Named methodology encoded and live in one day.',
       },
       {
         title: 'Applying the framework to every client situation',
-        story: 'Every new client workspace inherits the methodology automatically. The AI applies it to each client\'s specific circumstances  -  surfacing which stage they are at, what the next step is, and what blockers are relevant.',
+        story: 'Every new client Workspace inherits the methodology from the Brain automatically. The AI applies it to each client\'s specific circumstances, surfacing which stage they are at, what the next step is, and what blockers are relevant.',
         result: 'Framework applied consistently to every client, every session.',
       },
       {
         title: 'Scaling to a team without methodology drift',
-        story: 'The coach brings on a junior coach. Client Intelligence ensures the junior uses the same methodology  -  the Account Brain enforces consistency across all Workspaces.',
+        story: 'The coach brings on a junior coach. Client Intelligence ensures the junior uses the same methodology. The Account Brain enforces consistency across all Workspaces. The methodology is a firm asset, not in the founder\'s head.',
         result: 'Team scaled without methodology dilution.',
       },
     ],
@@ -528,19 +528,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'How do I turn my coaching framework into an AI system?',
-        answer: 'Client Intelligence uses Brain Dump mode to capture your methodology in any form  -  notes, documents, or verbal description. It structures that IP into your Account Brain, which then applies your framework to every client engagement automatically.',
+        answer: 'Client Intelligence uses Brain Dump mode to capture your methodology in any form, notes, documents, or verbal description. It structures that IP into your Account Brain, which then applies your framework to every client engagement automatically through isolated Workspaces.',
       },
       {
         question: 'What is the best way to productize a coaching methodology with AI?',
-        answer: 'Encode it in Client Intelligence. Your methodology becomes the brain that powers every client engagement  -  applied intelligently to each client\'s unique situation through their isolated workspace.',
+        answer: 'Encode it in Client Intelligence. Your methodology becomes the Brain that powers every client engagement, applied intelligently to each client\'s unique situation through their isolated Workspace.',
       },
       {
         question: 'How do coaches with named methodologies use AI without losing the framework?',
-        answer: 'Client Intelligence is trained on your framework, not generic best practices. Your methodology is the foundation  -  the AI applies it consistently to every client, at every stage, in every session.',
+        answer: 'Client Intelligence is trained on your framework, not generic best practices. Your methodology is the foundation. The AI applies it consistently to every client, at every stage, in every session.',
       },
       {
         question: 'Can I scale my coaching methodology without hiring coaches?',
-        answer: 'Yes. Client Intelligence applies your methodology to every client engagement automatically. You can serve significantly more clients without additional hires because the AI handles framework application, context memory, and between-session continuity.',
+        answer: 'Yes. Client Intelligence applies your methodology to every client engagement automatically. You can serve significantly more clients without additional hires because the AI handles framework application, context memory via Facts, and between-session continuity.',
       },
     ],
   },
@@ -548,22 +548,22 @@ export const personas: PersonaPage[] = [
     slug: 'executive-coaches',
     label: 'Executive Coaches',
     pain: 'maintaining client confidentiality while delivering a consistent coaching framework',
-    outcome: 'Isolated client memory, consistent methodology  -  the executive coaching AI platform',
-    metaDescription: 'Client Intelligence for Executive Coaches  -  per-client isolated AI memory and confidential workspaces for every engagement. Your methodology applied consistently, in complete privacy.',
+    outcome: 'Isolated client memory, consistent methodology. The executive coaching AI platform.',
+    metaDescription: 'Client Intelligence for Executive Coaches. Per-client isolated Workspaces and confidential memory for every engagement. Your methodology applied consistently, in complete privacy.',
     scenarios: [
       {
         title: 'Complete confidentiality across a full executive coaching roster',
-        story: 'An executive coach with 15 C-suite clients uses Client Intelligence to maintain every client\'s goals, leadership challenges, and development history in a fully isolated workspace. No client\'s context is ever accessible from another\'s workspace.',
+        story: 'An executive coach with 15 C-suite clients uses Client Intelligence to maintain every client\'s goals, leadership challenges, and development history in a fully isolated Workspace. No client\'s context is ever accessible from another\'s Workspace. This is structural, not a setting.',
         result: '15 C-suite engagements. Complete confidentiality. Zero breach risk.',
       },
       {
         title: 'Applying an executive development framework consistently',
-        story: 'The coach\'s proprietary leadership development framework is encoded in the Account Brain. Each executive gets a workspace where the AI applies that framework to their specific leadership challenges, team dynamics, and development stage.',
+        story: 'The coach\'s proprietary leadership development framework is encoded in the Account Brain. Each executive gets a Workspace where the AI applies that framework to their specific leadership challenges, team dynamics, and development stage.',
         result: 'Framework-driven coaching delivered consistently at scale.',
       },
       {
         title: 'Pre-session briefs in 5 minutes',
-        story: 'Before each coaching session, the AI generates a brief from the client\'s isolated memory: last session outcomes, development progress, open items, and framework recommendations specific to that executive.',
+        story: 'Before each coaching session, the AI generates a brief from the client\'s isolated Workspace: last session outcomes, development progress, open items, and framework recommendations specific to that executive.',
         result: 'Fully prepared for every session in 5 minutes, not 45.',
       },
     ],
@@ -575,25 +575,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You run group leadership programs, not individual coaching',
-      'You have no proprietary framework  -  you work from generic coaching models',
+      'You have no proprietary framework and work from generic coaching models',
       'You need a video platform or scheduling tool',
     ],
     faqs: [
       {
         question: 'What AI tools do executive coaches use?',
-        answer: 'Client Intelligence is purpose-built for executive coaches who need complete client confidentiality and a consistent coaching framework. Every client has an isolated workspace  -  their development history, session notes, and strategic context are never accessible from another client\'s workspace.',
+        answer: 'Client Intelligence is purpose-built for executive coaches who need complete client confidentiality and a consistent coaching framework. Every client has an isolated Workspace. Their development history, session notes, and strategic context are never accessible from another client\'s Workspace.',
       },
       {
         question: 'How do executive coaches maintain client confidentiality when using AI?',
-        answer: 'Client Intelligence creates a fully isolated workspace per client  -  not just a different chat thread, but true data isolation at the architecture level. One client\'s data cannot be accessed, surfaced, or referenced in any other workspace.',
+        answer: 'Client Intelligence creates a fully isolated Workspace per client. Not just a different chat thread, but true data isolation at the architecture level. One client\'s data cannot be accessed, surfaced, or referenced in any other Workspace.',
       },
       {
         question: 'Can I apply my executive coaching framework at scale with AI?',
-        answer: 'Yes. Encode your framework in Client Intelligence and it applies consistently to every executive engagement  -  surfacing the right development questions, tracking progress against your model, and maintaining context between sessions.',
+        answer: 'Yes. Encode your framework in Client Intelligence using Brain Dump mode and it applies consistently to every executive engagement, surfacing the right development questions, tracking progress against your model, and maintaining context between sessions.',
       },
       {
         question: 'What is the best AI platform for executive coaches?',
-        answer: 'Client Intelligence is the only platform built for executive coaches who need both confidentiality and methodology consistency. Per-client isolation at the architecture level  -  not just a privacy setting  -  and your framework trained into the system.',
+        answer: 'Client Intelligence is the only platform built for executive coaches who need both confidentiality and methodology consistency. Per-client isolation at the architecture level, not just a privacy setting, and your framework trained into the Brain.',
       },
     ],
   },
@@ -601,22 +601,22 @@ export const personas: PersonaPage[] = [
     slug: 'solopreneur-consultants',
     label: 'Solopreneur Consultants',
     pain: 'being the bottleneck in every client engagement when you are the only person',
-    outcome: 'Scale your solo practice without hiring  -  your AI does the heavy lifting',
-    metaDescription: 'Client Intelligence for Solopreneur Consultants  -  remove yourself as the bottleneck and scale your solo practice using AI trained on your own methodology.',
+    outcome: 'Scale your solo practice without hiring. Your AI does the heavy lifting.',
+    metaDescription: 'Client Intelligence for Solopreneur Consultants. Remove yourself as the bottleneck and scale your solo practice using AI trained on your own methodology.',
     scenarios: [
       {
         title: 'Running eight clients solo',
-        story: 'A solopreneur consultant runs eight active client engagements simultaneously. Client Intelligence maintains the full context of every engagement in isolated workspaces  -  the consultant shows up to each client fully prepared without spending hours reviewing notes.',
+        story: 'A solopreneur consultant runs eight active client engagements simultaneously. Client Intelligence maintains the full context of every engagement in isolated Workspaces. Facts are auto-extracted from every session. The consultant shows up to each client fully prepared without spending hours reviewing notes.',
         result: 'Eight clients, one person, zero overwhelm.',
       },
       {
         title: 'Breaking the time-for-money ceiling',
-        story: 'By encoding their consulting methodology in Client Intelligence, the solopreneur removes themselves from routine analysis and documentation work. The AI handles first drafts, diagnostics, and between-session continuity.',
+        story: 'By encoding their consulting methodology in the Account Brain using Brain Dump mode, the solopreneur removes themselves from routine analysis and documentation work. The AI handles first drafts, diagnostics, and between-session continuity in each client\'s Workspace.',
         result: 'Revenue doubled without additional hours worked.',
       },
       {
         title: 'Cloning your best thinking',
-        story: 'Everything the consultant knows  -  frameworks, heuristics, diagnostic questions, decision trees  -  is encoded in Brain Dump mode. The AI applies it to every client engagement as if the consultant themselves were present.',
+        story: 'Everything the consultant knows, Frameworks, heuristics, diagnostic questions, decision trees, is encoded using Brain Dump mode. The AI applies it to every client engagement through isolated Workspaces, as if the consultant themselves were present.',
         result: 'Your best thinking, applied to every client automatically.',
       },
     ],
@@ -628,25 +628,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You have a team and are looking for team collaboration tools',
-      'You have no proprietary methodology  -  you provide generic advice',
+      'You have no proprietary methodology and provide generic advice',
       'You need project management or client portal software',
     ],
     faqs: [
       {
         question: 'How do solopreneur consultants scale without hiring?',
-        answer: 'Client Intelligence is the apply tool for solo practitioners. Encode your methodology once, maintain full context for every client in isolated workspaces, and let the AI handle diagnostic, documentation, and prep work  -  you focus on high-value advisory only you can deliver.',
+        answer: 'Client Intelligence is the apply tool for solo practitioners. Encode your methodology in the Brain once, maintain full context for every client in isolated Workspaces, and let the AI handle diagnostic, documentation, and prep work. You focus on high-value advisory only you can deliver.',
       },
       {
         question: 'What is the best AI for solo consultants managing multiple clients?',
-        answer: 'Client Intelligence is purpose-built for this. It gives every client an isolated workspace with full memory, applies your methodology consistently, and removes you from the repetitive work that creates bottlenecks in a solo practice.',
+        answer: 'Client Intelligence is purpose-built for this. It gives every client an isolated Workspace with full memory via Facts, applies your methodology consistently via the Account Brain, and removes you from the repetitive work that creates bottlenecks in a solo practice.',
       },
       {
         question: 'How do I stop being the bottleneck in my consulting business?',
-        answer: 'The bottleneck exists because your expertise only delivers at the speed you can personally apply it. Client Intelligence encodes that expertise and applies it to every client engagement simultaneously  -  removing the time constraint on your methodology.',
+        answer: 'The bottleneck exists because your expertise only delivers at the speed you can personally apply it. Client Intelligence encodes that expertise in the Brain and applies it to every client engagement simultaneously through isolated Workspaces, removing the time constraint on your methodology.',
       },
       {
         question: 'Can AI replace the need to hire in a solo consulting practice?',
-        answer: 'For most solopreneur consultants, Client Intelligence extends their effective capacity by 2-3× before hiring becomes necessary. It handles the framework application, context maintenance, and documentation work that typically requires additional staff.',
+        answer: 'For most solopreneur consultants, Client Intelligence extends their effective capacity significantly before hiring becomes necessary. It handles the framework application, context maintenance via Facts, and documentation work that typically requires additional staff.',
       },
     ],
   },
@@ -655,21 +655,21 @@ export const personas: PersonaPage[] = [
     label: 'Boutique Consulting Firms',
     pain: 'maintaining IP consistency across a small team serving multiple clients',
     outcome: 'Centralize your firm\'s IP and apply it intelligently to every engagement',
-    metaDescription: 'Client Intelligence for Boutique Consulting Firms  -  centralize your firm\'s proprietary IP and ensure consistent methodology delivery across every team member and every client.',
+    metaDescription: 'Client Intelligence for Boutique Consulting Firms. Centralize your firm\'s proprietary IP in the Brain and ensure consistent methodology delivery across every team member and every client.',
     scenarios: [
       {
         title: 'Ensuring every team member applies the firm\'s methodology',
-        story: 'A boutique firm with three consultants uses Client Intelligence as the central IP layer. Every team member accesses the same Account Brain  -  ensuring the firm\'s methodology is applied consistently across all client engagements, regardless of who is leading.',
+        story: 'A boutique firm with three consultants uses Client Intelligence as the central IP layer. Every team member accesses the same Account Brain. The firm\'s methodology is applied consistently across all client engagements, regardless of who is leading. No dilution. No drift.',
         result: 'Consistent methodology across all consultants. No dilution.',
       },
       {
         title: 'Scaling client capacity without growing the team',
-        story: 'The firm takes on four additional clients without hiring. Client Intelligence gives each new client an isolated workspace that inherits the firm\'s methodology  -  team members access client context instantly without rebuilding.',
+        story: 'The firm takes on four additional clients without hiring. Client Intelligence gives each new client an isolated Workspace that inherits the firm\'s methodology from the Brain. Team members access client context instantly without rebuilding.',
         result: 'Four new clients, no new hires.',
       },
       {
         title: 'Protecting IP when team members leave',
-        story: 'Client Intelligence is the firm\'s central IP store. When a senior consultant departs, the methodology, frameworks, and client work history remain in the Account Brain  -  accessible to the remaining team, not in someone\'s personal notes.',
+        story: 'Client Intelligence is the firm\'s central IP store. When a senior consultant departs, the methodology, Frameworks, and client work history remain in the Account Brain, accessible to the remaining team, not locked in someone\'s personal notes.',
         result: 'IP stays with the firm, not with individual consultants.',
       },
     ],
@@ -687,19 +687,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'How do boutique consulting firms use AI for client delivery?',
-        answer: 'Client Intelligence acts as the firm\'s central methodology layer  -  all proprietary frameworks and IP stored in one Account Brain, with each client having a fully isolated workspace. Every team member applies the same methodology consistently, regardless of who is leading the engagement.',
+        answer: 'Client Intelligence acts as the firm\'s central methodology layer. All proprietary Frameworks and IP stored in one Account Brain. Each client has a fully isolated Workspace. Every team member applies the same methodology consistently, regardless of who is leading the engagement.',
       },
       {
         question: 'How do consulting firms protect their IP when scaling?',
-        answer: 'Client Intelligence centralizes IP in the Account Brain  -  not in individual consultants\' heads or personal documents. Methodology, frameworks, and client work history are firm assets, accessible to authorized team members and protected when staff changes occur.',
+        answer: 'Client Intelligence centralizes IP in the Account Brain, not in individual consultants\' heads or personal documents. Methodology, Frameworks, and client work history are firm assets, accessible to authorized team members and protected when staff changes occur.',
       },
       {
         question: 'What is the best AI platform for boutique consulting firms?',
-        answer: 'Client Intelligence is built for sub-$5M service businesses. It gives boutique firms a centralized IP and methodology layer with per-client isolated workspaces  -  enterprise-grade architecture at operator-level pricing.',
+        answer: 'Client Intelligence is built for service businesses in the $500K to $3M range. It gives boutique firms a centralized IP and methodology layer with per-client isolated Workspaces, the architecture large firms pay enterprise prices for, at operator pricing.',
       },
       {
         question: 'Can AI help a small consulting firm compete with larger firms?',
-        answer: 'Yes. Client Intelligence gives boutique firms the same apply that large firms get from institutional knowledge systems  -  centralized IP, consistent methodology delivery, and per-client intelligence  -  without the enterprise budget.',
+        answer: 'Yes. Client Intelligence gives boutique firms the same methodology consistency, per-client intelligence, and delivery apply that large firms get from institutional knowledge systems, centralized IP, consistent delivery, and per-client intelligence, without the enterprise budget.',
       },
     ],
   },
@@ -708,21 +708,21 @@ export const personas: PersonaPage[] = [
     label: 'Demand Generation Consultants',
     pain: 'scaling demand gen work across multiple clients with distinct strategies',
     outcome: 'Your demand gen methodology, applied to every client with full context isolation',
-    metaDescription: 'Client Intelligence for Demand Generation Consultants  -  apply your demand gen framework across every client with isolated workspaces and zero strategy bleed.',
+    metaDescription: 'Client Intelligence for Demand Generation Consultants. Apply your demand gen framework across every client with isolated Workspaces and zero strategy bleed.',
     scenarios: [
       {
         title: 'Running seven demand gen programs simultaneously',
-        story: 'A demand gen consultant manages seven active programs. Client Intelligence isolates each client\'s ICP definitions, campaign history, and funnel architecture in separate workspaces  -  strategies never bleed between clients, even in competitive markets.',
+        story: 'A demand gen consultant manages seven active programs. Client Intelligence isolates each client\'s ICP definitions, campaign history, and funnel architecture in separate Workspaces. Strategies never bleed between clients, even in competitive markets. The Brain holds the methodology.',
         result: 'Seven programs. Zero strategy contamination.',
       },
       {
         title: 'Applying a demand gen framework to every new client',
-        story: 'The consultant\'s proprietary demand generation framework  -  from ICP development to dark funnel activation  -  is encoded in the Account Brain. Every new client engagement inherits it and applies it to their specific market.',
+        story: 'The consultant\'s proprietary demand generation framework, from ICP development to dark funnel activation, is encoded in the Account Brain using Brain Dump mode. Every new client engagement inherits it and applies it to their specific market through their isolated Workspace.',
         result: 'Faster client starts, consistent strategic quality.',
       },
       {
         title: 'Pre-campaign briefs generated automatically',
-        story: 'Before each quarterly planning session, the AI generates a demand gen brief from the client\'s isolated workspace: prior campaign performance, framework gaps, ICP evolution, and channel recommendations.',
+        story: 'Before each quarterly planning session, the AI generates a demand gen brief from the client\'s isolated Workspace: prior campaign performance, framework gaps, ICP evolution, and channel recommendations. Planning sessions start with insight.',
         result: 'Planning sessions now start with insight, not setup.',
       },
     ],
@@ -734,25 +734,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You manage demand gen in-house for one company',
-      'You have no systematic methodology  -  you run different strategies for every client without a framework',
+      'You have no systematic methodology and run different strategies for every client without a framework',
       'You need a marketing automation platform or CRM',
     ],
     faqs: [
       {
         question: 'What AI tools do demand generation consultants use?',
-        answer: 'Client Intelligence is purpose-built for demand gen consultants managing multiple client programs. It centralizes your demand generation methodology and applies it to every client through isolated workspaces  -  ICP definitions, campaign histories, and strategies never bleed between accounts.',
+        answer: 'Client Intelligence is purpose-built for demand gen consultants managing multiple client programs. It centralizes your demand generation methodology in the Brain and applies it to every client through isolated Workspaces. ICP definitions, campaign histories, and strategies never bleed between accounts.',
       },
       {
         question: 'How do demand gen consultants keep client strategies separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. ICP definitions, campaign data, dark funnel insights, and go-to-market strategy are stored separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. ICP definitions, campaign data, dark funnel insights, and go-to-market strategy are stored separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can I encode my demand generation framework into an AI system?',
-        answer: 'Yes. Client Intelligence is designed for this. Encode your ICP development process, demand activation framework, and campaign methodology  -  the AI applies it to every client engagement automatically.',
+        answer: 'Yes. Client Intelligence is designed for this. Encode your ICP development process, demand activation framework, and campaign methodology using Brain Dump mode. The AI applies it to every client engagement automatically through their isolated Workspace.',
       },
       {
         question: 'How do demand gen consultants scale without hiring analysts?',
-        answer: 'By encoding your diagnostic and planning methodology in Client Intelligence, the AI handles initial analysis, brief generation, and between-session context maintenance. You scale client capacity without scaling your analyst headcount.',
+        answer: 'By encoding your diagnostic and planning methodology in the Account Brain, the AI handles initial analysis, brief generation, and between-session context maintenance in each client\'s Workspace. You scale client capacity without scaling your analyst headcount.',
       },
     ],
   },
@@ -760,22 +760,22 @@ export const personas: PersonaPage[] = [
     slug: 'fractional-cmo',
     label: 'Fractional CMOs',
     pain: 'context-switching between multiple companies while staying strategic for each',
-    outcome: 'Separate AI workspace per client so you never mix context or strategy',
-    metaDescription: 'Client Intelligence for Fractional CMOs  -  per-client isolated AI workspaces so you context-switch instantly and stay fully strategic for every company you serve.',
+    outcome: 'Separate AI Workspace per client so you never mix context or strategy',
+    metaDescription: 'Client Intelligence for Fractional CMOs. Per-client isolated Workspaces so you context-switch instantly and stay fully strategic for every company you serve.',
     scenarios: [
       {
         title: 'Serving five companies as a fractional CMO',
-        story: 'A fractional CMO serves five companies. Each has a fully isolated workspace in Client Intelligence  -  marketing strategy, brand positioning, campaign history, and team context are completely separate. Context-switching between companies takes seconds.',
+        story: 'A fractional CMO serves five companies. Each has a fully isolated Workspace in Client Intelligence. Marketing strategy, brand positioning, campaign history, and team context are completely separate. Context-switching between companies takes seconds because the Facts and history are already there.',
         result: 'Five companies. One CMO. Zero confusion.',
       },
       {
         title: 'Arriving fully prepared for every leadership meeting',
-        story: 'Before each board or marketing review, the AI surfaces the company\'s last quarter outcomes, open strategic decisions, and marketing framework gaps from the isolated workspace. The CMO arrives with strategic insight every time.',
+        story: 'Before each board or marketing review, the AI surfaces the company\'s last quarter outcomes, open strategic decisions, and marketing framework gaps from the isolated Workspace. The CMO arrives with strategic insight every time, without an hour of note review.',
         result: 'Board-ready in 10 minutes for every company.',
       },
       {
         title: 'Applying a marketing strategy framework consistently',
-        story: 'The fractional CMO\'s proprietary marketing strategy framework is encoded in the Account Brain. Every company workspace inherits it  -  applied to their specific market, stage, and competitive position automatically.',
+        story: 'The fractional CMO\'s proprietary marketing strategy framework is encoded in the Account Brain using Brain Dump mode. Every company Workspace inherits it, applied to their specific market, stage, and competitive position automatically.',
         result: 'Strategic consistency across all companies served.',
       },
     ],
@@ -793,19 +793,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What AI tools do fractional CMOs use?',
-        answer: 'Client Intelligence is designed for fractional CMOs managing multiple companies simultaneously. It gives every company a fully isolated workspace  -  strategy, brand positioning, and campaign history never bleed between clients.',
+        answer: 'Client Intelligence is designed for fractional CMOs managing multiple companies simultaneously. It gives every company a fully isolated Workspace. Strategy, brand positioning, and campaign history never bleed between clients.',
       },
       {
         question: 'How do fractional executives manage multiple companies with AI?',
-        answer: 'Client Intelligence eliminates context-switching friction. Each company has an isolated workspace with complete memory  -  the AI surfaces what matters for each company before every interaction, so you arrive prepared without spending an hour reviewing notes.',
+        answer: 'Client Intelligence eliminates context-switching friction. Each company has an isolated Workspace with complete memory via Facts. The AI surfaces what matters for each company before every interaction, so you arrive prepared without spending an hour reviewing notes.',
       },
       {
         question: 'Can fractional CMOs use AI without risking client confidentiality?',
-        answer: 'Yes, with Client Intelligence. Per-client isolation is the core architecture  -  every company\'s strategy, data, and context is completely inaccessible from any other company\'s workspace.',
+        answer: 'Yes, with Client Intelligence. Per-client isolation is the core architecture. Every company\'s strategy, data, and context is completely inaccessible from any other company\'s Workspace.',
       },
       {
         question: 'What is Intelligence as a Service for fractional CMOs?',
-        answer: 'Intelligence as a Service means your marketing strategy framework is encoded into an AI that delivers that intelligence to each company you serve, individually and at scale  -  so you can serve more companies with the same strategic depth.',
+        answer: 'Intelligence as a Service means your marketing strategy framework is encoded into an AI that delivers that intelligence to each company you serve, individually and at scale. You can serve more companies with the same strategic depth because the Brain holds the methodology.',
       },
     ],
   },
@@ -814,21 +814,21 @@ export const personas: PersonaPage[] = [
     label: 'CRO Consultants',
     pain: 'applying CRO frameworks consistently while keeping client data isolated',
     outcome: 'Your CRO methodology across every client, with zero data contamination',
-    metaDescription: 'Client Intelligence for CRO Consultants  -  apply your conversion rate optimization framework to every client through isolated workspaces. No data bleed between engagements.',
+    metaDescription: 'Client Intelligence for CRO Consultants. Apply your conversion rate optimization framework to every client through isolated Workspaces. No data bleed between engagements.',
     scenarios: [
       {
         title: 'Running eight CRO engagements in parallel',
-        story: 'A CRO consultant manages eight active clients. Each client\'s test history, hypotheses, conversion framework applications, and analytics context are in a fully isolated workspace. No test data or strategy ever crosses between clients.',
+        story: 'A CRO consultant manages eight active clients. Each client\'s test history, hypotheses, conversion framework applications, and analytics context are in a fully isolated Workspace. No test data or strategy ever crosses between clients. The Brain holds the methodology.',
         result: 'Eight CRO clients. Complete data isolation. Consistent methodology.',
       },
       {
         title: 'Applying a CRO diagnostic framework to every new client',
-        story: 'The consultant\'s proprietary CRO audit framework is encoded in the Account Brain. Every new client engagement starts with that framework applied to their specific funnel, traffic, and conversion data.',
+        story: 'The consultant\'s proprietary CRO audit framework is encoded in the Account Brain using Brain Dump mode. Every new client engagement starts with that framework applied to their specific funnel, traffic, and conversion data in their isolated Workspace.',
         result: 'CRO audit delivered in days, not weeks.',
       },
       {
         title: 'Generating test roadmaps automatically',
-        story: 'From each client\'s isolated workspace  -  including uploaded analytics data, session recordings, and previous test results  -  the AI drafts a prioritized test roadmap using the consultant\'s framework.',
+        story: 'From each client\'s isolated Workspace, including uploaded analytics data, session recordings, and previous test results, the AI drafts a prioritized test roadmap using the consultant\'s framework from the Brain.',
         result: 'Test roadmap generation reduced from 3 days to 3 hours.',
       },
     ],
@@ -846,19 +846,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What AI tools do CRO consultants use?',
-        answer: 'Client Intelligence is built for CRO consultants managing multiple client engagements. It centralizes your conversion optimization methodology and gives every client a fully isolated workspace  -  test histories, analytics context, and conversion strategies never bleed between clients.',
+        answer: 'Client Intelligence is built for CRO consultants managing multiple client engagements. It centralizes your conversion optimization methodology in the Brain and gives every client a fully isolated Workspace. Test histories, analytics context, and conversion strategies never bleed between clients.',
       },
       {
         question: 'How do CRO consultants keep client test data separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Test hypotheses, experiment logs, analytics data, and conversion frameworks are stored completely separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Test hypotheses, experiment logs, analytics data, and conversion frameworks are stored completely separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can I encode my CRO audit methodology into an AI?',
-        answer: 'Yes. Client Intelligence is designed for this exact use case. Encode your audit framework and prioritization methodology  -  the AI applies it to every new client\'s funnel data, surfaces gaps, and drafts roadmaps automatically.',
+        answer: 'Yes. Client Intelligence is designed for this exact use case. Encode your audit framework and prioritization methodology using Brain Dump mode. The AI applies it to every new client\'s funnel data, surfaces gaps, and drafts roadmaps automatically.',
       },
       {
         question: 'How do CRO consultants scale their practice with AI?',
-        answer: 'By encoding your diagnostic and roadmapping methodology, Client Intelligence handles the analytical groundwork for each new client engagement. You scale the number of active CRO programs without scaling your personal time investment proportionally.',
+        answer: 'By encoding your diagnostic and roadmapping methodology in the Account Brain, Client Intelligence handles the analytical groundwork for each new client engagement. You scale the number of active CRO programs without scaling your personal time investment proportionally.',
       },
     ],
   },
@@ -866,22 +866,22 @@ export const personas: PersonaPage[] = [
     slug: 'revenue-strategists',
     label: 'Revenue Strategists',
     pain: 'losing context between client meetings and rebuilding it every session',
-    outcome: 'Client Intelligence remembers everything  -  you show up with insights every time',
-    metaDescription: 'Client Intelligence for Revenue Strategists  -  per-client AI memory means you never lose context between sessions. Show up prepared with insights, every time.',
+    outcome: 'Client Intelligence remembers everything. You show up with insights every time.',
+    metaDescription: 'Client Intelligence for Revenue Strategists. Per-client memory means you never lose context between sessions. Show up prepared with insights, every time.',
     scenarios: [
       {
         title: 'Never losing context between client strategy sessions',
-        story: 'A revenue strategist with six active advisory clients uses Client Intelligence to store every session\'s outcomes, open decisions, and strategic hypotheses in isolated per-client memory. Before each session, the AI surfaces a complete context brief.',
+        story: 'A revenue strategist with six active advisory clients uses Client Intelligence to store every session\'s outcomes, open decisions, and strategic hypotheses in isolated per-client Workspaces. Facts are auto-extracted automatically. Before each session, the AI surfaces a complete context brief.',
         result: 'Walks into every session fully briefed. Every time.',
       },
       {
         title: 'Applying a revenue strategy framework across all clients',
-        story: 'The strategist\'s proprietary revenue framework is encoded in the Account Brain. Every client workspace applies it  -  identifying which revenue levers are most relevant to each client\'s specific stage, model, and constraints.',
+        story: 'The strategist\'s proprietary revenue framework is encoded in the Account Brain using Brain Dump mode. Every client Workspace applies it, identifying which revenue levers are most relevant to each client\'s specific stage, model, and constraints.',
         result: 'Framework-driven strategy for every client, automatically.',
       },
       {
         title: 'Preparing strategic recommendations between sessions',
-        story: 'Between client sessions, the AI analyzes updates from the client\'s workspace  -  new documents, transcripts, or context  -  and drafts strategic recommendations using the encoded framework.',
+        story: 'Between client sessions, the AI analyzes updates from the client\'s Workspace, new documents, transcripts, or context, and drafts strategic recommendations using the encoded framework from the Brain.',
         result: 'Between-session strategic work done without the strategist\'s manual effort.',
       },
     ],
@@ -899,19 +899,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'How do revenue strategists use AI for client advisory work?',
-        answer: 'Client Intelligence maintains complete per-client memory  -  every session outcome, open decision, and strategic hypothesis stored in an isolated workspace. The AI surfaces what matters before every client interaction so you arrive prepared with insight, not just notes.',
+        answer: 'Client Intelligence maintains complete per-client memory via Facts in isolated Workspaces. Every session outcome, open decision, and strategic hypothesis stored separately per client. The AI surfaces what matters before every client interaction so you arrive prepared with insight, not just notes.',
       },
       {
         question: 'What is the best AI for revenue advisors managing multiple clients?',
-        answer: 'Client Intelligence is purpose-built for multi-client advisory. It gives every client an isolated workspace with full memory, applies your revenue framework consistently, and eliminates the context rebuilding that slows down advisory practices.',
+        answer: 'Client Intelligence is purpose-built for multi-client advisory. It gives every client an isolated Workspace with full memory, applies your revenue framework consistently via the Account Brain, and eliminates the context rebuilding that slows down advisory practices.',
       },
       {
         question: 'How do revenue strategists stop losing context between client meetings?',
-        answer: 'Client Intelligence stores every session\'s context in isolated per-client memory automatically. Before each meeting, the AI generates a brief from that memory  -  open items, strategic progress, and framework-based recommendations  -  so context is never lost.',
+        answer: 'Client Intelligence stores every session\'s context in isolated per-client Workspaces automatically via Facts. Before each meeting, the AI generates a brief from that memory, open items, strategic progress, and framework-based recommendations, so context is never lost.',
       },
       {
         question: 'Can I apply my revenue framework to every client automatically?',
-        answer: 'Yes. Encode your framework in Client Intelligence and it applies to every client engagement through their isolated workspace  -  surfacing which levers are relevant to each client\'s specific stage and model, automatically.',
+        answer: 'Yes. Encode your framework in Client Intelligence using Brain Dump mode and it applies to every client engagement through their isolated Workspace, surfacing which levers are relevant to each client\'s specific stage and model, automatically.',
       },
     ],
   },
@@ -920,22 +920,22 @@ export const personas: PersonaPage[] = [
     label: 'Agency Owners',
     pain: 'removing yourself from delivery while maintaining the quality clients hired you for',
     outcome: 'Scale your agency\'s delivery without growing your team',
-    metaDescription: 'Client Intelligence for Agency Owners  -  remove yourself from delivery while maintaining quality. One methodology brain, applied to every client through isolated workspaces.',
+    metaDescription: 'Client Intelligence for Agency Owners. Remove yourself from delivery while maintaining quality. One methodology Brain, applied to every client through isolated Workspaces.',
     scenarios: [
       {
         title: 'Removing the founder from day-to-day delivery',
-        story: 'An agency owner encodes their entire service delivery methodology in Client Intelligence. The team accesses the Account Brain for every client engagement  -  methodology is applied consistently without the founder\'s direct involvement.',
+        story: 'An agency owner encodes their entire service delivery methodology in the Account Brain using Brain Dump mode. The team accesses the Brain for every client engagement. Methodology is applied consistently without the founder\'s direct involvement. Quality does not depend on the founder being present.',
         result: 'Founder removed from daily delivery. Quality maintained.',
       },
       {
         title: 'Onboarding new clients without touching the founder\'s calendar',
-        story: 'New client onboarding is powered by the encoded intake and diagnostic framework. The AI runs the initial analysis, generates the strategy brief, and populates the client workspace  -  the founder reviews and approves, not builds.',
+        story: 'New client onboarding is powered by the encoded intake and diagnostic framework in the Brain. The AI runs the initial analysis, generates the strategy brief, and populates the client Workspace. The founder reviews and approves, not builds from scratch.',
         result: 'New clients onboarded without founder bottleneck.',
       },
       {
         title: 'Scaling from 10 to 20 clients without new hires',
         story: 'The agency\'s delivery capacity doubles because Client Intelligence handles the framework-application work that previously required the founder or a senior team member to be present for every engagement.',
-        result: '2× clients. Same team. Same quality.',
+        result: '2x clients. Same team. Same quality.',
       },
     ],
     forYou: [
@@ -946,48 +946,48 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You are a freelancer without a team (see solopreneur page)',
-      'You have no systematic delivery methodology  -  every engagement is built differently',
+      'You have no systematic delivery methodology and every engagement is built differently',
       'You need a project management or client communication tool',
     ],
     faqs: [
       {
         question: 'How do agency owners remove themselves from client delivery?',
-        answer: 'Client Intelligence encodes your delivery methodology into an Account Brain that every team member and every client workspace can draw from. Consistent framework application means quality does not depend on your personal presence in every engagement.',
+        answer: 'Client Intelligence encodes your delivery methodology into an Account Brain that every team member and every client Workspace can draw from. Consistent framework application means quality does not depend on your personal presence in every engagement.',
       },
       {
         question: 'What AI tools do agency owners use to scale delivery?',
-        answer: 'Client Intelligence is the apply layer for agency owners. It centralizes your methodology, gives every client an isolated workspace, and applies your frameworks consistently  -  so delivery quality scales without adding headcount.',
+        answer: 'Client Intelligence is the apply layer for agency owners. It centralizes your methodology in the Brain, gives every client an isolated Workspace, and applies your Frameworks consistently. Delivery quality scales without adding headcount.',
       },
       {
         question: 'How do agencies maintain quality while scaling?',
-        answer: 'Quality at scale requires a system, not a person. Client Intelligence makes your methodology the system  -  encoded, accessible to every team member, and applied consistently to every client engagement through isolated workspaces.',
+        answer: 'Quality at scale requires a system, not a person. Client Intelligence makes your methodology the system. Encoded in the Brain, accessible to every team member, and applied consistently to every client engagement through isolated Workspaces.',
       },
       {
         question: 'Can an agency owner use AI to scale without hiring?',
-        answer: 'Yes. Client Intelligence extends effective delivery capacity by 2-3× for most agency owners before additional hiring becomes necessary. The AI handles diagnostic, documentation, and framework application work  -  freeing your team for high-value execution.',
+        answer: 'Yes. Client Intelligence extends effective delivery capacity for most agency owners before additional hiring becomes necessary. The AI handles diagnostic, documentation, and framework application work, freeing your team for high-value execution.',
       },
     ],
   },
   {
     slug: 'one-person-agencies',
     label: 'One-Person Agencies',
-    pain: 'doing everything alone  -  strategy, delivery, and operations for multiple clients',
+    pain: 'doing everything alone, strategy, delivery, and operations for multiple clients',
     outcome: 'Build a one-person agency that runs like a team using AI',
-    metaDescription: 'Client Intelligence for One-Person Agencies  -  the AI system that makes a solo operator run like a full agency. Your methodology applied to every client automatically.',
+    metaDescription: 'Client Intelligence for One-Person Agencies. The AI system that makes a solo operator run like a full agency. Your methodology applied to every client automatically.',
     scenarios: [
       {
         title: 'Running a six-figure agency solo',
-        story: 'A one-person agency owner uses Client Intelligence to maintain full context for every client in isolated workspaces, apply their service methodology consistently, and generate deliverable first drafts  -  all without a team.',
+        story: 'A one-person agency owner uses Client Intelligence to maintain full context for every client in isolated Workspaces, apply their service methodology consistently via the Account Brain, and generate deliverable first drafts. All without a team.',
         result: 'Six-figure revenue. Zero team.',
       },
       {
         title: 'Taking on premium clients without premium overhead',
-        story: 'By encoding their methodology in Client Intelligence, the operator delivers the same strategic depth as a full-service agency  -  at a price point that justifies premium fees without the overhead of employees.',
+        story: 'By encoding their methodology in Client Intelligence, the operator delivers the same strategic depth as a full-service agency. The Brain holds the IP. The Workspaces hold the client context. The operator focuses on the high-value work only they can do.',
         result: 'Premium positioning. Solo overhead.',
       },
       {
         title: 'Working four hours a day, serving six clients',
-        story: 'The AI handles initial analysis, framework application, and documentation prep. The operator focuses exclusively on the high-value advisory and creative work that requires their direct judgment.',
+        story: 'The AI handles initial analysis, framework application, and documentation prep across all client Workspaces. The operator focuses exclusively on the high-value advisory and creative work that requires their direct judgment.',
         result: '4-hour workday. 6 active clients.',
       },
     ],
@@ -999,25 +999,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You already have a team and are looking for team management tools',
-      'You have no systematic methodology  -  each client gets a completely different approach',
+      'You have no systematic methodology and each client gets a completely different approach',
       'You need a project management, invoicing, or client communication tool',
     ],
     faqs: [
       {
         question: 'How do one-person agencies scale without hiring?',
-        answer: 'Client Intelligence is the apply system for solo operators. Encode your methodology, maintain per-client memory in isolated workspaces, and let the AI handle framework application and documentation  -  you focus on the work only you can do.',
+        answer: 'Client Intelligence is the apply system for solo operators. Encode your methodology in the Brain, maintain per-client memory in isolated Workspaces, and let the AI handle framework application and documentation. You focus on the work only you can do.',
       },
       {
         question: 'What AI tools do one-person agencies use?',
-        answer: 'Client Intelligence is purpose-built for one-person agencies. It gives every client an isolated workspace, applies your methodology consistently across all engagements, and handles the analytical and documentation work that typically requires a team.',
+        answer: 'Client Intelligence is purpose-built for one-person agencies. It gives every client an isolated Workspace, applies your methodology consistently via the Account Brain, and handles the analytical and documentation work that typically requires a team.',
       },
       {
         question: 'Can a one-person agency compete with larger agencies using AI?',
-        answer: 'Yes. Client Intelligence gives solo operators the same methodology consistency, per-client intelligence, and delivery apply that larger agencies get from teams and systems  -  at a fraction of the overhead.',
+        answer: 'Yes. Client Intelligence gives solo operators the same methodology consistency, per-client intelligence, and delivery apply that larger agencies get from teams and systems, at a fraction of the overhead.',
       },
       {
         question: 'What is Intelligence as a Service for one-person agencies?',
-        answer: 'It means your expert methodology is delivered to every client through an AI system  -  not manually repeated by you. The intelligence scales. You do not have to.',
+        answer: 'It means your expert methodology is delivered to every client through an AI system, not manually repeated by you. The intelligence scales. You do not have to.',
       },
     ],
   },
@@ -1026,21 +1026,21 @@ export const personas: PersonaPage[] = [
     label: 'High-Ticket Service Providers',
     pain: 'justifying premium prices while staying scalable',
     outcome: 'Deliver elite, framework-driven service to every client with AI',
-    metaDescription: 'Client Intelligence for High-Ticket Service Providers  -  deliver premium, framework-driven service to every client at scale with per-client AI memory and isolated workspaces.',
+    metaDescription: 'Client Intelligence for High-Ticket Service Providers. Deliver premium, framework-driven service to every client at scale with per-client AI memory and isolated Workspaces.',
     scenarios: [
       {
         title: 'Charging $10K+ per client and scaling beyond 5',
-        story: 'A high-ticket consultant uses Client Intelligence to maintain the depth of attention that justifies premium pricing  -  full per-client memory, methodology applied to each unique situation  -  while serving 10 clients instead of 5.',
-        result: '2× clients. Premium positioning maintained.',
+        story: 'A high-ticket consultant uses Client Intelligence to maintain the depth of attention that justifies premium pricing. Full per-client memory via Facts, methodology applied to each unique situation from the Brain, while serving 10 clients instead of 5.',
+        result: '2x clients. Premium positioning maintained.',
       },
       {
         title: 'Demonstrating methodology depth in proposals',
-        story: 'The consultant\'s proprietary framework is fully encoded and documented in Client Intelligence. During proposals, they can show exactly how the AI applies their methodology to the prospect\'s specific situation  -  in real time.',
+        story: 'The consultant\'s proprietary framework is fully encoded and documented in the Account Brain. During proposals, they can show exactly how the AI applies their methodology to the prospect\'s specific situation. In real time.',
         result: 'Proposal close rate increases because the methodology is tangible.',
       },
       {
         title: 'Delivering between sessions without billing for it',
-        story: 'Between client sessions, the AI monitors the client workspace for new inputs  -  documents, updates, transcripts  -  and prepares framework-based recommendations. The client receives strategic value continuously, not just in sessions.',
+        story: 'Between client sessions, the AI monitors the client Workspace for new inputs, documents, updates, transcripts, and prepares framework-based recommendations using the encoded Brain. The client receives strategic value continuously, not just in sessions.',
         result: 'Continuous value delivery. Premium retention justified.',
       },
     ],
@@ -1052,13 +1052,13 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You compete on price rather than methodology depth',
-      'You have no proprietary framework  -  you deliver generic advice',
+      'You have no proprietary framework and deliver generic advice',
       'You need a payment processor or contract management tool',
     ],
     faqs: [
       {
         question: 'How do high-ticket consultants scale without losing premium quality?',
-        answer: 'Client Intelligence encodes your methodology as the quality standard. Every client receives that same depth of framework-driven intelligence  -  applied individually to their unique situation  -  regardless of how many clients you serve simultaneously.',
+        answer: 'Client Intelligence encodes your methodology as the quality standard in the Account Brain. Every client receives that same depth of framework-driven intelligence, applied individually to their unique situation through their isolated Workspace, regardless of how many clients you serve.',
       },
       {
         question: 'What AI tools do high-ticket service providers use?',
@@ -1066,11 +1066,11 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'How do premium service businesses use AI without losing personalization?',
-        answer: 'Per-client isolation is the key. Client Intelligence gives every client their own workspace with individual memory and context  -  your framework applied to their specific situation, not a generic output. Premium experience at scale.',
+        answer: 'Per-client isolation is the key. Client Intelligence gives every client their own Workspace with individual memory and context via Facts. Your framework applied to their specific situation, not a generic output. Premium experience at scale.',
       },
       {
         question: 'Can AI help me deliver more value between client sessions?',
-        answer: 'Yes. Client Intelligence monitors each client\'s isolated workspace for new inputs and prepares framework-based recommendations between sessions. Clients receive continuous strategic value  -  which justifies premium retainer prices.',
+        answer: 'Yes. Client Intelligence monitors each client\'s isolated Workspace for new inputs and prepares framework-based recommendations between sessions using the Account Brain. Clients receive continuous strategic value, which justifies premium retainer prices.',
       },
     ],
   },
@@ -1079,21 +1079,21 @@ export const personas: PersonaPage[] = [
     label: 'Direct Response Consultants',
     pain: 'consistently applying your DR frameworks to each unique client business',
     outcome: 'Your direct response methodology, applied intelligently to every client',
-    metaDescription: 'Client Intelligence for Direct Response Consultants  -  train your AI on your DR frameworks and apply them to every client through isolated workspaces.',
+    metaDescription: 'Client Intelligence for Direct Response Consultants. Train the Brain on your DR frameworks and apply them to every client through isolated Workspaces.',
     scenarios: [
       {
         title: 'Applying a DR framework to six client offers simultaneously',
-        story: 'A direct response consultant manages six active offer-building engagements. Their DR framework  -  from market research to copy angle development  -  is encoded in the Account Brain and applied to each client\'s unique offer, audience, and funnel.',
-        result: 'Six engagements. One DR brain. Consistent framework application.',
+        story: 'A direct response consultant manages six active offer-building engagements. Their DR framework, from market research to copy angle development, is encoded in the Account Brain using Brain Dump mode and applied to each client\'s unique offer, audience, and funnel through isolated Workspaces.',
+        result: 'Six engagements. One DR Brain. Consistent framework application.',
       },
       {
         title: 'Generating first-draft copy briefs automatically',
-        story: 'The consultant\'s DR copy framework is encoded in Client Intelligence. For each new client, the AI generates a structured copy brief from the encoded framework and the client\'s uploaded market research.',
+        story: 'The consultant\'s DR copy framework is encoded in Client Intelligence. For each new client, the AI generates a structured copy brief from the encoded Brain and the client\'s uploaded market research, directly in the client\'s isolated Workspace.',
         result: 'Copy briefs generated in hours, not days.',
       },
       {
         title: 'Keeping client offers and audiences completely separate',
-        story: 'Two clients operate in adjacent niches. Their offer research, copy angles, and funnel strategies are in completely isolated workspaces  -  the AI applies the same DR framework to each, but the outputs never bleed together.',
+        story: 'Two clients operate in adjacent niches. Their offer research, copy angles, and funnel strategies are in completely isolated Workspaces. The AI applies the same DR framework from the Brain to each, but the outputs never bleed together.',
         result: 'Adjacent niches. Zero strategy contamination.',
       },
     ],
@@ -1105,25 +1105,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You write copy for your own business only',
-      'You have no systematic DR methodology  -  you approach each engagement from scratch',
+      'You have no systematic DR methodology and approach each engagement from scratch',
       'You need a copywriting tool or landing page builder',
     ],
     faqs: [
       {
         question: 'What AI tools do direct response consultants use?',
-        answer: 'Client Intelligence is built for DR consultants applying their frameworks to multiple client businesses. It encodes your direct response methodology and applies it to every client through isolated workspaces  -  offer strategy, copy angles, and market research never bleed between clients.',
+        answer: 'Client Intelligence is built for DR consultants applying their frameworks to multiple client businesses. It encodes your direct response methodology in the Brain and applies it to every client through isolated Workspaces. Offer strategy, copy angles, and market research never bleed between clients.',
       },
       {
         question: 'Can I train AI on my direct response framework?',
-        answer: 'Yes. Client Intelligence is designed to be trained on your specific DR methodology  -  not generic copywriting best practices. Your framework becomes the AI\'s operating system for every client engagement.',
+        answer: 'Yes. Client Intelligence is designed to be trained on your specific DR methodology, not generic copywriting best practices. Your framework becomes the Brain\'s operating foundation for every client engagement.',
       },
       {
         question: 'How do direct response consultants keep client strategies separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Offer research, copy angles, funnel architecture, and audience insights are stored completely separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Offer research, copy angles, funnel architecture, and audience insights are stored completely separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'How do DR consultants scale their practice with AI?',
-        answer: 'By encoding your methodology, Client Intelligence handles initial market research structuring, copy brief generation, and framework application for every new client. You scale the number of active engagements without scaling your manual workload proportionally.',
+        answer: 'By encoding your methodology in the Account Brain, Client Intelligence handles initial market research structuring, copy brief generation, and framework application for every new client. You scale the number of active engagements without scaling your manual workload proportionally.',
       },
     ],
   },
@@ -1131,22 +1131,22 @@ export const personas: PersonaPage[] = [
     slug: 'business-strategy-consultants',
     label: 'Business Strategy Consultants',
     pain: 'applying your strategic frameworks consistently without starting from scratch per client',
-    outcome: 'One strategic brain, applied intelligently to every engagement',
-    metaDescription: 'Client Intelligence for Business Strategy Consultants  -  centralize your strategic frameworks and apply them consistently to every client through isolated AI workspaces.',
+    outcome: 'One strategic Brain, applied intelligently to every engagement',
+    metaDescription: 'Client Intelligence for Business Strategy Consultants. Centralize your strategic frameworks in the Brain and apply them consistently to every client through isolated Workspaces.',
     scenarios: [
       {
         title: 'Running five strategy engagements without losing depth',
-        story: 'A business strategy consultant manages five active engagements. Each client\'s competitive landscape, strategic hypotheses, and decision history sit in a fully isolated workspace. Before every client meeting, the AI delivers a context brief with current strategic priorities and open questions.',
+        story: 'A business strategy consultant manages five active engagements. Each client\'s competitive landscape, strategic hypotheses, and decision history sit in a fully isolated Workspace with auto-extracted Facts. Before every client meeting, the AI delivers a context brief with current strategic priorities and open questions.',
         result: 'Five strategy engagements. Zero context rebuilding.',
       },
       {
         title: 'Encoding a proprietary diagnostic framework',
-        story: 'The consultant\'s business diagnostic process  -  from market sizing to organizational readiness  -  is encoded in the Account Brain. Every new client workspace inherits it automatically, applying the framework to their industry, size, and stage.',
+        story: 'The consultant\'s business diagnostic process, from market sizing to organizational readiness, is encoded in the Account Brain using Brain Dump mode. Every new client Workspace inherits it automatically, applying the framework to their industry, size, and stage.',
         result: 'Strategy diagnostic delivered in days instead of weeks.',
       },
       {
         title: 'Maintaining strategic continuity between sessions',
-        story: 'Between quarterly strategy sessions, the AI tracks new information in each client\'s workspace and updates the strategic picture. The consultant arrives for the next session with a complete view of what changed and what it means.',
+        story: 'Between quarterly strategy sessions, the AI tracks new information in each client\'s Workspace and updates the strategic picture via Facts. The consultant arrives for the next session with a complete view of what changed and what it means.',
         result: 'Continuous strategic intelligence between sessions, with no manual tracking.',
       },
     ],
@@ -1158,25 +1158,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You are an in-house strategy leader at one company',
-      'You have no proprietary framework  -  each engagement starts entirely fresh',
+      'You have no proprietary framework and each engagement starts entirely fresh',
       'You need a financial modeling or forecasting tool',
     ],
     faqs: [
       {
         question: 'What AI tools do business strategy consultants use?',
-        answer: 'Client Intelligence is built for strategy consultants running multiple concurrent engagements. It centralizes your strategic methodology and applies it to every client through isolated workspaces  -  so each company gets your full framework without context from other clients leaking in.',
+        answer: 'Client Intelligence is built for strategy consultants running multiple concurrent engagements. It centralizes your strategic methodology in the Brain and applies it to every client through isolated Workspaces. Each company gets your full framework without context from other clients leaking in.',
       },
       {
         question: 'How do I keep each client\'s strategy confidential when using AI?',
-        answer: 'Client Intelligence creates a fully isolated workspace per client. Their competitive intelligence, strategic hypotheses, and decision logs never interact with any other client\'s workspace. This is architecture-level isolation, not a privacy setting.',
+        answer: 'Client Intelligence creates a fully isolated Workspace per client. Their competitive intelligence, strategic hypotheses, and decision logs never interact with any other client\'s Workspace. This is architecture-level isolation, not a privacy setting.',
       },
       {
         question: 'Can AI help me apply a strategy framework to multiple clients at once?',
-        answer: 'Yes. Encode your strategic diagnostic and framework in Client Intelligence once. The AI applies it to every new client engagement automatically  -  mapping it to their specific industry, competitive position, and organizational constraints.',
+        answer: 'Yes. Encode your strategic diagnostic and framework in Client Intelligence once using Brain Dump mode. The AI applies it to every new client engagement automatically, mapping it to their specific industry, competitive position, and organizational constraints.',
       },
       {
         question: 'How do strategy consultants maintain deep engagement quality at scale?',
-        answer: 'Client Intelligence maintains full context per client in isolated memory  -  strategic hypotheses, prior decisions, and open questions. The AI surfaces what matters before every client interaction, so depth never requires more of your time.',
+        answer: 'Client Intelligence maintains full context per client in isolated Workspaces via Facts, strategic hypotheses, prior decisions, and open questions. The AI surfaces what matters before every client interaction, so depth never requires more of your time.',
       },
     ],
   },
@@ -1184,22 +1184,22 @@ export const personas: PersonaPage[] = [
     slug: 'fractional-cso',
     label: 'Fractional CSOs',
     pain: 'keeping each client\'s sales process and data completely separate',
-    outcome: 'Per-client sales workspace with your methodology applied to every engagement',
-    metaDescription: 'Client Intelligence for Fractional CSOs  -  isolated AI workspaces per company so your sales methodology is applied consistently while client data stays completely separate.',
+    outcome: 'Per-client sales Workspace with your methodology applied to every engagement',
+    metaDescription: 'Client Intelligence for Fractional CSOs. Isolated Workspaces per company so your sales methodology is applied consistently while client data stays completely separate.',
     scenarios: [
       {
         title: 'Running four sales transformations simultaneously',
-        story: 'A fractional CSO serving four companies uses Client Intelligence to maintain each company\'s sales process documentation, rep performance notes, and strategic decisions in a fully isolated workspace. Before each leadership call, the AI surfaces the current sales health picture.',
+        story: 'A fractional CSO serving four companies uses Client Intelligence to maintain each company\'s sales process documentation, rep performance notes, and strategic decisions in a fully isolated Workspace. Facts are auto-extracted from every call transcript. Before each leadership call, the AI surfaces the current sales health picture.',
         result: 'Four companies. One CSO. Complete separation.',
       },
       {
         title: 'Deploying a sales methodology to every new company',
-        story: 'The fractional CSO\'s proprietary sales transformation methodology  -  from pipeline architecture to rep coaching frameworks  -  is encoded in the Account Brain. Every new company workspace inherits it and applies it to their specific team and market.',
+        story: 'The fractional CSO\'s proprietary sales transformation methodology, from pipeline architecture to rep coaching frameworks, is encoded in the Account Brain using Brain Dump mode. Every new company Workspace inherits it and applies it to their specific team and market.',
         result: 'Sales methodology deployed to a new company in 48 hours, not 3 weeks.',
       },
       {
         title: 'Coaching sales teams without cross-contaminating data',
-        story: 'The CSO uploads rep call transcripts and pipeline data for each company into isolated workspaces. The AI analyzes each company\'s data independently and surfaces coaching recommendations specific to that team.',
+        story: 'The CSO uploads rep call transcripts and pipeline data for each company into isolated Workspaces. The AI analyzes each company\'s data independently and surfaces coaching recommendations specific to that team, using the framework from the Brain.',
         result: 'Company-specific coaching insights, with zero cross-company data risk.',
       },
     ],
@@ -1211,25 +1211,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You are a full-time VP of Sales at one company',
-      'You have no systematic sales methodology  -  each engagement is improvised',
+      'You have no systematic sales methodology and each engagement is improvised',
       'You need a CRM, sales engagement platform, or quota management tool',
     ],
     faqs: [
       {
         question: 'What AI tools do fractional CSOs use?',
-        answer: 'Client Intelligence is built for fractional sales leaders serving multiple companies. It centralizes your sales methodology and gives every company a fully isolated workspace  -  pipeline data, rep notes, and strategic decisions never cross between companies.',
+        answer: 'Client Intelligence is built for fractional sales leaders serving multiple companies. It centralizes your sales methodology in the Brain and gives every company a fully isolated Workspace. Pipeline data, rep notes, and strategic decisions never cross between companies.',
       },
       {
         question: 'How do fractional CSOs keep each company\'s sales data private in AI?',
-        answer: 'Client Intelligence creates a fully isolated workspace per company. All sales data, call transcripts, rep performance notes, and strategic context are stored separately  -  one company\'s data is never accessible from another\'s workspace.',
+        answer: 'Client Intelligence creates a fully isolated Workspace per company. All sales data, call transcripts, rep performance notes, and strategic context are stored separately. One company\'s data is never accessible from another\'s Workspace.',
       },
       {
         question: 'Can a fractional CSO apply their sales methodology to every company with AI?',
-        answer: 'Yes. Encode your sales transformation methodology in Client Intelligence once. Every new company workspace inherits it automatically  -  the AI applies your framework to their specific team size, market, and pipeline stage.',
+        answer: 'Yes. Encode your sales transformation methodology in Client Intelligence once using Brain Dump mode. Every new company Workspace inherits it automatically. The AI applies your framework to their specific team size, market, and pipeline stage.',
       },
       {
         question: 'What is Intelligence as a Service for fractional sales leaders?',
-        answer: 'Intelligence as a Service means your sales methodology is encoded into an AI system that applies it to each company you serve individually  -  delivering consistent strategic depth without you being physically present for every decision.',
+        answer: 'Intelligence as a Service means your sales methodology is encoded into an AI system that applies it to each company you serve individually. Consistent strategic depth without you being physically present for every decision.',
       },
     ],
   },
@@ -1238,21 +1238,21 @@ export const personas: PersonaPage[] = [
     label: 'Growth Agencies',
     pain: 'running experiments and frameworks across multiple clients without blurring lines',
     outcome: 'Isolated Workspaces for every growth engagement',
-    metaDescription: 'Client Intelligence for Growth Agencies  -  run your growth frameworks across multiple clients with fully isolated workspaces per account. No strategy bleed, ever.',
+    metaDescription: 'Client Intelligence for Growth Agencies. Run your growth frameworks across multiple clients with fully isolated Workspaces per account. No strategy bleed, ever.',
     scenarios: [
       {
         title: 'Running growth sprints for eight clients with one methodology',
-        story: 'A growth agency manages eight active client sprints. Each client\'s experiment log, channel data, and growth hypotheses are in a fully isolated workspace. The agency\'s growth framework is applied to each client\'s specific funnel and metrics independently.',
+        story: 'A growth agency manages eight active client sprints. Each client\'s experiment log, channel data, and growth hypotheses are in a fully isolated Workspace. The agency\'s growth framework, encoded in the Account Brain, is applied to each client\'s specific funnel and metrics independently.',
         result: 'Eight sprints. One framework. Zero cross-contamination.',
       },
       {
         title: 'Onboarding a new growth client in one day',
-        story: 'The agency\'s growth diagnostic and prioritization framework is encoded in the Account Brain. When a new client is signed, the AI runs the diagnostic against their uploaded data and returns a prioritized growth roadmap within hours.',
+        story: 'The agency\'s growth diagnostic and prioritization framework is encoded in the Brain using Brain Dump mode. When a new client is signed, the AI runs the diagnostic against their uploaded data and returns a prioritized growth roadmap within hours in the client\'s isolated Workspace.',
         result: 'New growth client fully onboarded in one day, not one month.',
       },
       {
         title: 'Keeping competitor clients completely isolated',
-        story: 'Two clients compete directly in the same market. Their channel strategies, creative angles, and growth playbooks are in completely separate workspaces. The same agency methodology powers both, but the outputs never mix.',
+        story: 'Two clients compete directly in the same market. Their channel strategies, creative angles, and growth playbooks are in completely separate Workspaces. The same Brain powers both, but the outputs never mix.',
         result: 'Competing clients served simultaneously, with zero ethical risk.',
       },
     ],
@@ -1264,25 +1264,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You do growth work for your own business only',
-      'You have no systematic methodology  -  each client gets a completely different approach',
+      'You have no systematic methodology and each client gets a completely different approach',
       'You need an analytics platform, attribution tool, or A/B testing software',
     ],
     faqs: [
       {
         question: 'What AI tools do growth agencies use?',
-        answer: 'Client Intelligence is purpose-built for growth agencies managing multiple client engagements. It centralizes your growth methodology and applies it to every client through isolated workspaces  -  experiment logs, channel data, and strategic decisions never bleed between accounts.',
+        answer: 'Client Intelligence is purpose-built for growth agencies managing multiple client engagements. It centralizes your growth methodology in the Brain and applies it to every client through isolated Workspaces. Experiment logs, channel data, and strategic decisions never bleed between accounts.',
       },
       {
         question: 'How do growth agencies keep each client\'s experiments isolated in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Experiment hypotheses, test results, channel strategies, and growth frameworks are stored separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Experiment hypotheses, test results, channel strategies, and growth frameworks are stored separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can a growth agency use AI to serve more clients without more team members?',
-        answer: 'Yes. Client Intelligence handles diagnostic, roadmap generation, and between-session context maintenance for each client automatically. Most growth agencies using the platform extend their client capacity significantly before needing to add team members.',
+        answer: 'Yes. Client Intelligence handles diagnostic, roadmap generation, and between-session context maintenance for each client automatically. The Brain holds the methodology. The Workspaces hold the context. You hold the strategy.',
       },
       {
         question: 'How do growth agencies maintain client confidentiality in AI?',
-        answer: 'Client Intelligence creates architecture-level isolation per client  -  not just separate chat threads. One client\'s data, strategies, and context cannot be accessed from any other client\'s workspace by design.',
+        answer: 'Client Intelligence creates architecture-level isolation per client, not just separate chat threads. One client\'s data, strategies, and context cannot be accessed from any other client\'s Workspace by design.',
       },
     ],
   },
@@ -1290,22 +1290,22 @@ export const personas: PersonaPage[] = [
     slug: 'paid-ads-agencies',
     label: 'Paid Ads Agencies',
     pain: 'keeping client ad strategy and data completely isolated',
-    outcome: 'Separate AI memory per client  -  no strategy bleed-through, ever',
-    metaDescription: 'Client Intelligence for Paid Ads Agencies  -  per-client isolated AI workspaces for ad strategy, creative briefs, and audience data. Serve more accounts without data risk.',
+    outcome: 'Separate AI memory per client. No strategy bleed-through, ever.',
+    metaDescription: 'Client Intelligence for Paid Ads Agencies. Per-client isolated Workspaces for ad strategy, creative briefs, and audience data. Serve more accounts without data risk.',
     scenarios: [
       {
         title: 'Managing fifteen ad accounts without strategy contamination',
-        story: 'A paid ads agency runs fifteen active accounts across Google, Meta, and TikTok. Each client\'s creative strategy, audience learnings, and campaign history are in a fully isolated workspace. Account managers switch between clients instantly with full context.',
+        story: 'A paid ads agency runs fifteen active accounts across Google, Meta, and TikTok. Each client\'s creative strategy, audience learnings, and campaign history are in a fully isolated Workspace. Account managers switch between clients instantly with full context, drawn from Facts stored per client.',
         result: 'Fifteen accounts. Zero cross-account data risk.',
       },
       {
         title: 'Deploying a paid media framework to every new account',
-        story: 'The agency\'s paid media diagnostic and scaling playbook is encoded in the Account Brain. Every new client workspace inherits it  -  the AI applies the framework to their specific offer, budget, and market from day one.',
+        story: 'The agency\'s paid media diagnostic and scaling playbook is encoded in the Account Brain using Brain Dump mode. Every new client Workspace inherits it. The AI applies the framework to their specific offer, budget, and market from day one.',
         result: 'New account onboarding reduced from 3 weeks to 3 days.',
       },
       {
         title: 'Generating weekly performance briefs automatically',
-        story: 'Before each client review call, the AI generates a performance brief from the client\'s isolated workspace: last week\'s results, creative hypotheses, audience insights, and scaling recommendations based on the agency\'s framework.',
+        story: 'Before each client review call, the AI generates a performance brief from the client\'s isolated Workspace: last week\'s results, creative hypotheses, audience insights, and scaling recommendations based on the agency\'s framework encoded in the Brain.',
         result: 'Account managers arrive to every call prepared, not building the deck.',
       },
     ],
@@ -1317,25 +1317,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You manage paid ads for your own business only',
-      'You have no systematic methodology  -  each account is run differently',
+      'You have no systematic methodology and each account is run differently',
       'You need an ad management platform, bidding tool, or creative production tool',
     ],
     faqs: [
       {
         question: 'What AI tools do paid ads agencies use?',
-        answer: 'Client Intelligence is built for paid ads agencies managing multiple client accounts. It centralizes your paid media methodology and gives every client a fully isolated workspace  -  creative strategies, audience learnings, and campaign history never bleed between accounts.',
+        answer: 'Client Intelligence is built for paid ads agencies managing multiple client accounts. It centralizes your paid media methodology in the Brain and gives every client a fully isolated Workspace. Creative strategies, audience learnings, and campaign history never bleed between accounts.',
       },
       {
         question: 'How do paid ads agencies keep client ad data separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Creative briefs, audience research, campaign history, and bidding strategies are stored completely separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Creative briefs, audience research, campaign history, and bidding strategies are stored completely separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can a paid ads agency scale without hiring more account managers?',
-        answer: 'Yes. Client Intelligence handles diagnostic, brief generation, and performance analysis for each client automatically. Most paid ads agencies using the platform increase their account capacity by 50%+ before additional hires become necessary.',
+        answer: 'Yes. Client Intelligence handles diagnostic, brief generation, and performance analysis for each client automatically. Most paid ads agencies using the platform increase their account capacity significantly before additional hires become necessary.',
       },
       {
         question: 'What is the best AI for agencies running multiple Google and Meta ad accounts?',
-        answer: 'Client Intelligence is the only platform with true per-client isolation for multi-account agencies. Unlike generic AI tools, each client\'s ad strategy, creative learning, and audience insights are kept completely separate while your methodology is applied consistently.',
+        answer: 'Client Intelligence is the only platform with true per-client isolation for multi-account agencies. Unlike generic AI tools, each client\'s ad strategy, creative learning, and audience insights are kept completely separate while your methodology is applied consistently via the Brain.',
       },
     ],
   },
@@ -1344,21 +1344,21 @@ export const personas: PersonaPage[] = [
     label: 'SEO Agencies',
     pain: 'applying your SEO process consistently while keeping client strategies distinct',
     outcome: 'Your SEO methodology applied automatically to every client',
-    metaDescription: 'Client Intelligence for SEO Agencies  -  apply your SEO process to every client through isolated AI workspaces. No strategy bleed between accounts, ever.',
+    metaDescription: 'Client Intelligence for SEO Agencies. Apply your SEO process to every client through isolated Workspaces. No strategy bleed between accounts, ever.',
     scenarios: [
       {
         title: 'Running SEO campaigns for twenty clients with one system',
-        story: 'An SEO agency manages twenty active client campaigns. Each client\'s keyword strategy, content calendar, link profile, and technical audit history are in a fully isolated workspace. The agency\'s SEO methodology powers every account  -  the context is always client-specific.',
-        result: 'Twenty clients. One SEO brain. Zero cross-account contamination.',
+        story: 'An SEO agency manages twenty active client campaigns. Each client\'s keyword strategy, content calendar, link profile, and technical audit history are in a fully isolated Workspace. The agency\'s SEO methodology, encoded in the Account Brain, powers every account. The context is always client-specific.',
+        result: 'Twenty clients. One SEO Brain. Zero cross-account contamination.',
       },
       {
         title: 'Onboarding a new SEO client with an automated diagnostic',
-        story: 'The agency\'s SEO diagnostic framework is encoded in the Account Brain. When a new client uploads their site data and competitor list, the AI runs the diagnostic and returns a prioritized opportunity map using the agency\'s specific methodology.',
+        story: 'The agency\'s SEO diagnostic framework is encoded in the Brain using Brain Dump mode. When a new client uploads their site data and competitor list, the AI runs the diagnostic and returns a prioritized opportunity map using the agency\'s specific methodology in the client\'s Workspace.',
         result: 'SEO diagnostic delivered in hours instead of a week.',
       },
       {
         title: 'Keeping competing local clients completely separate',
-        story: 'Two clients compete for the same keywords in the same market. Their strategies, content angles, and link-building targets are in completely isolated workspaces  -  the agency serves both without any ethical or data risk.',
+        story: 'Two clients compete for the same keywords in the same market. Their strategies, content angles, and link-building targets are in completely isolated Workspaces. The agency serves both without any ethical or data risk.',
         result: 'Competing clients served simultaneously, with complete strategy isolation.',
       },
     ],
@@ -1370,25 +1370,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You do SEO for your own business only',
-      'You have no systematic SEO methodology  -  each campaign is built differently',
+      'You have no systematic SEO methodology and each campaign is built differently',
       'You need an SEO platform, rank tracker, or keyword research tool',
     ],
     faqs: [
       {
         question: 'What AI tools do SEO agencies use?',
-        answer: 'Client Intelligence is built for SEO agencies managing multiple client campaigns. It centralizes your SEO methodology and gives every client a fully isolated workspace  -  keyword strategies, content plans, and competitive data never bleed between accounts.',
+        answer: 'Client Intelligence is built for SEO agencies managing multiple client campaigns. It centralizes your SEO methodology in the Brain and gives every client a fully isolated Workspace. Keyword strategies, content plans, and competitive data never bleed between accounts.',
       },
       {
         question: 'How do SEO agencies keep client strategies separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Keyword targets, content strategy, link-building plans, and technical audit history are stored completely separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Keyword targets, content strategy, link-building plans, and technical audit history are stored completely separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can an SEO agency use AI to serve competing clients safely?',
-        answer: 'Yes. Client Intelligence uses architecture-level isolation  -  not just separate chat threads. Competing clients\' strategies and data never interact. The same SEO methodology powers both accounts, but outputs are always client-specific.',
+        answer: 'Yes. Client Intelligence uses architecture-level isolation, not just separate chat threads. Competing clients\' strategies and data never interact. The same SEO methodology powers both accounts via the Brain, but outputs are always client-specific.',
       },
       {
         question: 'How do SEO agencies scale without proportionally growing their team?',
-        answer: 'Client Intelligence handles diagnostic, content brief generation, and between-session context for every client automatically. Strategists spend time on high-value work  -  not rebuilding context or running repetitive audits from scratch.',
+        answer: 'Client Intelligence handles diagnostic, content brief generation, and between-session context for every client automatically via isolated Workspaces. Strategists spend time on high-value work, not rebuilding context or running repetitive audits from scratch.',
       },
     ],
   },
@@ -1396,22 +1396,22 @@ export const personas: PersonaPage[] = [
     slug: 'content-strategy-consultants',
     label: 'Content Strategy Consultants',
     pain: 'delivering strategic content guidance to multiple clients without cross-contamination',
-    outcome: 'Per-client content strategy workspace with your frameworks built in',
-    metaDescription: 'Client Intelligence for Content Strategy Consultants  -  apply your content frameworks to every client through isolated AI workspaces. Serve more clients without strategy bleed.',
+    outcome: 'Per-client content strategy Workspace with your frameworks built in',
+    metaDescription: 'Client Intelligence for Content Strategy Consultants. Apply your content frameworks to every client through isolated Workspaces. Serve more clients without strategy bleed.',
     scenarios: [
       {
         title: 'Managing eight content strategy retainers simultaneously',
-        story: 'A content strategy consultant manages eight active retainers. Each client\'s content pillars, audience personas, editorial calendar, and strategic decisions are in a fully isolated workspace. Before each client call, the AI surfaces the current content health and open priorities.',
+        story: 'A content strategy consultant manages eight active retainers. Each client\'s content pillars, audience personas, editorial calendar, and strategic decisions are in a fully isolated Workspace with Facts auto-extracted from every session. Before each client call, the AI surfaces the current content health and open priorities.',
         result: 'Eight retainers. Complete strategic clarity for each.',
       },
       {
         title: 'Applying a content methodology to every new client',
-        story: 'The consultant\'s proprietary content strategy framework  -  from audience mapping to distribution strategy  -  is encoded in the Account Brain. Every new client workspace inherits it and applies it to their specific industry, audience, and goals.',
+        story: 'The consultant\'s proprietary content strategy framework, from audience mapping to distribution strategy, is encoded in the Account Brain using Brain Dump mode. Every new client Workspace inherits it and applies it to their specific industry, audience, and goals.',
         result: 'New client content strategy delivered in days, not weeks.',
       },
       {
         title: 'Generating editorial briefs from the encoded framework',
-        story: 'Using the client\'s isolated workspace  -  their brand voice, audience data, and content pillars  -  the AI generates editorial briefs for each content piece, structured against the consultant\'s framework.',
+        story: 'Using the client\'s isolated Workspace, their brand voice, audience data, and content pillars, the AI generates editorial briefs for each content piece, structured against the consultant\'s framework from the Brain.',
         result: 'Brief generation time reduced by 70% per client.',
       },
     ],
@@ -1423,25 +1423,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You are an in-house content strategist at one company',
-      'You have no systematic methodology  -  each client gets a completely different approach',
+      'You have no systematic methodology and each client gets a completely different approach',
       'You need a content management system, scheduling tool, or SEO platform',
     ],
     faqs: [
       {
         question: 'What AI tools do content strategy consultants use?',
-        answer: 'Client Intelligence is purpose-built for content strategy consultants managing multiple retainer clients. It centralizes your content methodology and applies it to every client through isolated workspaces  -  brand voice, editorial strategy, and audience data never bleed between accounts.',
+        answer: 'Client Intelligence is purpose-built for content strategy consultants managing multiple retainer clients. It centralizes your content methodology in the Brain and applies it to every client through isolated Workspaces. Brand voice, editorial strategy, and audience data never bleed between accounts.',
       },
       {
         question: 'How do content strategists keep client work separate in AI?',
-        answer: 'Every client in Client Intelligence has a fully isolated workspace. Brand voice, content pillars, audience personas, and editorial decisions are stored completely separately and never interact with any other client\'s workspace.',
+        answer: 'Every client in Client Intelligence has a fully isolated Workspace. Brand voice, content pillars, audience personas, and editorial decisions are stored completely separately and never interact with any other client\'s Workspace.',
       },
       {
         question: 'Can I encode my content strategy framework into an AI system?',
-        answer: 'Yes. Client Intelligence is designed for this. Encode your content methodology  -  from audience mapping to distribution  -  and the AI applies it to every client engagement automatically through their isolated workspace.',
+        answer: 'Yes. Client Intelligence is designed for this. Encode your content methodology, from audience mapping to distribution, using Brain Dump mode. The AI applies it to every client engagement automatically through their isolated Workspace.',
       },
       {
         question: 'How do content strategy consultants scale without losing strategic quality?',
-        answer: 'Client Intelligence applies your methodology to every client engagement automatically, handling brief generation, editorial planning, and between-session context. You scale the quality of your strategic output without scaling your personal time.',
+        answer: 'Client Intelligence applies your methodology to every client engagement automatically via the Account Brain, handling brief generation, editorial planning, and between-session context in isolated Workspaces. You scale the quality of your strategic output without scaling your personal time.',
       },
     ],
   },
@@ -1450,21 +1450,21 @@ export const personas: PersonaPage[] = [
     label: 'Leadership Coaches',
     pain: 'maintaining confidentiality and delivering tailored coaching at scale',
     outcome: 'Confidential, isolated client memory for every coaching engagement',
-    metaDescription: 'Client Intelligence for Leadership Coaches  -  per-client isolated AI memory and complete confidentiality for every engagement. Your leadership framework applied consistently at scale.',
+    metaDescription: 'Client Intelligence for Leadership Coaches. Per-client isolated Workspaces and complete confidentiality for every engagement. Your leadership framework applied consistently at scale.',
     scenarios: [
       {
         title: 'Coaching twenty leaders with complete individual focus',
-        story: 'A leadership coach with twenty active clients uses Client Intelligence to maintain each leader\'s development history, 360 feedback themes, and coaching goals in a fully isolated workspace. Before each session, the AI surfaces a brief with current development priorities and open coaching threads.',
+        story: 'A leadership coach with twenty active clients uses Client Intelligence to maintain each leader\'s development history, 360 feedback themes, and coaching goals in a fully isolated Workspace. Facts are auto-extracted from session transcripts. Before each session, the AI surfaces a brief with current development priorities and open coaching threads.',
         result: 'Twenty leaders coached individually, with no context confusion.',
       },
       {
         title: 'Applying a leadership development model to every client',
-        story: 'The coach\'s proprietary leadership development model  -  from self-awareness to team effectiveness  -  is encoded in the Account Brain. Every new client workspace inherits it, applying the model to the leader\'s specific context, industry, and development stage.',
+        story: 'The coach\'s proprietary leadership development model, from self-awareness to team effectiveness, is encoded in the Account Brain using Brain Dump mode. Every new client Workspace inherits it, applying the model to the leader\'s specific context, industry, and development stage.',
         result: 'Consistent leadership development quality across every engagement.',
       },
       {
         title: 'Maintaining absolute client confidentiality',
-        story: 'Two leaders from the same company are both in coaching. Client Intelligence keeps their conversations, development goals, and 360 data in completely isolated workspaces  -  neither can ever surface in the other\'s session.',
+        story: 'Two leaders from the same company are both in coaching. Client Intelligence keeps their conversations, development goals, and 360 data in completely isolated Workspaces. Neither can ever surface in the other\'s session. This is structural isolation, not a setting.',
         result: 'Simultaneous coaching within one organization, with zero risk.',
       },
     ],
@@ -1476,25 +1476,25 @@ export const personas: PersonaPage[] = [
     ],
     notForYou: [
       'You run group leadership training programs, not individual coaching',
-      'You have no proprietary framework  -  you work from generic coaching models',
+      'You have no proprietary framework and work from generic coaching models',
       'You need a video conferencing or session scheduling tool',
     ],
     faqs: [
       {
         question: 'What AI tools do leadership coaches use?',
-        answer: 'Client Intelligence is purpose-built for leadership coaches managing multiple confidential client relationships. It gives every leader their own isolated workspace  -  development history, session notes, and 360 data are never accessible from another client\'s workspace.',
+        answer: 'Client Intelligence is purpose-built for leadership coaches managing multiple confidential client relationships. It gives every leader their own isolated Workspace. Development history, session notes, and 360 data are never accessible from another client\'s Workspace.',
       },
       {
         question: 'How do leadership coaches maintain confidentiality when using AI?',
-        answer: 'Client Intelligence creates architecture-level isolation per client. One leader\'s data, goals, and coaching context cannot be accessed or surfaced in any other client\'s workspace  -  not just a setting, but a structural guarantee.',
+        answer: 'Client Intelligence creates architecture-level isolation per client. One leader\'s data, goals, and coaching context cannot be accessed or surfaced in any other client\'s Workspace. Not just a setting, but a structural guarantee.',
       },
       {
         question: 'Can I apply my leadership development model consistently across all clients with AI?',
-        answer: 'Yes. Encode your leadership framework in Client Intelligence and it applies to every client engagement  -  surfacing relevant development questions, tracking progress against your model, and maintaining context between sessions.',
+        answer: 'Yes. Encode your leadership framework in Client Intelligence using Brain Dump mode and it applies to every client engagement, surfacing relevant development questions, tracking progress against your model, and maintaining context between sessions via Facts.',
       },
       {
         question: 'How do leadership coaches scale without sacrificing coaching depth?',
-        answer: 'Per-client memory is the key. Client Intelligence maintains a complete record of every leader\'s development journey in their isolated workspace. The AI surfaces what matters before every session, so depth does not require additional preparation time.',
+        answer: 'Per-client memory is the key. Client Intelligence maintains a complete record of every leader\'s development journey in their isolated Workspace via Facts. The AI surfaces what matters before every session, so depth does not require additional preparation time.',
       },
     ],
   },
@@ -1503,28 +1503,28 @@ export const personas: PersonaPage[] = [
     label: 'Business Coaches with Frameworks',
     pain: 'teaching your framework and applying it uniquely to each client situation',
     outcome: 'Your coaching framework, intelligently applied to every client\'s unique context',
-    metaDescription: 'Client Intelligence for Business Coaches with Frameworks  -  encode your coaching methodology and apply it intelligently to every client\'s unique situation through isolated AI workspaces.',
+    metaDescription: 'Client Intelligence for Business Coaches with Frameworks. Encode your coaching methodology in the Brain and apply it intelligently to every client\'s unique situation through isolated Workspaces.',
     scenarios: [
       {
         title: 'Applying a business framework to fifteen unique client situations',
-        story: 'A business coach with a proprietary 7-step growth framework coaches fifteen clients. Each client\'s workspace applies the same framework to their specific business model, revenue stage, team constraints, and market. The AI maps framework steps to client-specific realities.',
+        story: 'A business coach with a proprietary 7-step growth framework coaches fifteen clients. Each client\'s Workspace applies the same framework to their specific business model, revenue stage, team constraints, and market. The AI maps framework steps from the Brain to each client\'s actual reality.',
         result: 'One framework, fifteen unique applications. No cookie-cutter outputs.',
       },
       {
         title: 'Encoding a complex framework in a single session',
-        story: 'The coach\'s business growth methodology  -  built over ten years  -  is captured in Brain Dump mode in one session. The AI structures it into a working Account Brain, ready to apply intelligently to every new client engagement.',
+        story: 'The coach\'s business growth methodology, built over ten years, is captured in Brain Dump mode in one session. The AI structures it into a working Account Brain, ready to apply intelligently to every new client engagement through their isolated Workspace.',
         result: 'Ten years of IP encoded and deployed in one day.',
       },
       {
         title: 'Preparing for client sessions with AI-generated context briefs',
-        story: 'Before each coaching session, the AI generates a context brief from the client\'s isolated workspace: current framework stage, recent wins and blockers, open coaching threads, and recommended focus areas for this session.',
+        story: 'Before each coaching session, the AI generates a context brief from the client\'s isolated Workspace: current framework stage from the Brain, recent wins and blockers captured as Facts, open coaching threads, and recommended focus areas for this session.',
         result: 'Every coaching session starts with a clear, client-specific focus.',
       },
     ],
     forYou: [
       'You have a proprietary business coaching framework or methodology',
       'You apply your framework to multiple clients simultaneously',
-      'You want the framework consistently applied to each client\'s unique situation  -  not generically',
+      'You want the framework consistently applied to each client\'s unique situation, not generically',
       'You want to scale your coaching practice without losing what makes your framework effective',
     ],
     notForYou: [
@@ -1535,19 +1535,19 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What is the best AI for business coaches with proprietary frameworks?',
-        answer: 'Client Intelligence is designed specifically for coaches whose value is their framework. It encodes your methodology and applies it intelligently to every client\'s unique situation through isolated workspaces  -  not a generic AI assistant, but a system that runs your framework.',
+        answer: 'Client Intelligence is designed specifically for coaches whose value is their framework. It encodes your methodology in the Brain and applies it intelligently to every client\'s unique situation through isolated Workspaces. Not a generic AI assistant, but a system that runs your framework.',
       },
       {
         question: 'How do I make sure my coaching framework is applied consistently across clients?',
-        answer: 'Encode your framework in Client Intelligence once using Brain Dump mode. Every client workspace then draws from that framework and applies it to their specific context  -  consistent methodology, individualized application, automatically.',
+        answer: 'Encode your framework in Client Intelligence once using Brain Dump mode. Every client Workspace then draws from that Brain and applies it to their specific context. Consistent methodology, individualized application, automatically.',
       },
       {
         question: 'Can AI apply a complex coaching framework to different client situations?',
-        answer: 'Yes. Client Intelligence is built for this. The encoded framework becomes the AI\'s operating system for each client workspace  -  mapping framework stages to the client\'s actual business model, constraints, and goals.',
+        answer: 'Yes. Client Intelligence is built for this. The encoded Brain becomes the operating foundation for each client Workspace, mapping framework stages to the client\'s actual business model, constraints, and goals.',
       },
       {
         question: 'How do business coaches with frameworks scale their practice with AI?',
-        answer: 'Client Intelligence removes you from the repetitive application work  -  the AI applies your framework to each client engagement automatically, maintains context between sessions, and surfaces what matters before every call. You scale without rebuilding.',
+        answer: 'Client Intelligence removes you from the repetitive application work. The AI applies your framework to each client engagement automatically from the Brain, maintains context between sessions via Facts, and surfaces what matters before every call. You scale without rebuilding.',
       },
     ],
   },
@@ -1556,21 +1556,21 @@ export const personas: PersonaPage[] = [
     label: 'Online Service Business Owners',
     pain: 'scaling personalized service delivery past your own time limits',
     outcome: 'Serve more clients with the same quality, powered by your own IP',
-    metaDescription: 'Client Intelligence for Online Service Business Owners  -  scale your personalized service delivery beyond your own time limits using AI trained on your methodology.',
+    metaDescription: 'Client Intelligence for Online Service Business Owners. Scale your personalized service delivery beyond your own time limits using AI trained on your methodology.',
     scenarios: [
       {
         title: 'Serving 15 clients with a one-person operation',
-        story: 'An online service business owner runs 15 active client engagements completely solo. Client Intelligence maintains full context for every client in isolated workspaces and applies the owner\'s service methodology automatically  -  without the owner rebuilding context for every interaction.',
+        story: 'An online service business owner runs 15 active client engagements completely solo. Client Intelligence maintains full context for every client in isolated Workspaces via Facts and applies the owner\'s service methodology from the Account Brain automatically, without the owner rebuilding context for every interaction.',
         result: '15 clients. One person. Full service quality.',
       },
       {
         title: 'Breaking through the revenue ceiling without hiring',
-        story: 'The owner\'s revenue has plateaued because they are out of hours. By encoding their service methodology in Client Intelligence, the AI handles the repetitive delivery work  -  diagnostics, briefs, updates  -  freeing the owner for high-value client interaction.',
+        story: 'The owner\'s revenue has plateaued because they are out of hours. By encoding their service methodology in Client Intelligence using Brain Dump mode, the AI handles the repetitive delivery work, diagnostics, briefs, updates, freeing the owner for high-value client interaction.',
         result: 'Revenue ceiling broken without a single new hire.',
       },
       {
         title: 'Delivering a premium service experience at scale',
-        story: 'Every client receives a personalized experience because Client Intelligence maintains their individual memory, context, and goals in isolation. The owner\'s methodology is applied to each client\'s unique situation  -  it never feels like a template.',
+        story: 'Every client receives a personalized experience because Client Intelligence maintains their individual memory, context, and goals in an isolated Workspace via Facts. The owner\'s methodology is applied to each client\'s unique situation. It never feels like a template.',
         result: 'Premium service experience delivered to every client, at scale.',
       },
     ],
@@ -1578,29 +1578,29 @@ export const personas: PersonaPage[] = [
       'You run an online service business and are hitting a time-based revenue ceiling',
       'You have a proprietary service methodology or delivery process',
       'You want to serve significantly more clients without the complexity of a team',
-      'You want each client to receive personalized, high-quality service  -  not templated delivery',
+      'You want each client to receive personalized, high-quality service, not templated delivery',
     ],
     notForYou: [
       'You sell digital products or courses, not services',
-      'You have no systematic methodology  -  each client gets a different approach',
+      'You have no systematic methodology and each client gets a different approach',
       'You need a client portal, invoicing, or project management tool',
     ],
     faqs: [
       {
         question: 'How do online service business owners scale beyond their time limits?',
-        answer: 'Client Intelligence encodes your service methodology and applies it to every client through isolated workspaces. Diagnostic work, context maintenance, and deliverable prep are handled by the AI  -  you focus on the high-value interactions that require your direct judgment.',
+        answer: 'Client Intelligence encodes your service methodology in the Brain and applies it to every client through isolated Workspaces. Diagnostic work, context maintenance via Facts, and deliverable prep are handled by the AI. You focus on the high-value interactions that require your direct judgment.',
       },
       {
         question: 'What AI tools do online service businesses use to scale delivery?',
-        answer: 'Client Intelligence is purpose-built for service businesses that need to scale personalized delivery. It gives every client their own isolated workspace with full memory, and applies your methodology consistently  -  without you being the bottleneck.',
+        answer: 'Client Intelligence is purpose-built for service businesses that need to scale personalized delivery. It gives every client their own isolated Workspace with full memory, and applies your methodology consistently via the Account Brain, without you being the bottleneck.',
       },
       {
         question: 'Can I deliver personalized service at scale using AI?',
-        answer: 'Yes. Per-client isolation means each client\'s memory, context, and goals are stored individually. The AI applies your methodology to their unique situation  -  making scale feel personal, not templated.',
+        answer: 'Yes. Per-client isolation means each client\'s memory, context, and goals are stored individually as Facts. The AI applies your methodology to their unique situation, making scale feel personal, not templated.',
       },
       {
         question: 'How do I stop being the bottleneck in my online service business?',
-        answer: 'The bottleneck is your expertise being delivered manually every time. Client Intelligence automates the application of your expertise  -  encoding your methodology and applying it to every client engagement  -  so your capacity is no longer limited by your hours.',
+        answer: 'The bottleneck is your expertise being delivered manually every time. Client Intelligence automates the application of your expertise by encoding your methodology in the Brain and applying it to every client engagement through isolated Workspaces. Your capacity is no longer limited by your hours.',
       },
     ],
   },
