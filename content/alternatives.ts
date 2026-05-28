@@ -23,7 +23,7 @@ export const alternatives: AlternativePage[] = [
     faqs: [
       { question: 'What is the best Notion AI alternative for consultants?', answer: 'Client Intelligence is the purpose-built alternative for consultants who have outgrown Notion AI for client work. It provides per-client isolated workspaces and trains on your proprietary methodology  -  applied to each client independently, not just stored in a shared doc.' },
       { question: 'Why is Notion AI not enough for consulting work?', answer: 'Notion AI is a writing assistant within a shared workspace. It does not isolate data between clients, does not maintain per-client AI memory, and cannot be trained on your proprietary consulting methodology. For service delivery, Client Intelligence provides the architecture Notion lacks.' },
-      { question: 'Can I use both Notion and Client Intelligence?', answer: 'Yes  -  many consultants do. Notion for internal documentation, knowledge bases, and team wikis. Client Intelligence for client-facing methodology delivery with per-client isolation. They solve different problems.' },
+      { question: 'Can I use both Notion and Client Intelligence?', answer: 'Yes  -  many consultants do. Notion for internal documentation, Brains, and team wikis. Client Intelligence for client-facing methodology delivery with per-client isolation. They solve different problems.' },
       { question: 'What does Client Intelligence do that Notion AI cannot?', answer: 'Client Intelligence isolates each client\'s data at the architecture level, trains on your proprietary frameworks via Brain Dump mode, maintains persistent per-client memory, and applies your methodology intelligently to each client\'s unique situation. Notion AI does none of these.' },
     ],
   },
@@ -35,7 +35,7 @@ export const alternatives: AlternativePage[] = [
     whatWeDoInstead: 'Client Intelligence gives every client their own isolated workspace with persistent memory, and trains on your proprietary methodology  -  not generic AI prompting.',
     scenarios: [
       { title: 'The consultant who realized ChatGPT was mixing client contexts', story: 'A strategy consultant used ChatGPT for client analysis. After noticing similar terminology and context bleeding across client conversations, they needed a tool with true isolation  -  not a shared AI conversation.', result: 'Client Intelligence provides architectural isolation. No context mixing possible.' },
-      { title: 'The agency that needed the AI trained on their process', story: 'An agency team used ChatGPT for client work but spent time every session re-explaining their methodology. They needed AI that knew their frameworks and applied them without constant re-prompting.', result: 'Client Intelligence runs their methodology automatically across all client workspaces.' },
+      { title: 'The agency that needed the AI trained on their process', story: 'An agency team used ChatGPT for client work but spent time every session re-explaining their methodology. They needed AI that knew their frameworks and applied them without constant re-prompting.', result: 'Client Intelligence runs their methodology automatically across all Workspaces.' },
       { title: 'The coach who needed the AI to remember each client', story: 'A business coach used ChatGPT for session prep. With no persistent per-client memory, they re-briefed the AI before every session. They needed an AI that remembered each client individually.', result: 'Client Intelligence maintains complete per-client memory across all sessions.' },
     ],
     faqs: [
@@ -179,19 +179,19 @@ export const alternatives: AlternativePage[] = [
     ],
   },
   {
-    slug: 'knowledge-base-tools-for-agencies',
-    label: 'Knowledge Base Tools for Agencies',
-    metaDescription: 'Looking for a knowledge base alternative for agency client delivery? Client Intelligence applies your IP intelligently to live client situations  -  not just stores it.',
+    slug: 'brain-tools-for-agencies',
+    label: 'Brain Tools for Agencies',
+    metaDescription: 'Looking for a Brain alternative for agency client delivery? Client Intelligence applies your IP intelligently to live client situations  -  not just stores it.',
     whyLooking: 'Knowledge bases store information  -  Client Intelligence applies it intelligently to live client situations',
-    whatWeDoInstead: 'Client Intelligence trains on your agency\'s IP and applies it intelligently to every client situation through isolated workspaces  -  not a searchable knowledge base, but an active delivery system.',
+    whatWeDoInstead: 'Client Intelligence trains on your agency\'s IP and applies it intelligently to every client situation through isolated workspaces  -  not a searchable Brain, but an active delivery system.',
     scenarios: [
-      { title: 'The agency that needed active intelligence, not passive storage', story: 'An agency built an internal knowledge base for their frameworks and processes. What they needed was AI that actively applied those frameworks to each client\'s live situation  -  not just let team members search for them manually.', result: 'Client Intelligence applies the IP actively. Knowledge base stays for static reference.' },
+      { title: 'The agency that needed active intelligence, not passive storage', story: 'An agency built an internal Brain for their frameworks and processes. What they needed was AI that actively applied those frameworks to each client\'s live situation  -  not just let team members search for them manually.', result: 'Client Intelligence applies the IP actively. Knowledge base stays for static reference.' },
     ],
     faqs: [
-      { question: 'What is the best knowledge base alternative for agency client delivery?', answer: 'Client Intelligence is not a knowledge base  -  it is an active intelligence delivery system. Your agency\'s IP is encoded in the Account Brain and applied automatically to each client\'s situation through isolated workspaces. Knowledge bases store; Client Intelligence applies.' },
-      { question: 'Why is a knowledge base not enough for agency client delivery?', answer: 'Knowledge bases require humans to find and apply the right information. Client Intelligence applies your methodology automatically to each client\'s specific situation  -  reducing the gap between having knowledge and delivering it.' },
-      { question: 'Should agencies use a knowledge base or Client Intelligence?', answer: 'Both serve different roles. A knowledge base stores processes, SOPs, and reference material. Client Intelligence actively applies your methodology to client work through isolated AI workspaces. Use both for a complete agency intelligence system.' },
-      { question: 'Can Client Intelligence replace our agency knowledge base?', answer: 'No  -  keep your knowledge base for internal documentation and SOPs. Add Client Intelligence to apply your methodology actively to client engagements. They complement each other.' },
+      { question: 'What is the best Brain alternative for agency client delivery?', answer: 'Client Intelligence is not a Brain  -  it is an active intelligence delivery system. Your agency\'s IP is encoded in the Account Brain and applied automatically to each client\'s situation through isolated workspaces. Knowledge bases store; Client Intelligence applies.' },
+      { question: 'Why is a Brain not enough for agency client delivery?', answer: 'Knowledge bases require humans to find and apply the right information. Client Intelligence applies your methodology automatically to each client\'s specific situation  -  reducing the gap between having knowledge and delivering it.' },
+      { question: 'Should agencies use a Brain or Client Intelligence?', answer: 'Both serve different roles. A Brain stores processes, SOPs, and reference material. Client Intelligence actively applies your methodology to client work through isolated AI workspaces. Use both for a complete agency intelligence system.' },
+      { question: 'Can Client Intelligence replace our agency Brain?', answer: 'No  -  keep your Brain for internal documentation and SOPs. Add Client Intelligence to apply your methodology actively to client engagements. They complement each other.' },
     ],
   },
   {
@@ -201,7 +201,7 @@ export const alternatives: AlternativePage[] = [
     whyLooking: 'AI CRMs manage relationships  -  Client Intelligence manages intelligence delivery across client engagements',
     whatWeDoInstead: 'Client Intelligence trains on your consulting methodology and applies it to every engagement through isolated workspaces  -  the intelligence layer that sits alongside your CRM, not inside it.',
     scenarios: [
-      { title: 'The consultant who needed delivery intelligence, not relationship intelligence', story: 'A consultant upgraded their CRM to an AI-powered version. It helped them track relationships better. What they still needed was AI trained on their methodology applied to each client\'s delivery  -  a different kind of intelligence.', result: 'AI CRM manages the relationship side. Client Intelligence handles the delivery side.' },
+      { title: 'The consultant who needed delivery intelligence, not relationship intelligence', story: 'A consultant upgraded their CRM to an AI-driven version. It helped them track relationships better. What they still needed was AI trained on their methodology applied to each client\'s delivery  -  a different kind of intelligence.', result: 'AI CRM manages the relationship side. Client Intelligence handles the delivery side.' },
     ],
     faqs: [
       { question: 'What is the best AI CRM alternative for consultants who need delivery intelligence?', answer: 'Client Intelligence is not a CRM alternative  -  it is the delivery intelligence layer that works alongside your CRM. Your CRM manages client relationships. Client Intelligence applies your methodology to client delivery through isolated workspaces.' },
@@ -239,7 +239,7 @@ export const alternatives: AlternativePage[] = [
       { question: 'What is the best Slack AI alternative for client-facing agency work?', answer: 'Client Intelligence solves a different problem than Slack AI. Slack AI helps you find information from your internal conversations. Client Intelligence applies your methodology to external client delivery. They point in different directions.' },
       { question: 'Do agencies need both Slack AI and Client Intelligence?', answer: 'Many do. Slack AI for internal team communication and knowledge retrieval. Client Intelligence for client-facing methodology delivery. Internal vs. external direction.' },
       { question: 'Can Client Intelligence replace Slack AI for agency work?', answer: 'No  -  they serve fundamentally different purposes. Slack AI is an internal communication tool. Client Intelligence is an external client delivery platform. Use both for a complete agency intelligence system.' },
-      { question: 'What is the difference between Slack AI and Client Intelligence for agencies?', answer: 'Slack AI helps your team find past conversations and knowledge internally. Client Intelligence applies your agency\'s methodology to client work externally through isolated per-client workspaces. Internal search vs. external delivery.' },
+      { question: 'What is the difference between Slack AI and Client Intelligence for agencies?', answer: 'Slack AI helps your team find past conversations and knowledge internally. Client Intelligence applies your agency\'s methodology to client work externally through isolated per-Workspaces. Internal search vs. external delivery.' },
     ],
   },
   {

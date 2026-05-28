@@ -6,7 +6,7 @@ export default function Nav() {
       <nav className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3 group">
           <span className="w-px h-5 bg-ink/20 group-hover:bg-gold transition-colors" />
-          <span className="font-serif text-base font-semibold text-ink tracking-tight">
+          <span className="text-base font-semibold text-ink tracking-tight">
             Client Intelligence
           </span>
         </Link>

@@ -8,7 +8,7 @@ export default function ProblemBlock({ pain, bullets, headline = 'The problem' }
   return (
     <section className="bg-white border-t border-border">
       <div className="max-w-3xl mx-auto px-6 py-16">
-      <h2 className="font-serif text-2xl sm:text-3xl text-ink mb-6 leading-tight">
+      <h2 className="text-2xl sm:text-3xl font-semibold text-ink mb-6 leading-tight tracking-tight">
         {headline}
       </h2>
       <p className="text-muted leading-relaxed mb-8">{pain}</p>

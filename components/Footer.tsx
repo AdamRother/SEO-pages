@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="flex-shrink-0">
             <div className="flex items-center gap-3 mb-2">
               <span className="w-px h-4 bg-white/20" />
-              <span className="font-serif text-sm font-semibold text-white/70">Client Intelligence</span>
+              <span className="text-sm font-semibold text-white/70">Client Intelligence</span>
             </div>
             <p className="text-white/40 text-xs max-w-xs leading-relaxed">
               Intelligence as a Service for consultants, agencies, coaches, and fractional executives.

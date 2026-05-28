@@ -24,7 +24,7 @@ export default function HomePage() {
         <p className="text-xs font-semibold text-gold-accessible uppercase tracking-[0.2em] mb-4">
           Intelligence as a Service
         </p>
-        <h1 className="font-serif text-4xl sm:text-5xl text-ink leading-tight text-balance mb-6">
+        <h1 className="text-4xl sm:text-5xl font-semibold text-ink leading-tight tracking-tight text-balance mb-6">
           Your methodology. Every client. At scale.
         </h1>
         <p className="text-muted text-lg max-w-xl mx-auto mb-8 leading-relaxed">
@@ -38,16 +38,16 @@ export default function HomePage() {
             Find Your Persona →
           </Link>
         </div>
-        <p className="text-muted text-xs mt-5">Starter from $97/mo · Cancel anytime · Your IP stays yours</p>
+        <p className="text-muted text-xs mt-5">No long-term contracts. Your IP stays yours.</p>
       </section>
 
       {/* Hub grid */}
       <section className="max-w-5xl mx-auto px-6 pb-24">
-        <h2 className="font-serif text-2xl text-ink mb-8 text-center">Explore Client Intelligence</h2>
+        <h2 className="text-2xl font-semibold text-ink mb-8 text-center tracking-tight">Explore Client Intelligence</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {hubs.map((hub) => (
             <Link key={hub.href} href={hub.href} className="bg-white rounded-2xl border border-border p-5 hover:shadow-md transition-shadow group">
-              <h3 className="font-serif text-base text-ink group-hover:text-gold transition-colors mb-2">{hub.label}</h3>
+              <h3 className="text-base font-semibold text-ink group-hover:text-gold transition-colors mb-2">{hub.label}</h3>
               <p className="text-muted text-xs leading-relaxed">{hub.description}</p>
             </Link>
           ))}

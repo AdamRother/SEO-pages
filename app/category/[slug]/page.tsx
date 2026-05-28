@@ -27,7 +27,7 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
   const category = categories.find((c) => c.slug === slug)
   if (!category) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/category/${category.slug}`
 
   return (
@@ -77,7 +77,7 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
 
         <CTABlock
           headline="Experience Intelligence as a Service"
-          subtext="Client Intelligence is the platform built for the IaaS model. Per-client memory, encoded methodology, isolated workspaces. Starter from $97/mo."
+          subtext="Client Intelligence is the platform built for the IaaS model. Per-client memory, encoded methodology, isolated workspaces. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

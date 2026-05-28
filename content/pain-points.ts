@@ -14,7 +14,7 @@ export const painPoints: PainPointPage[] = [
     slug: 'founder-bottleneck',
     label: 'Founder Bottleneck',
     h1: 'Stuck as the Bottleneck in Your Own Business? Here\'s the Fix',
-    metaDescription: 'If every decision and every deliverable runs through you, you\'re not running a business  -  you\'re creating a job. Client Intelligence breaks the founder bottleneck with AI-powered systems.',
+    metaDescription: 'If every decision and every deliverable runs through you, you\'re not running a business  -  you\'re creating a job. Client Intelligence breaks the founder bottleneck with AI-driven systems.',
     bullets: [
       'Every client deliverable requires your personal involvement before it goes out',
       'Your team can\'t make decisions without coming to you first',
@@ -45,7 +45,7 @@ export const painPoints: PainPointPage[] = [
     slug: 'too-busy-to-scale',
     label: 'Too Busy to Scale',
     h1: 'Too Busy to Grow Your Service Business? This Is Why',
-    metaDescription: 'Busy isn\'t the problem  -  systems are. If you\'re too busy to take on more clients, Client Intelligence replaces the time bottleneck with AI-powered delivery.',
+    metaDescription: 'Busy isn\'t the problem  -  systems are. If you\'re too busy to take on more clients, Client Intelligence replaces the time bottleneck with AI-driven delivery.',
     bullets: [
       'You turn away referrals because you don\'t have the capacity to serve more clients',
       'Every new client would require you to work longer hours you don\'t have',
@@ -68,7 +68,7 @@ export const painPoints: PainPointPage[] = [
     faqs: [
       { question: 'Why am I too busy if I\'m good at what I do?', answer: 'Being good at your craft doesn\'t create time  -  it creates demand. The busier you get, the more critical systematic delivery becomes. Client Intelligence systematizes your expertise so demand doesn\'t require proportionally more of your time.' },
       { question: 'I\'m so busy I can\'t even set up a new system  -  what do I do?', answer: 'Start with just one client workspace and one Brain Dump session. Most users take 90 minutes to get functional. The time investment is front-loaded; the returns are ongoing.' },
-      { question: 'Is the problem really time, or something else?', answer: 'Usually it\'s leverage  -  or the lack of it. Your expertise only exists in your head and your hands. Client Intelligence creates a parallel track where your methodology works without requiring your time for every application.' },
+      { question: 'Is the problem really time, or something else?', answer: 'Usually it\'s apply  -  or the lack of it. Your expertise only exists in your head and your hands. Client Intelligence creates a parallel track where your methodology works without requiring your time for every application.' },
       { question: 'How much time does Client Intelligence realistically save?', answer: 'Most users save 3–8 hours per week within 60 days  -  primarily on deliverable creation, client prep, and documentation. At $300+/hour billing rates, that\'s significant recovered revenue.' },
     ],
   },
@@ -285,7 +285,7 @@ export const painPoints: PainPointPage[] = [
     faqs: [
       { question: 'What makes agency AI use different from individual professional use?', answer: 'Scale, consistency, and team coordination. Agencies need AI that applies the same methodology across all team members for all clients. Generic tools don\'t provide this  -  each person prompts differently and gets different results.' },
       { question: 'How does Client Intelligence handle team-wide methodology consistency?', answer: 'Your agency\'s frameworks live in the Account Brain, accessible to everyone. Every team member works from the same methodology regardless of how they prompt. Consistency is structural, not dependent on individual prompting skill.' },
-      { question: 'Won\'t different clients need different approaches?', answer: 'Yes  -  and that\'s what per-client workspaces are for. The methodology is consistent (from the Account Brain) but application is personalized to each client\'s specific context and data.' },
+      { question: 'Won\'t different clients need different approaches?', answer: 'Yes  -  and that\'s what per-Workspaces are for. The methodology is consistent (from the Account Brain) but application is personalized to each client\'s specific context and data.' },
       { question: 'Is this expensive to roll out across a team?', answer: 'Client Intelligence is designed for service businesses of various sizes. Account access is shared within your organization so your full team benefits from the same framework encoding and workspace system.' },
     ],
   },
@@ -293,7 +293,7 @@ export const painPoints: PainPointPage[] = [
     slug: 'no-leverage-as-consultant',
     label: 'No Leverage as a Consultant',
     h1: 'Why You Have No Leverage as a Consultant (And How AI Changes That)',
-    metaDescription: 'Consultants who trade hours for money have no leverage. Client Intelligence turns your expertise into a scalable AI system  -  the first real leverage most consultants ever build.',
+    metaDescription: 'Consultants who trade hours for money have no leverage. Client Intelligence turns your expertise into a scalable AI system  -  the first real apply most consultants ever build.',
     bullets: [
       'Your revenue is directly capped by your available hours',
       'You\'ve raised your rates but it just means fewer total clients, not more income',
@@ -305,7 +305,7 @@ export const painPoints: PainPointPage[] = [
     forYou: [
       'You want to break the direct link between your hours and your revenue',
       'You have genuine expertise and methodology that could work systematically',
-      'You\'re willing to invest in building leverage rather than just working harder',
+      'You\'re willing to invest in building apply rather than just working harder',
       'You want your business to produce value even when you\'re not actively working',
     ],
     notForYou: [
@@ -314,10 +314,10 @@ export const painPoints: PainPointPage[] = [
       'You don\'t have repeatable methodology  -  every engagement is completely bespoke',
     ],
     faqs: [
-      { question: 'What does leverage actually mean for a consultant?', answer: 'Leverage means your expertise produces output beyond what your personal time allows. Client Intelligence encodes your methodology so it applies to multiple clients simultaneously  -  your frameworks work for you rather than requiring you to personally apply them.' },
-      { question: 'Is AI leverage real or just theoretical?', answer: 'It\'s measurable. Users who systematize their methodology in Client Intelligence serve 30–80% more clients with the same hours. That\'s real leverage: more output per unit of personal time.' },
-      { question: 'Don\'t courses and products also solve the leverage problem?', answer: 'They solve it by teaching your methodology to others. Client Intelligence solves it by applying your methodology at scale without teaching it. Different model  -  you remain the expert, AI does the application.' },
-      { question: 'What\'s the first step toward building leverage?', answer: 'Encode your most repeatable framework into Client Intelligence. Even one systematized framework creates immediate leverage for all the clients where it applies. Start small and expand.' },
+      { question: 'What does apply actually mean for a consultant?', answer: 'Leverage means your expertise produces output beyond what your personal time allows. Client Intelligence encodes your methodology so it applies to multiple clients simultaneously  -  your frameworks work for you rather than requiring you to personally apply them.' },
+      { question: 'Is AI apply real or just theoretical?', answer: 'It\'s measurable. Users who systematize their methodology in Client Intelligence serve 30–80% more clients with the same hours. That\'s real leverage: more output per unit of personal time.' },
+      { question: 'Don\'t courses and products also solve the apply problem?', answer: 'They solve it by teaching your methodology to others. Client Intelligence solves it by applying your methodology at scale without teaching it. Different model  -  you remain the expert, AI does the application.' },
+      { question: 'What\'s the first step toward building leverage?', answer: 'Encode your most repeatable framework into Client Intelligence. Even one systematized framework creates immediate apply for all the clients where it applies. Start small and expand.' },
     ],
   },
   {
@@ -377,7 +377,7 @@ export const painPoints: PainPointPage[] = [
     ],
     faqs: [
       { question: 'Why does delivery quality naturally vary across clients?', answer: 'Human delivery under variable conditions  -  time pressure, fatigue, competing priorities  -  produces variable output. Client Intelligence is consistent by nature: it always applies your full framework regardless of workload pressure.' },
-      { question: 'What if different clients need genuinely different delivery styles?', answer: 'Per-client workspaces handle this. The core methodology is consistent (from the Account Brain) but each workspace applies it to that client\'s specific context and expectations.' },
+      { question: 'What if different clients need genuinely different delivery styles?', answer: 'Per-Workspaces handle this. The core methodology is consistent (from the Account Brain) but each workspace applies it to that client\'s specific context and expectations.' },
       { question: 'How do I know which specific things to standardize?', answer: 'Start with your most common deliverable types and your most repeatable framework applications. What do you produce for most clients? Systematize that first.' },
       { question: 'Will AI consistency feel robotic to clients?', answer: 'Consistency doesn\'t mean sameness. Because AI applies your framework to each client\'s unique context, outputs are personalized and feel considered  -  just reliably so rather than variable.' },
     ],
@@ -417,7 +417,7 @@ export const painPoints: PainPointPage[] = [
     slug: 'scaling-without-systems',
     label: 'Scaling Without Systems',
     h1: 'You\'re Trying to Scale Without Systems  -  Here\'s What That Costs You',
-    metaDescription: 'Scaling by working harder isn\'t scaling. Without systems, growth creates chaos. Client Intelligence provides the AI-powered delivery systems that make real scale possible.',
+    metaDescription: 'Scaling by working harder isn\'t scaling. Without systems, growth creates chaos. Client Intelligence provides the AI-driven delivery systems that make real scale possible.',
     bullets: [
       'You\'ve added clients but your operations haven\'t changed  -  you\'re just working more',
       'Growth feels chaotic rather than organized and replicable',
@@ -438,7 +438,7 @@ export const painPoints: PainPointPage[] = [
       'You prefer to stay small and boutique intentionally',
     ],
     faqs: [
-      { question: 'What\'s the difference between working harder and systematizing?', answer: 'Working harder hits a ceiling defined by your available time. Systematizing creates leverage where your output grows faster than your input. Client Intelligence is the systematization layer that makes this possible for service businesses.' },
+      { question: 'What\'s the difference between working harder and systematizing?', answer: 'Working harder hits a ceiling defined by your available time. Systematizing creates apply where your output grows faster than your input. Client Intelligence is the systematization layer that makes this possible for service businesses.' },
       { question: 'I know I need systems  -  why haven\'t I built them?', answer: 'Building systems requires time you don\'t have while you\'re running at capacity. Client Intelligence reduces the build cost by making framework encoding fast (Brain Dump Mode) and workspace setup immediate.' },
       { question: 'How do I start building systems while still serving existing clients?', answer: 'Start with your next onboarding. Create one workspace, encode one framework, and run one client through the system. Build incrementally rather than trying to systematize everything at once.' },
       { question: 'What\'s the ROI of investing in delivery systems?', answer: 'Typically 3–6 months to recoup the setup investment, then ongoing leverage. Users who systematize can serve 30–80% more clients without proportional hour increases  -  representing real economic upside.' },

@@ -34,6 +34,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://clientintelligence.com/sitemap.xml',
+    sitemap: 'https://clientintelligence.ai/sitemap.xml',
   }
 }

@@ -29,7 +29,7 @@ export default async function UseCaseDetailPage({ params }: { params: Promise<{ 
   const uc = useCases.find((u) => u.slug === slug)
   if (!uc) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/use-case/${uc.slug}`
 
   return (
@@ -85,7 +85,7 @@ export default async function UseCaseDetailPage({ params }: { params: Promise<{ 
 
         <CTABlock
           headline="Ready to Put This Into Practice?"
-          subtext="Client Intelligence gives you the per-client memory, framework encoding, and delivery leverage you need. Starter from $97/mo."
+          subtext="Client Intelligence gives you the per-client memory, framework encoding, and delivery leverage you need. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

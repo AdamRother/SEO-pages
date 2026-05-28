@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter, Playfair_Display } from 'next/font/google'
+import { Inter } from 'next/font/google'
 import './globals.css'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
@@ -10,20 +10,14 @@ const inter = Inter({
   display: 'swap',
 })
 
-const playfair = Playfair_Display({
-  subsets: ['latin'],
-  variable: '--font-serif',
-  display: 'swap',
-})
-
 export const metadata: Metadata = {
-  metadataBase: new URL('https://clientintelligence.com'),
+  metadataBase: new URL('https://clientintelligence.ai'),
   title: {
-    default: 'Client Intelligence — Intelligence as a Service for Consultants & Agencies',
+    default: 'Client Intelligence — The AI Operating System for Service Providers',
     template: '%s | Client Intelligence',
   },
   description:
-    'Centralize your proprietary frameworks and apply them to every client through isolated per-client AI workspaces. Built for agencies, consultants, coaches, and fractional executives.',
+    'The AI operating system for service providers. One Brain. Every client. Complete isolation. Your methodology applied with precision.',
   openGraph: {
     siteName: 'Client Intelligence',
     type: 'website',
@@ -38,28 +32,27 @@ const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Client Intelligence',
-  url: 'https://clientintelligence.com',
-  sameAs: ['https://clientintelligence.ai'],
+  url: 'https://clientintelligence.ai',
+  contactPoint: { '@type': 'ContactPoint', email: 'hello@clientintelligence.ai' },
 }
 
 const softwareApplicationSchema = {
   '@context': 'https://schema.org',
   '@type': 'SoftwareApplication',
   name: 'Client Intelligence',
-  url: 'https://clientintelligence.com',
+  url: 'https://clientintelligence.ai',
   applicationCategory: 'BusinessApplication',
   description:
-    'Intelligence as a Service platform for service business owners. Centralizes proprietary frameworks and applies them to every client through isolated per-client AI workspaces.',
+    'The AI operating system for service providers. One Brain. Every client. Complete isolation. Your methodology applied with precision.',
   offers: [
-    { '@type': 'Offer', name: 'Starter', price: '97', priceCurrency: 'USD', billingIncrement: 'month' },
-    { '@type': 'Offer', name: 'Pro', price: '497', priceCurrency: 'USD', billingIncrement: 'month' },
+    { '@type': 'Offer', name: 'Full Access', price: '1000', priceCurrency: 'USD', billingIncrement: 'month' },
   ],
   operatingSystem: 'Web',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
+    <html lang="en" className={inter.variable}>
       <body className="font-sans">
         <script
           type="application/ld+json"

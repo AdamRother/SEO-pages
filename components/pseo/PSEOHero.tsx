@@ -21,7 +21,7 @@ export default function PSEOHero({
         <p className="text-xs font-semibold text-gold-accessible uppercase tracking-[0.2em] mb-4">
           {eyebrow}
         </p>
-        <h1 className="font-serif text-4xl sm:text-5xl md:text-[3.5rem] text-ink leading-tight text-balance mb-6">
+        <h1 className="text-4xl sm:text-5xl md:text-[3.5rem] font-semibold text-ink leading-tight tracking-tight text-balance mb-6">
           {h1}
         </h1>
         <p className="text-muted text-lg max-w-xl mx-auto mb-8 leading-relaxed">
@@ -44,7 +44,7 @@ export default function PSEOHero({
           </a>
         </div>
         <p className="text-muted text-xs mt-5">
-          Starter from $97/mo · Cancel anytime · Your IP stays yours
+          No long-term contracts. Your IP stays yours. Built for serious service providers.
         </p>
       </div>
     </section>

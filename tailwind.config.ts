@@ -10,21 +10,20 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        cream: '#F5F3EE',
-        'card-bg': '#EAE7DF',
+        cream: '#FAF8F3',
+        'card-bg': '#F8F6F1',
         gold: {
           DEFAULT: '#B8962E',
           dark: '#9A7E26',
-          light: '#D4B04A',
+          light: '#D4B84A',
           accessible: '#7A5C00',
         },
-        ink: '#1A1A1A',
+        ink: '#2D3036',
         muted: '#6B6B6B',
-        border: '#E5E0D5',
+        border: '#E8E4D9',
       },
       fontFamily: {
         sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
-        serif: ['var(--font-serif)', 'Georgia', 'serif'],
       },
     },
   },

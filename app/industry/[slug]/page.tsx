@@ -38,7 +38,7 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
   const industry = industries.find((i) => i.slug === slug)
   if (!industry) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/industry/${industry.slug}`
 
   return (
@@ -94,7 +94,7 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
 
         <CTABlock
           headline={`Ready to Scale Your ${industry.label} Practice?`}
-          subtext="Join consultants and agencies building with Intelligence as a Service. Starter from $97/mo."
+          subtext="Join consultants and agencies building with Intelligence as a Service. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

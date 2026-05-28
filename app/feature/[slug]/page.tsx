@@ -28,7 +28,7 @@ export default async function FeatureDetailPage({ params }: { params: Promise<{ 
   const feature = features.find((f) => f.slug === slug)
   if (!feature) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/feature/${feature.slug}`
 
   return (
@@ -83,7 +83,7 @@ export default async function FeatureDetailPage({ params }: { params: Promise<{ 
 
         <CTABlock
           headline="See It In Action"
-          subtext="Experience per-client AI memory, framework encoding, and isolated workspaces in your own practice. Starter from $97/mo."
+          subtext="Experience per-client AI memory, framework encoding, and isolated workspaces in your own practice. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

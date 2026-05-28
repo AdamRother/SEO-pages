@@ -39,7 +39,7 @@ export default async function PersonaPage({ params }: { params: Promise<{ person
   const persona = personas.find((p) => p.slug === personaSlug)
   if (!persona) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/for/${persona.slug}`
 
   return (
@@ -100,7 +100,7 @@ export default async function PersonaPage({ params }: { params: Promise<{ person
 
         <CTABlock
           headline={`Ready to Scale Your ${persona.label} Practice?`}
-          subtext="Join consultants and agencies building with Intelligence as a Service. Starter from $97/mo."
+          subtext="Join consultants and agencies building with Intelligence as a Service. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

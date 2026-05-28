@@ -28,7 +28,7 @@ export default async function PainDetailPage({ params }: { params: Promise<{ slu
   const pain = painPoints.find((p) => p.slug === slug)
   if (!pain) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/pain/${pain.slug}`
 
   return (
@@ -79,7 +79,7 @@ export default async function PainDetailPage({ params }: { params: Promise<{ slu
 
         <CTABlock
           headline="Ready to Solve This?"
-          subtext="Client Intelligence gives you the systems to break through the constraints that are holding your practice back. Starter from $97/mo."
+          subtext="Client Intelligence gives you the systems to break through the constraints that are holding your practice back. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

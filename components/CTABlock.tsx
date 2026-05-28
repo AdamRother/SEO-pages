@@ -6,13 +6,13 @@ interface CTABlockProps {
 
 export default function CTABlock({
   headline,
-  subtext = 'Starter plan from $97/mo  -  no commitment, no hype.',
+  subtext = 'Built for service providers serious about scaling their methodology.',
   cta = 'Start Free Trial →',
 }: CTABlockProps) {
   return (
     <section className="bg-[#1C1700] px-6 py-20">
       <div className="max-w-2xl mx-auto text-center">
-        <h2 className="font-serif text-2xl sm:text-3xl text-white leading-tight mb-4 text-balance">
+        <h2 className="text-2xl sm:text-3xl font-semibold text-white leading-tight mb-4 text-balance">
           {headline}
         </h2>
         {subtext && (

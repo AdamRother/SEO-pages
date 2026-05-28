@@ -39,7 +39,7 @@ export default async function CompetitorPage({ params }: { params: Promise<{ com
   const competitor = competitors.find((c) => c.slug === competitorSlug)
   if (!competitor) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/vs/${competitor.slug}`
 
   return (
@@ -100,7 +100,7 @@ export default async function CompetitorPage({ params }: { params: Promise<{ com
 
         <CTABlock
           headline={`Ready to Move Beyond ${competitor.label}?`}
-          subtext="Client Intelligence is purpose-built for multi-client professional service delivery. Starter from $97/mo."
+          subtext="Client Intelligence is purpose-built for multi-client professional service delivery. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

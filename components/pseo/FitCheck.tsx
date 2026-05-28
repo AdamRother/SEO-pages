@@ -7,7 +7,7 @@ export default function FitCheck({ forYou, notForYou }: FitCheckProps) {
   return (
     <section className="border-t border-border">
       <div className="max-w-3xl mx-auto px-6 py-16">
-        <h2 className="font-serif text-2xl sm:text-3xl text-ink mb-10 leading-tight">
+        <h2 className="text-2xl sm:text-3xl font-semibold text-ink mb-10 leading-tight tracking-tight">
           Is this for you?
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">

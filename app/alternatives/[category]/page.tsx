@@ -38,7 +38,7 @@ export default async function AlternativePage({ params }: { params: Promise<{ ca
   const alt = alternatives.find((a) => a.slug === categorySlug)
   if (!alt) notFound()
 
-  const BASE_URL = 'https://clientintelligence.com'
+  const BASE_URL = 'https://clientintelligence.ai'
   const pageUrl = `${BASE_URL}/alternatives/${alt.slug}`
 
   return (
@@ -94,7 +94,7 @@ export default async function AlternativePage({ params }: { params: Promise<{ ca
 
         <CTABlock
           headline="Ready to Try the Alternative?"
-          subtext="Client Intelligence is purpose-built for multi-client professional service delivery. Starter from $97/mo."
+          subtext="Client Intelligence is purpose-built for multi-client professional service delivery. No long-term contracts."
           cta="Start Free Trial →"
         />
       </main>

@@ -13,7 +13,7 @@ export default function ComparisonTable({ competitorLabel, rows }: ComparisonTab
   return (
     <section className="border-t border-border">
       <div className="max-w-4xl mx-auto px-6 py-16">
-      <h2 className="font-serif text-2xl sm:text-3xl text-ink mb-10 leading-tight">
+      <h2 className="text-2xl sm:text-3xl font-semibold text-ink mb-10 leading-tight tracking-tight">
         Client Intelligence vs {competitorLabel}
       </h2>
       <div className="rounded-2xl border border-border overflow-hidden">

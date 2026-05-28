@@ -11,7 +11,7 @@ export default function FeaturePage() {
     <main className="bg-cream min-h-screen">
       <section className="max-w-5xl mx-auto px-6 py-20">
         <p className="text-xs text-gold-accessible uppercase tracking-[0.2em] mb-4">Features</p>
-        <h1 className="font-serif text-4xl sm:text-5xl text-ink mb-6 leading-tight">
+        <h1 className="text-4xl sm:text-5xl font-semibold text-ink mb-6 leading-tight tracking-tight">
           Built for How You Actually Work
         </h1>
         <p className="text-muted text-lg mb-16 max-w-2xl">

@@ -49,7 +49,7 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'What is the best AI tool for fractional CROs?',
-        answer: 'Client Intelligence is purpose-built for fractional operators  -  it centralizes your revenue methodology and applies it to every client through isolated per-client workspaces. Unlike ChatGPT or Claude Projects, it is designed for multi-client service delivery with true data isolation per engagement.',
+        answer: 'Client Intelligence is purpose-built for fractional operators  -  it centralizes your revenue methodology and applies it to every client through isolated per-Workspaces. Unlike ChatGPT or Claude Projects, it is designed for multi-client service delivery with true data isolation per engagement.',
       },
       {
         question: 'How do fractional CROs use AI without mixing client data?',
@@ -61,7 +61,7 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'What is Intelligence as a Service for fractional executives?',
-        answer: 'Intelligence as a Service means your expert methodology is encoded into an AI system that delivers that intelligence to each client individually  -  at scale, without you being present for every interaction. It is the leverage model for fractional executives.',
+        answer: 'Intelligence as a Service means your expert methodology is encoded into an AI system that delivers that intelligence to each client individually  -  at scale, without you being present for every interaction. It is the apply model for fractional executives.',
       },
     ],
   },
@@ -434,7 +434,7 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'What is the best platform for scaling an AI consulting practice?',
-        answer: 'Client Intelligence is purpose-built for this. It is the only platform that gives AI consultants a centralized methodology brain plus fully isolated client workspaces  -  the exact architecture needed to scale implementation work without risk or context rebuilding.',
+        answer: 'Client Intelligence is purpose-built for this. It is the only platform that gives AI consultants a centralized methodology brain plus fully isolated Workspaces  -  the exact architecture needed to scale implementation work without risk or context rebuilding.',
       },
     ],
   },
@@ -510,7 +510,7 @@ export const personas: PersonaPage[] = [
       },
       {
         title: 'Scaling to a team without methodology drift',
-        story: 'The coach brings on a junior coach. Client Intelligence ensures the junior uses the same methodology  -  the Account Brain enforces consistency across all client workspaces.',
+        story: 'The coach brings on a junior coach. Client Intelligence ensures the junior uses the same methodology  -  the Account Brain enforces consistency across all Workspaces.',
         result: 'Team scaled without methodology dilution.',
       },
     ],
@@ -634,7 +634,7 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'How do solopreneur consultants scale without hiring?',
-        answer: 'Client Intelligence is the leverage tool for solo practitioners. Encode your methodology once, maintain full context for every client in isolated workspaces, and let the AI handle diagnostic, documentation, and prep work  -  you focus on high-value advisory only you can deliver.',
+        answer: 'Client Intelligence is the apply tool for solo practitioners. Encode your methodology once, maintain full context for every client in isolated workspaces, and let the AI handle diagnostic, documentation, and prep work  -  you focus on high-value advisory only you can deliver.',
       },
       {
         question: 'What is the best AI for solo consultants managing multiple clients?',
@@ -699,7 +699,7 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'Can AI help a small consulting firm compete with larger firms?',
-        answer: 'Yes. Client Intelligence gives boutique firms the same leverage that large firms get from institutional knowledge systems  -  centralized IP, consistent methodology delivery, and per-client intelligence  -  without the enterprise budget.',
+        answer: 'Yes. Client Intelligence gives boutique firms the same apply that large firms get from institutional knowledge systems  -  centralized IP, consistent methodology delivery, and per-client intelligence  -  without the enterprise budget.',
       },
     ],
   },
@@ -956,7 +956,7 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'What AI tools do agency owners use to scale delivery?',
-        answer: 'Client Intelligence is the leverage layer for agency owners. It centralizes your methodology, gives every client an isolated workspace, and applies your frameworks consistently  -  so delivery quality scales without adding headcount.',
+        answer: 'Client Intelligence is the apply layer for agency owners. It centralizes your methodology, gives every client an isolated workspace, and applies your frameworks consistently  -  so delivery quality scales without adding headcount.',
       },
       {
         question: 'How do agencies maintain quality while scaling?',
@@ -1005,7 +1005,7 @@ export const personas: PersonaPage[] = [
     faqs: [
       {
         question: 'How do one-person agencies scale without hiring?',
-        answer: 'Client Intelligence is the leverage system for solo operators. Encode your methodology, maintain per-client memory in isolated workspaces, and let the AI handle framework application and documentation  -  you focus on the work only you can do.',
+        answer: 'Client Intelligence is the apply system for solo operators. Encode your methodology, maintain per-client memory in isolated workspaces, and let the AI handle framework application and documentation  -  you focus on the work only you can do.',
       },
       {
         question: 'What AI tools do one-person agencies use?',
@@ -1013,7 +1013,7 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'Can a one-person agency compete with larger agencies using AI?',
-        answer: 'Yes. Client Intelligence gives solo operators the same methodology consistency, per-client intelligence, and delivery leverage that larger agencies get from teams and systems  -  at a fraction of the overhead.',
+        answer: 'Yes. Client Intelligence gives solo operators the same methodology consistency, per-client intelligence, and delivery apply that larger agencies get from teams and systems  -  at a fraction of the overhead.',
       },
       {
         question: 'What is Intelligence as a Service for one-person agencies?',
@@ -1062,7 +1062,7 @@ export const personas: PersonaPage[] = [
       },
       {
         question: 'What AI tools do high-ticket service providers use?',
-        answer: 'Client Intelligence is the leverage platform for high-ticket operators. It maintains the per-client depth that justifies premium pricing while enabling you to serve significantly more clients than you could manually.',
+        answer: 'Client Intelligence is the apply platform for high-ticket operators. It maintains the per-client depth that justifies premium pricing while enabling you to serve significantly more clients than you could manually.',
       },
       {
         question: 'How do premium service businesses use AI without losing personalization?',
@@ -1237,7 +1237,7 @@ export const personas: PersonaPage[] = [
     slug: 'growth-hacking-agencies',
     label: 'Growth Agencies',
     pain: 'running experiments and frameworks across multiple clients without blurring lines',
-    outcome: 'Isolated client workspaces for every growth engagement',
+    outcome: 'Isolated Workspaces for every growth engagement',
     metaDescription: 'Client Intelligence for Growth Agencies  -  run your growth frameworks across multiple clients with fully isolated workspaces per account. No strategy bleed, ever.',
     scenarios: [
       {

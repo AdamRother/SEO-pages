@@ -16,7 +16,7 @@ export const useCases: UseCasePage[] = [
     metaDescription: 'Learn how solo consultants use Client Intelligence to take on more clients, deliver better results, and grow revenue  -  without adding headcount.',
     steps: [
       { step: '1', title: 'Encode Your Methodology', body: 'Upload your frameworks, SOPs, and past client work into your Account Brain. This becomes the permanent, AI-readable version of your expertise.' },
-      { step: '2', title: 'Create Isolated Client Workspaces', body: 'Each client gets their own workspace with their data, history, and context. Your AI always knows who it\'s talking about  -  no mixing.' },
+      { step: '2', title: 'Create Isolated Workspaces', body: 'Each client gets their own workspace with their data, history, and context. Your AI always knows who it\'s talking about  -  no mixing.' },
       { step: '3', title: 'Apply Frameworks Automatically', body: 'When you open a client workspace, your methodology is already in context. Generate tailored deliverables without starting from scratch each time.' },
       { step: '4', title: 'Delegate Execution to AI', body: 'Use the Blueprint Execution Layer to let AI handle repeatable tasks: reports, follow-ups, analysis. You review and refine instead of building from zero.' },
     ],
@@ -29,7 +29,7 @@ export const useCases: UseCasePage[] = [
       { question: 'Can I really scale without hiring?', answer: 'Yes. Most consultants who can\'t scale are limited by the time it takes to apply their thinking to each new client. Client Intelligence removes that bottleneck by encoding your frameworks once and applying them to every client automatically.' },
       { question: 'Does this work if my consulting is highly customized?', answer: 'Especially if it\'s highly customized. Your frameworks stay in your Account Brain while each client\'s context lives in their isolated workspace. You get customization plus consistency at the same time.' },
       { question: 'What happens to quality when I take on more clients?', answer: 'Quality improves. AI never forgets to apply your methodology, never skips a step, and always has full context from the client\'s history. Most users report better delivery consistency after onboarding.' },
-      { question: 'How long does it take to set up?', answer: 'Most users are operational within one working session. You Brain Dump your existing frameworks, create your first few client workspaces, and the system is ready to use the same day.' },
+      { question: 'How long does it take to set up?', answer: 'Most users are operational within one working session. You Brain Dump your existing frameworks, create your first few Workspaces, and the system is ready to use the same day.' },
     ],
   },
   {
@@ -52,14 +52,14 @@ export const useCases: UseCasePage[] = [
       { question: 'Does training AI on my framework require technical skills?', answer: 'None. You upload your frameworks in whatever form they exist  -  documents, slides, transcripts, voice notes  -  and Client Intelligence organizes them into AI-readable IP. No coding required.' },
       { question: 'Will my framework be used to train other users\' AI?', answer: 'Never. Your Account Brain is completely isolated to your account. Your IP stays yours. It\'s never used for training, shared with other users, or accessible outside your workspaces.' },
       { question: 'What formats can I upload?', answer: 'PDFs, Word documents, slide decks, plain text, transcripts, and voice recordings (transcribed automatically). If it contains your thinking, Client Intelligence can work with it.' },
-      { question: 'How does this differ from just adding a system prompt to ChatGPT?', answer: 'A system prompt is a one-time instruction in a single conversation. Client Intelligence permanently encodes your framework into persistent memory that applies across all client workspaces and all sessions  -  with full client context alongside it.' },
+      { question: 'How does this differ from just adding a system prompt to ChatGPT?', answer: 'A system prompt is a one-time instruction in a single conversation. Client Intelligence permanently encodes your framework into persistent memory that applies across all Workspaces and all sessions  -  with full client context alongside it.' },
     ],
   },
   {
     slug: 'productize-your-methodology',
     label: 'Productize Your Methodology',
     h1: 'How to Productize Your Consulting Methodology with AI',
-    metaDescription: 'Turn your consulting expertise into a repeatable, AI-powered delivery system. Productize your methodology without turning it into a course or template.',
+    metaDescription: 'Turn your consulting expertise into a repeatable, AI-driven delivery system. Productize your methodology without turning it into a course or template.',
     steps: [
       { step: '1', title: 'Document Your Repeatable Process', body: 'Identify the 3–7 core steps every client goes through and the frameworks you apply at each stage. These become the skeleton of your productized methodology.' },
       { step: '2', title: 'Encode in Client Intelligence', body: 'Upload the full methodology into your Account Brain. Include your decision trees, diagnostic questions, and example outputs for each stage.' },
@@ -67,8 +67,8 @@ export const useCases: UseCasePage[] = [
       { step: '4', title: 'Run Delivery at Scale', body: 'Use the Blueprint Execution Layer to automate repeatable deliverables within each methodology stage. You spend time on insight and judgment, not formatting.' },
     ],
     scenarios: [
-      { title: 'The Trapped Expert', story: 'Nina\'s methodology was brilliant but lived entirely in her head. Every new client required her to re-explain, re-teach, and re-apply everything from scratch. She couldn\'t take vacation.', result: 'After productizing her methodology in Client Intelligence, Nina can onboard new clients using a documented, AI-powered process. She took a two-week trip and didn\'t lose a single client.' },
-      { title: 'The Inconsistent Delivery Problem', story: 'Anthony\'s team of three consultants all applied "his" methodology differently. Clients had wildly different experiences depending on who led their account.', result: 'With the methodology encoded in Client Intelligence, all three consultants run every engagement through the same AI-powered process. Consistency went from 60% to 95%.' },
+      { title: 'The Trapped Expert', story: 'Nina\'s methodology was brilliant but lived entirely in her head. Every new client required her to re-explain, re-teach, and re-apply everything from scratch. She couldn\'t take vacation.', result: 'After productizing her methodology in Client Intelligence, Nina can onboard new clients using a documented, AI-driven process. She took a two-week trip and didn\'t lose a single client.' },
+      { title: 'The Inconsistent Delivery Problem', story: 'Anthony\'s team of three consultants all applied "his" methodology differently. Clients had wildly different experiences depending on who led their account.', result: 'With the methodology encoded in Client Intelligence, all three consultants run every engagement through the same AI-driven process. Consistency went from 60% to 95%.' },
       { title: 'The Undercharging Expert', story: 'Fatima was charging $5k per client engagement because each one took three months of her time. Her methodology had value, but delivery was capped by hours.', result: 'After productizing her methodology with AI execution support, Fatima delivers the same outcomes in six weeks and doubled her client capacity  -  without reducing her fees.' },
     ],
     faqs: [
@@ -183,7 +183,7 @@ export const useCases: UseCasePage[] = [
     ],
     scenarios: [
       { title: 'The Quality Decline Fear', story: 'Sophia had built a reputation on white-glove service. When clients asked if she\'d scale, she always said no  -  she didn\'t trust that quality could survive growth.', result: 'After testing Client Intelligence with two new clients, Sophia found her NPS scores were higher than her manually delivered accounts. She added four more clients confidently.' },
-      { title: 'The Thin-Margin Growth Problem', story: 'Bernard grew his agency from 8 to 15 clients but margins collapsed because he hired to maintain quality. More revenue, less profit  -  the growth treadmill.', result: 'By replacing human delivery hours with AI-powered workflows, Bernard serves 15 clients with the same headcount as 8. Margins are at an all-time high.' },
+      { title: 'The Thin-Margin Growth Problem', story: 'Bernard grew his agency from 8 to 15 clients but margins collapsed because he hired to maintain quality. More revenue, less profit  -  the growth treadmill.', result: 'By replacing human delivery hours with AI-driven workflows, Bernard serves 15 clients with the same headcount as 8. Margins are at an all-time high.' },
       { title: 'The Client Who Tested Quality', story: 'A new enterprise client told Claire she\'d be auditing deliverable quality across her entire engagement as a condition of renewal. Claire was nervous about scaling simultaneously.', result: 'The client\'s audit found consistency scores above benchmark on every deliverable. The fact that AI applied the same framework every time was an advantage, not a risk.' },
     ],
     faqs: [
@@ -251,15 +251,15 @@ export const useCases: UseCasePage[] = [
       { step: '4', title: 'Expand Capacity Without Expanding Hours', body: 'With AI handling execution, your effective output per hour increases. You serve more clients, generate more revenue, and work fewer hours  -  that\'s leverage.' },
     ],
     scenarios: [
-      { title: 'The Time-for-Money Trap', story: 'Alex charged $300/hour and maxed at 30 billable hours per week. He\'d built an expensive job, not a business. There was no way to earn more without working more.', result: 'After building AI leverage with Client Intelligence, Alex serves 40% more clients without adding hours. He raised his rates because demand exceeded his perceived availability.' },
+      { title: 'The Time-for-Money Trap', story: 'Alex charged $300/hour and maxed at 30 billable hours per week. He\'d built an expensive job, not a business. There was no way to earn more without working more.', result: 'After building AI apply with Client Intelligence, Alex serves 40% more clients without adding hours. He raised his rates because demand exceeded his perceived availability.' },
       { title: 'The IP Monetization Gap', story: 'Theresa had deep expertise worth far more than her hourly rate implied. But she couldn\'t figure out how to package it for scale without turning it into a course she didn\'t want to teach.', result: 'By encoding her IP in Client Intelligence, Theresa now applies it across more clients without the teaching overhead. Her expertise earns at scale without her being in the room.' },
       { title: 'The Vacation Problem', story: 'Sam hadn\'t taken a real vacation in four years. Every client needed him directly. Unplugging meant losing business.', result: 'With Client Intelligence systematizing delivery, Sam took 12 days off and his clients received timely, quality work. His associate ran most engagements from the documented AI system.' },
     ],
     faqs: [
-      { question: 'What\'s the difference between leverage and just working faster?', answer: 'Working faster still trades time for output. Leverage means your expertise produces output without requiring proportional time input. AI systematizes your frameworks so they apply at scale.' },
+      { question: 'What\'s the difference between apply and just working faster?', answer: 'Working faster still trades time for output. Leverage means your expertise produces output without requiring proportional time input. AI systematizes your frameworks so they apply at scale.' },
       { question: 'Can a solo consultant really build true leverage?', answer: 'Yes  -  more easily than a larger firm, because you can move fast. The key is systematizing what makes you valuable before you hit your capacity ceiling.' },
-      { question: 'Does leverage mean I\'ll work less?', answer: 'It means you choose. Some consultants use leverage to work the same hours and earn more. Others use it to work fewer hours and maintain income. The choice becomes yours.' },
-      { question: 'What\'s the first piece of leverage to build?', answer: 'Framework systematization. Encode your methodology first. This immediately lets you apply your expertise faster and more consistently  -  measurable leverage from day one.' },
+      { question: 'Does apply mean I\'ll work less?', answer: 'It means you choose. Some consultants use apply to work the same hours and earn more. Others use it to work fewer hours and maintain income. The choice becomes yours.' },
+      { question: 'What\'s the first piece of apply to build?', answer: 'Framework systematization. Encode your methodology first. This immediately lets you apply your expertise faster and more consistently  -  measurable apply from day one.' },
     ],
   },
   {
@@ -292,7 +292,7 @@ export const useCases: UseCasePage[] = [
     metaDescription: 'Using general AI tools for confidential client work is a real risk. Learn how Client Intelligence provides isolated, secure workspaces designed for professional services.',
     steps: [
       { step: '1', title: 'Understand the Risk of General AI Tools', body: 'When you paste client data into ChatGPT or shared AI tools, that data potentially enters training pipelines and exists in shared infrastructure. For confidential work, this is a risk.' },
-      { step: '2', title: 'Set Up Isolated Client Workspaces', body: 'Create a dedicated workspace for each client. Data you upload is isolated to that workspace. It doesn\'t share infrastructure with other clients or other users.' },
+      { step: '2', title: 'Set Up Isolated Workspaces', body: 'Create a dedicated workspace for each client. Data you upload is isolated to that workspace. It doesn\'t share infrastructure with other clients or other users.' },
       { step: '3', title: 'Run All Client AI Work Within Workspaces', body: 'All AI interactions for a client happen inside their workspace. Nothing from one client can appear in another\'s context. Confidentiality is structural, not just policy.' },
       { step: '4', title: 'Maintain a Clean Audit Trail', body: 'Every action within a workspace is logged to that workspace. You have a complete record of what was done, when, and with what data  -  useful for compliance and client reporting.' },
     ],
@@ -386,7 +386,7 @@ export const useCases: UseCasePage[] = [
       { step: '1', title: 'Document Your Framework as Decision Logic', body: 'Reframe your framework as a series of decisions: What data do I gather first? What questions do I ask? What does each answer tell me? What actions follow? This becomes agent logic.' },
       { step: '2', title: 'Encode the Logic in Your Account Brain', body: 'Upload your decision framework in structured form. Include the diagnostic questions, decision criteria, and output formats for each scenario.' },
       { step: '3', title: 'Attach Skills to Framework Stages', body: 'Use Skills to attach specific AI capabilities to specific stages of your framework  -  research for diagnosis, drafting for recommendations, analysis for review.' },
-      { step: '4', title: 'Run Your Framework Agent in Client Workspaces', body: 'Deploy your framework agent within each client workspace. It has access to that client\'s context and your methodology simultaneously  -  personalized and systematized at once.' },
+      { step: '4', title: 'Run Your Framework Agent in Workspaces', body: 'Deploy your framework agent within each client workspace. It has access to that client\'s context and your methodology simultaneously  -  personalized and systematized at once.' },
     ],
     scenarios: [
       { title: 'The Expert-in-a-Box Vision', story: 'Priya had built a diagnostic framework for identifying conversion problems that consultants spent months learning. She wanted to encode it so junior team members could run it.', result: 'After encoding her framework as an agent in Client Intelligence, junior team members produce diagnostic outputs as accurate as Priya\'s own. She\'s multiplied her expertise across her team.' },
@@ -404,7 +404,7 @@ export const useCases: UseCasePage[] = [
     slug: 'scale-revops-consulting',
     label: 'Scale RevOps Consulting with AI',
     h1: 'How RevOps Consultants Use AI to Scale Client Delivery',
-    metaDescription: 'RevOps consultants manage complex multi-system client environments. Client Intelligence provides per-client workspaces, consistent frameworks, and scalable delivery across your entire book of business.',
+    metaDescription: 'RevOps consultants manage complex multi-system client environments. Client Intelligence provides per-Workspaces, consistent frameworks, and scalable delivery across your entire book of business.',
     steps: [
       { step: '1', title: 'Encode Your RevOps Frameworks', body: 'Upload your revenue operations playbooks, audit frameworks, and optimization models. These become the consistent methodology across all client engagements.' },
       { step: '2', title: 'Create Client-Specific Workspaces', body: 'Each client\'s workspace holds their CRM structure, process maps, audit findings, and strategy documents. Isolated context for complex multi-tool environments.' },
@@ -417,7 +417,7 @@ export const useCases: UseCasePage[] = [
       { title: 'The Framework Inconsistency Across Engagements', story: 'As Jake\'s RevOps consultancy grew, different consultants applied their frameworks differently. Client outcomes varied in ways that were embarrassing when compared in reference calls.', result: 'With their frameworks encoded in Client Intelligence, all consultants apply the same methodology. Client outcomes are now consistently citable in reference conversations.' },
     ],
     faqs: [
-      { question: 'Can Client Intelligence integrate with CRM systems directly?', answer: 'Currently, you add CRM exports and process documentation to client workspaces. Direct CRM integrations are on the product roadmap. The document-based approach handles most RevOps consulting needs.' },
+      { question: 'Can Client Intelligence integrate with CRM systems directly?', answer: 'Currently, you add CRM exports and process documentation to Workspaces. Direct CRM integrations are on the product roadmap. The document-based approach handles most RevOps consulting needs.' },
       { question: 'Is this useful for RevOps advisory or only for implementation consulting?', answer: 'Both. For advisory, the framework application and diagnostics work is the core use case. For implementation consulting, the project management and documentation workflows add significant efficiency.' },
       { question: 'How do you handle client data that\'s commercially sensitive?', answer: 'Each client workspace is isolated. Revenue data, pipeline data, and process documentation for Client A never appears in Client B\'s workspace. The isolation is architectural.' },
       { question: 'Can I use this to onboard clients faster?', answer: 'Yes. Upload your onboarding questionnaire outputs and initial audit findings to the workspace immediately. Intelligence has full context from the start of the engagement.' },
@@ -454,7 +454,7 @@ export const useCases: UseCasePage[] = [
     steps: [
       { step: '1', title: 'Map Every Agency Function', body: 'List everything a full agency does: strategy, research, copywriting, project management, quality review, client communication. These are your systematization targets.' },
       { step: '2', title: 'Encode Agency Standards and Processes', body: 'Upload your quality standards, delivery SOPs, client communication templates, and framework documents to your Account Brain. This is your agency\'s operating system.' },
-      { step: '3', title: 'Create Client Workspaces as Agency Accounts', body: 'Each client gets a workspace that functions like a full account within your one-person agency  -  complete context, isolated data, and consistent delivery processes.' },
+      { step: '3', title: 'Create Workspaces as Agency Accounts', body: 'Each client gets a workspace that functions like a full account within your one-person agency  -  complete context, isolated data, and consistent delivery processes.' },
       { step: '4', title: 'Run Agency-Level Output Alone', body: 'With AI handling research, drafting, formatting, and documentation, you produce agency-level output volume and quality as a solo operator.' },
     ],
     scenarios: [
@@ -473,22 +473,22 @@ export const useCases: UseCasePage[] = [
     slug: 'ai-knowledge-management-consultants',
     label: 'AI Knowledge Management for Consultants',
     h1: 'How Consultants Use AI for Knowledge Management and Client Delivery',
-    metaDescription: 'Consultants generate enormous amounts of valuable knowledge. Client Intelligence provides a permanent, searchable, AI-ready knowledge base for your entire practice.',
+    metaDescription: 'Consultants generate enormous amounts of valuable knowledge. Client Intelligence provides a permanent, searchable, AI-ready Brain for your entire practice.',
     steps: [
-      { step: '1', title: 'Centralize All Practice Knowledge', body: 'Upload frameworks, case studies, methodologies, research, templates, and institutional knowledge to your Account Brain. This becomes your practice\'s permanent knowledge base.' },
+      { step: '1', title: 'Centralize All Practice Knowledge', body: 'Upload frameworks, case studies, methodologies, research, templates, and institutional knowledge to your Account Brain. This becomes your practice\'s permanent Brain.' },
       { step: '2', title: 'Make Knowledge Accessible to Every Client', body: 'When working in any client workspace, Intelligence draws from your Account Brain to apply relevant knowledge to that client\'s situation without manual search.' },
-      { step: '3', title: 'Keep Knowledge Current', body: 'As you complete engagements, add learnings, refined frameworks, and new case studies. Your knowledge base grows with your practice and becomes more valuable over time.' },
-      { step: '4', title: 'Deploy Knowledge at the Speed of AI', body: 'What used to require manual research through your files now surfaces in seconds. Intelligence knows your knowledge base and applies it in context.' },
+      { step: '3', title: 'Keep Knowledge Current', body: 'As you complete engagements, add learnings, refined frameworks, and new case studies. Your Brain grows with your practice and becomes more valuable over time.' },
+      { step: '4', title: 'Deploy Knowledge at the Speed of AI', body: 'What used to require manual research through your files now surfaces in seconds. Intelligence knows your Brain and applies it in context.' },
     ],
     scenarios: [
-      { title: 'The Lost Knowledge Problem', story: 'After ten years, Rachel had an enormous knowledge base in emails, drive folders, and her head. Useful insights were constantly buried and rediscovered too late or not at all.', result: 'After uploading her full knowledge library to Client Intelligence, Rachel surfaces relevant insights during client engagements in real-time. She\'s mining knowledge she\'d forgotten she had.' },
+      { title: 'The Lost Knowledge Problem', story: 'After ten years, Rachel had an enormous Brain in emails, drive folders, and her head. Useful insights were constantly buried and rediscovered too late or not at all.', result: 'After uploading her full knowledge library to Client Intelligence, Rachel surfaces relevant insights during client engagements in real-time. She\'s mining knowledge she\'d forgotten she had.' },
       { title: 'The Institutional Knowledge Risk', story: 'When a senior consultant at David\'s firm left, significant institutional knowledge left with them. The remaining team didn\'t know what they\'d lost until they needed it.', result: 'David now systematically uploads all knowledge created by his team into Client Intelligence. If anyone leaves, the knowledge stays. The firm\'s intellectual capital belongs to the firm.' },
-      { title: 'The Case Study Application Gap', story: 'Marcus had case studies from 30 engagements. They were in a folder no one consulted. When relevant precedents existed, his team didn\'t know to look.', result: 'With case studies in Client Intelligence, Intelligence surfaces relevant precedents automatically when working in client workspaces. Institutional knowledge is now actively used, not passively stored.' },
+      { title: 'The Case Study Application Gap', story: 'Marcus had case studies from 30 engagements. They were in a folder no one consulted. When relevant precedents existed, his team didn\'t know to look.', result: 'With case studies in Client Intelligence, Intelligence surfaces relevant precedents automatically when working in Workspaces. Institutional knowledge is now actively used, not passively stored.' },
     ],
     faqs: [
       { question: 'How is this different from a shared drive or wiki?', answer: 'A shared drive requires you to search. Client Intelligence surfaces relevant knowledge automatically based on context  -  what you\'re working on, which client, and what questions you\'re asking.' },
       { question: 'What\'s the best way to organize knowledge for AI access?', answer: 'Less structure is needed than you\'d think. Upload in any format and Client Intelligence handles organization. Clear naming and occasional tagging helps, but perfect taxonomy isn\'t required.' },
-      { question: 'Can multiple consultants contribute to the same knowledge base?', answer: 'Yes. Everyone with account access can add to the Account Brain. Knowledge contributed by any team member is accessible to all  -  building collective institutional intelligence.' },
+      { question: 'Can multiple consultants contribute to the same Brain?', answer: 'Yes. Everyone with account access can add to the Account Brain. Knowledge contributed by any team member is accessible to all  -  building collective institutional intelligence.' },
       { question: 'Does old knowledge become irrelevant and clutter the system?', answer: 'You can archive or delete outdated content. But most historical knowledge remains useful  -  past case studies, old frameworks, and previous analyses often surface unexpected relevance years later.' },
     ],
   },
@@ -529,7 +529,7 @@ export const useCases: UseCasePage[] = [
     scenarios: [
       { title: 'The Headcount Ceiling', story: 'Every time Diego\'s agency won two new clients, he had to hire another person. Margins were constant but the management complexity compounded. Growth was eating him alive.', result: 'After systematizing delivery in Client Intelligence, Diego\'s existing team serves 30% more clients. He hasn\'t hired in eight months and margin has increased for the first time in three years.' },
       { title: 'The Junior Staff Quality Gap', story: 'Natasha\'s agency relied on junior staff to deliver, but quality was inconsistent. She spent enormous time reviewing and correcting work that missed her standards.', result: 'With her standards encoded in Client Intelligence, junior staff produce within her quality range from the first draft. Review time dropped by 60% and client satisfaction improved.' },
-      { title: 'The Rapid Growth Scare', story: 'When Felix\'s agency landed a large contract that doubled their client count overnight, he panicked. He couldn\'t hire fast enough to maintain quality.', result: 'By deploying Client Intelligence workflows across all new client workspaces immediately, Felix\'s team absorbed the growth without a quality drop. He didn\'t make a single emergency hire.' },
+      { title: 'The Rapid Growth Scare', story: 'When Felix\'s agency landed a large contract that doubled their client count overnight, he panicked. He couldn\'t hire fast enough to maintain quality.', result: 'By deploying Client Intelligence workflows across all new Workspaces immediately, Felix\'s team absorbed the growth without a quality drop. He didn\'t make a single emergency hire.' },
     ],
     faqs: [
       { question: 'How much can I realistically scale before needing to hire?', answer: 'Most agencies report being able to add 30–50% more clients before needing additional headcount. The exact multiplier depends on how much of your delivery is systematizable.' },
@@ -551,8 +551,8 @@ export const useCases: UseCasePage[] = [
     ],
     scenarios: [
       { title: 'The Inarticulate Expert', story: 'Brian was brilliant at diagnosing client problems but couldn\'t explain his process  -  he just "knew." Systematizing felt impossible because the knowledge was intuitive.', result: 'Brain Dump Mode captured Brian\'s intuitive process through examples and case walkthroughs instead of abstract frameworks. His implicit knowledge became explicit and deployable.' },
-      { title: 'The Knowledge Silo Problem', story: 'Aisha\'s three-person consulting firm had three experts who each knew different things. Knowledge transfer between them was slow, incomplete, and dependent on individual availability.', result: 'Each expert uploaded their domain knowledge to Client Intelligence. Now all three draw from the collective knowledge base. Cross-domain application improved immediately.' },
-      { title: 'The Succession Readiness Challenge', story: 'When Paul\'s business partner announced he was retiring in 18 months, Paul realized that 40% of the firm\'s expertise would walk out with him.', result: 'The retiring partner spent 12 months systematizing his knowledge in Client Intelligence. When he left, the IP stayed. The firm maintained the knowledge base he\'d spent 20 years building.' },
+      { title: 'The Knowledge Silo Problem', story: 'Aisha\'s three-person consulting firm had three experts who each knew different things. Knowledge transfer between them was slow, incomplete, and dependent on individual availability.', result: 'Each expert uploaded their domain knowledge to Client Intelligence. Now all three draw from the collective Brain. Cross-domain application improved immediately.' },
+      { title: 'The Succession Readiness Challenge', story: 'When Paul\'s business partner announced he was retiring in 18 months, Paul realized that 40% of the firm\'s expertise would walk out with him.', result: 'The retiring partner spent 12 months systematizing his knowledge in Client Intelligence. When he left, the IP stayed. The firm maintained the Brain he\'d spent 20 years building.' },
     ],
     faqs: [
       { question: 'What if I can\'t articulate my knowledge clearly?', answer: 'That\'s what Brain Dump Mode is for. Start with examples  -  case studies, past decisions, "here\'s what I\'d do in this situation." The system helps structure implicit knowledge from concrete examples.' },
@@ -573,9 +573,9 @@ export const useCases: UseCasePage[] = [
       { step: '4', title: 'Use Memory to Prepare and Deliver', body: 'Before each client interaction, open their workspace and ask Intelligence to surface what matters. After each interaction, add new information. Memory compounds over time.' },
     ],
     scenarios: [
-      { title: 'The Memory Reset Frustration', story: 'Every AI session, Linda started by re-explaining each client\'s situation. With twelve clients, she spent 30 minutes per week just priming AI with context she\'d already captured.', result: 'After setting up per-client workspaces in Client Intelligence, Linda\'s context is permanent. She opens a workspace and the AI already knows the client\'s full history. That time is gone.' },
+      { title: 'The Memory Reset Frustration', story: 'Every AI session, Linda started by re-explaining each client\'s situation. With twelve clients, she spent 30 minutes per week just priming AI with context she\'d already captured.', result: 'After setting up per-Workspaces in Client Intelligence, Linda\'s context is permanent. She opens a workspace and the AI already knows the client\'s full history. That time is gone.' },
       { title: 'The Long-Engagement Context Value', story: 'Alex had worked with one client for 14 months. The depth of context he\'d accumulated was enormous  -  and priceless for delivering relevant advice. It lived in scattered notes.', result: 'After loading 14 months of engagement history into a Client Intelligence workspace, Alex surfaces any past decision instantly. Long-term clients notice he references history they\'d forgotten sharing.' },
-      { title: 'The Handoff Quality Improvement', story: 'When Mei\'s agency assigned a new account manager to a client, the transition always had a two-week "getting up to speed" lag that clients hated.', result: 'With client workspaces containing full engagement history, new account managers are operational in hours. Clients report the handoff as seamless  -  a first for the agency.' },
+      { title: 'The Handoff Quality Improvement', story: 'When Mei\'s agency assigned a new account manager to a client, the transition always had a two-week "getting up to speed" lag that clients hated.', result: 'With Workspaces containing full engagement history, new account managers are operational in hours. Clients report the handoff as seamless  -  a first for the agency.' },
     ],
     faqs: [
       { question: 'How much information should I put in each client\'s initial memory?', answer: 'Start with the essentials: goals, current challenges, business context, key relationships, and any prior work. You can add depth over time. A 20-minute Brain Dump session per client is enough to start.' },

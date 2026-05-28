@@ -59,7 +59,7 @@ export const categories: CategoryPage[] = [
 <p>Intelligence as a Service isn't just a productivity improvement. It's a business model evolution  -  from selling time to selling intelligence at scale.</p>`,
     relatedFeatures: [
       { title: 'Account Brain', description: 'The central repository where your methodology is encoded  -  the foundation of your IaaS business.' },
-      { title: 'Isolated Client Workspaces', description: 'Per-client AI environments that ensure your IaaS delivery is both scalable and confidential.' },
+      { title: 'Isolated Workspaces', description: 'Per-client AI environments that ensure your IaaS delivery is both scalable and confidential.' },
       { title: 'Blueprint Execution Layer', description: 'The delivery system that turns encoded methodology into systematized client deliverables at scale.' },
       { title: 'Brain Dump Mode', description: 'The mechanism for capturing and encoding your expertise without requiring formal documentation.' },
     ],
@@ -115,7 +115,7 @@ export const categories: CategoryPage[] = [
 
 <p>For service businesses serving many clients simultaneously, per-client memory is infrastructure. It's the difference between being able to maintain depth across a large book of business and having quality erode as client volume grows.</p>`,
     relatedFeatures: [
-      { title: 'Isolated Client Workspaces', description: 'The per-client environments where AI memory is stored, structured, and isolated from other clients.' },
+      { title: 'Isolated Workspaces', description: 'The per-client environments where AI memory is stored, structured, and isolated from other clients.' },
       { title: 'Client Context Memory', description: 'The AI layer that actively uses stored client information when generating outputs within the workspace.' },
       { title: 'Document and Transcript Storage', description: 'How client documents and recordings are stored, transcribed, and made AI-searchable within workspaces.' },
       { title: 'Brain Dump Mode', description: 'The mechanism for capturing and uploading client context quickly without formal documentation.' },
@@ -148,7 +148,7 @@ export const categories: CategoryPage[] = [
 
 <p><strong>The Account Brain</strong> is the organizational layer  -  your methodology, frameworks, quality standards, and institutional knowledge. It lives at the account level, accessible to all team members, applied to all client engagements. The Account Brain is what makes the AI sound like your organization rather than a generic AI assistant.</p>
 
-<p><strong>Client Workspaces</strong> are the per-client environments where client-specific work happens. Each workspace is isolated from every other. Within a workspace, the AI has access to that client's full history  -  documents, transcripts, decisions, goals, and context accumulated over the entire engagement. The workspace is where methodology meets client specifics.</p>
+<p><strong>Workspaces</strong> are the per-client environments where client-specific work happens. Each workspace is isolated from every other. Within a workspace, the AI has access to that client's full history  -  documents, transcripts, decisions, goals, and context accumulated over the entire engagement. The workspace is where methodology meets client specifics.</p>
 
 <p><strong>The Intelligence Assistant</strong> operates within workspaces, with access to both the Account Brain and the current client's context simultaneously. This is the interface through which the practitioner directs the AI  -  generating deliverables, preparing for sessions, synthesizing documents, drafting communications. Intelligence's outputs are grounded in methodology and client context by default.</p>
 
@@ -221,10 +221,10 @@ export const categories: CategoryPage[] = [
 
 <p>Service businesses that implement centralized IP with per-client isolation develop competitive advantages that compound over time. Methodology improves continuously as the central IP system is updated  -  and every improvement applies everywhere at once. Client relationships deepen as context accumulates in workspaces  -  and the depth of knowledge becomes a retention driver. Team capability scales more quickly as new members work from the encoded methodology rather than requiring long mentorship periods.</p>
 
-<p>The architecture also creates transferable business value. When methodology is organizational rather than individual, and when client relationships are captured in structured workspaces rather than individual memories, the business has assets that can survive team changes and that a potential acquirer can inherit. Businesses with this architecture are more valuable  -  and more defensible  -  than those dependent on specific individuals.</p>`,
+<p>The architecture also creates transferable business value. When methodology is organizational rather than individual, and when client relationships are captured in structured workspaces rather than individual facts, the business has assets that can survive team changes and that a potential acquirer can inherit. Businesses with this architecture are more valuable  -  and more defensible  -  than those dependent on specific individuals.</p>`,
     relatedFeatures: [
       { title: 'Account Brain', description: 'The centralized IP layer  -  where your methodology lives and is applied across all client engagements.' },
-      { title: 'Isolated Client Workspaces', description: 'The per-client layer  -  structurally isolated environments for each client\'s data and context.' },
+      { title: 'Isolated Workspaces', description: 'The per-client layer  -  structurally isolated environments for each client\'s data and context.' },
       { title: 'AI Trained on Your Frameworks', description: 'How centralized IP translates into AI that reasons from your methodology rather than generic training.' },
       { title: 'Data Never Mixes', description: 'The architectural guarantee that per-client isolation provides.' },
     ],
@@ -232,7 +232,7 @@ export const categories: CategoryPage[] = [
       { question: 'Can the centralized IP layer and per-client isolation coexist without conflict?', answer: 'They\'re designed to work together. Your methodology (Account Brain) is your IP  -  shared across all workspaces by design. Client data is isolated per workspace by design. The two layers serve different purposes and don\'t conflict.' },
       { question: 'What if different clients need different methodology applications?', answer: 'Your Account Brain can hold multiple methodology variants. You direct Intelligence to apply the relevant variant for each engagement type. Centralized IP doesn\'t mean identical methodology for all clients  -  it means consistent, organized access to the right methodology for each context.' },
       { question: 'How does per-client isolation hold up when clients are in the same industry?', answer: 'Isolation is structural and applies regardless of industry. Two clients in the same industry have completely separate workspaces. Competitive intelligence, strategy documents, and analytics for each stay within their workspace  -  unable to cross to the other.' },
-      { question: 'What happens to per-client isolation if my team grows?', answer: 'Team growth doesn\'t affect client isolation. New team members access the Account Brain and client workspaces through the same system. The isolation between client workspaces remains regardless of how many team members are using the platform.' },
+      { question: 'What happens to per-client isolation if my team grows?', answer: 'Team growth doesn\'t affect client isolation. New team members access the Account Brain and Workspaces through the same system. The isolation between Workspaces remains regardless of how many team members are using the platform.' },
     ],
   },
   {
@@ -274,7 +274,7 @@ export const categories: CategoryPage[] = [
 
 <p>For experts who built info product businesses, the transition path isn't from courses to individual consulting  -  that trade is time for money and doesn't scale any better than courses sell. The path is to Intelligence as a Service: encoding your methodology in AI systems that apply it to clients systematically.</p>
 
-<p>Instead of teaching your framework in a course, you apply your framework to each client's specific situation through an AI-powered delivery system. Instead of hoping clients implement your teachings, you produce the implementation for them  -  grounded in their context and your methodology. The expert's IP creates value directly, not through the intermediate step of a student attempting to apply it.</p>
+<p>Instead of teaching your framework in a course, you apply your framework to each client's specific situation through an AI-driven delivery system. Instead of hoping clients implement your teachings, you produce the implementation for them  -  grounded in their context and your methodology. The expert's IP creates value directly, not through the intermediate step of a student attempting to apply it.</p>
 
 <p>This model scales differently than info products but more sustainably. Info products scale through marketing  -  more buyers for the same content. IaaS scales through methodology systematization  -  more clients served without proportional time increase. The ceiling is higher because the value delivered is more real.</p>`,
     relatedFeatures: [
@@ -297,7 +297,7 @@ export const categories: CategoryPage[] = [
     metaDescription: 'The AI era has changed the economics of courses vs services. Learn which model wins in the new landscape and how to position your expertise for maximum long-term value.',
     prose: `<p>The debate between services and courses as business models has been ongoing in the expert economy for years. Courses promised passive income and scale; services offered depth and relationships but required your time. Both models had clear trade-offs, and many experts tried to do both  -  with mixed results.</p>
 
-<p>The AI era has dramatically shifted the economics of this debate. The result isn't that one model wins absolutely, but that the trade-offs have fundamentally changed  -  and for most experts, the calculus now favors services, particularly when those services are built on AI-powered delivery infrastructure.</p>
+<p>The AI era has dramatically shifted the economics of this debate. The result isn't that one model wins absolutely, but that the trade-offs have fundamentally changed  -  and for most experts, the calculus now favors services, particularly when those services are built on AI-driven delivery infrastructure.</p>
 
 <h3>What Changed for Courses</h3>
 
@@ -327,12 +327,12 @@ export const categories: CategoryPage[] = [
 
 <p>The course model required you to make your expertise teachable. The IaaS service model requires you to make your expertise deployable. Teachable means students can understand and apply it. Deployable means AI can apply it to client situations directly. The latter is more valuable to clients, more durable economically, and more aligned with where the expert economy is heading.</p>
 
-<p>Courses may still make sense in narrow circumstances: building an audience before launching services, serving a market segment too small to justify full service delivery, or creating training programs for team members. But as a primary revenue model for expert-based businesses, the economics in the AI era strongly favor service delivery  -  especially when built on AI-powered delivery infrastructure.</p>`,
+<p>Courses may still make sense in narrow circumstances: building an audience before launching services, serving a market segment too small to justify full service delivery, or creating training programs for team members. But as a primary revenue model for expert-based businesses, the economics in the AI era strongly favor service delivery  -  especially when built on AI-driven delivery infrastructure.</p>`,
     relatedFeatures: [
       { title: 'Intelligence as a Service Model', description: 'The service model that scales like a product  -  by systematizing expert methodology, not by selling information.' },
       { title: 'Blueprint Execution Layer', description: 'How service delivery becomes systematized and scalable without requiring proportional time investment.' },
       { title: 'Account Brain', description: 'Where your methodology lives so it can be applied to clients  -  not just taught to students.' },
-      { title: 'Per-Client AI Memory', description: 'The deep personalization that makes AI-powered services more valuable than generic courses.' },
+      { title: 'Per-Client AI Memory', description: 'The deep personalization that makes AI-driven services more valuable than generic courses.' },
     ],
     faqs: [
       { question: 'Should I shut down my existing courses?', answer: 'Not necessarily. If they\'re generating revenue with minimal maintenance, they can coexist with a service business. The question is where to invest new energy: doubling down on a declining model or building toward a more durable one.' },
@@ -372,7 +372,7 @@ export const categories: CategoryPage[] = [
 
 <p>Service businesses that will struggle are those whose value proposition is primarily in information access or generic best practice delivery. These are the businesses most disrupted by AI's commoditization of knowledge. If clients can get 80% of your value from ChatGPT, the premium you charge for the remaining 20% compresses significantly over time.</p>
 
-<p>Also at risk are service businesses that fail to systematize delivery. In a market where AI-powered competitors can serve more clients at lower cost, purely manual service delivery becomes increasingly uncompetitive on price. The service businesses that maintain manual processes will face margin pressure from competitors who've built AI infrastructure.</p>
+<p>Also at risk are service businesses that fail to systematize delivery. In a market where AI-driven competitors can serve more clients at lower cost, purely manual service delivery becomes increasingly uncompetitive on price. The service businesses that maintain manual processes will face margin pressure from competitors who've built AI infrastructure.</p>
 
 <h3>The Near-Term Transition</h3>
 
@@ -380,14 +380,14 @@ export const categories: CategoryPage[] = [
 
 <p>The second phase is systematizing delivery: encoding your methodology in AI systems, building per-client AI memory, and creating delivery workflows that don't require proportional time investment. This is where genuine competitive advantage develops  -  businesses that do this in the next two years will have substantially more organizational AI maturity than competitors who do it in four or five years.</p>
 
-<p>The third phase  -  still emerging  -  is building service categories that are definitionally AI-powered: Intelligence as a Service businesses that deliver systematized expert methodology at a scale and consistency that pure human delivery cannot match. These businesses will define the competitive standard that others scramble to meet in the years ahead.</p>
+<p>The third phase  -  still emerging  -  is building service categories that are definitionally AI-driven: Intelligence as a Service businesses that deliver systematized expert methodology at a scale and consistency that pure human delivery cannot match. These businesses will define the competitive standard that others scramble to meet in the years ahead.</p>
 
 <p>The service businesses that thrive in the AI era won't be those that resist AI or those that adopt it superficially. They'll be those that build genuine AI delivery infrastructure around their proprietary expertise  -  and use it to serve more clients better than they ever could before.</p>`,
     relatedFeatures: [
       { title: 'Intelligence as a Service Model', description: 'The service model architecture designed to win in the AI era  -  systematized expert delivery at scale.' },
-      { title: 'Isolated Client Workspaces', description: 'The data handling infrastructure that enterprise clients increasingly require as AI becomes central to delivery.' },
+      { title: 'Isolated Workspaces', description: 'The data handling infrastructure that enterprise clients increasingly require as AI becomes central to delivery.' },
       { title: 'Account Brain', description: 'How proprietary methodology becomes organizational infrastructure rather than individual knowledge.' },
-      { title: 'Blueprint Execution Layer', description: 'The AI-powered delivery infrastructure that transforms service capacity economics.' },
+      { title: 'Blueprint Execution Layer', description: 'The AI-driven delivery infrastructure that transforms service capacity economics.' },
     ],
     faqs: [
       { question: 'How urgent is the AI transition for service businesses?', answer: 'Urgent enough to begin now, manageable if started now. The businesses that build AI delivery infrastructure in the next 12–24 months will have compounding advantages over those that start 3–5 years later. The transition takes time to mature.' },
@@ -433,7 +433,7 @@ export const categories: CategoryPage[] = [
 
 <p>The second layer is per-client AI memory: persistent, isolated context for every client relationship you serve. This is what enables personalization at scale  -  the AI knows each client's full history, goals, and context, producing outputs that feel deeply tailored even as you serve more clients.</p>
 
-<p>The third layer is systematized delivery: AI-powered workflows that execute your methodology consistently for every client without requiring manual step-by-step application. Blueprints and automated processes handle the systematic work; your judgment handles the exceptions.</p>
+<p>The third layer is systematized delivery: AI-driven workflows that execute your methodology consistently for every client without requiring manual step-by-step application. Blueprints and automated processes handle the systematic work; your judgment handles the exceptions.</p>
 
 <p>These three layers together create service delivery that scales differently than traditional services  -  not by working more hours, but by systematizing the application of your expertise so it works for more clients simultaneously.</p>
 

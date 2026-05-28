@@ -10,7 +10,7 @@ import { features } from '@/content/features'
 import { industries } from '@/content/industries'
 import { categories } from '@/content/categories'
 
-const BASE_URL = 'https://clientintelligence.com'
+const BASE_URL = 'https://clientintelligence.ai'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date()

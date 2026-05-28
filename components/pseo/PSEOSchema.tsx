@@ -26,12 +26,12 @@ export default function PSEOSchema({ name, description, url, faqs, breadcrumbs }
     isPartOf: {
       '@type': 'WebSite',
       name: 'Client Intelligence',
-      url: 'https://clientintelligence.com',
+      url: 'https://clientintelligence.ai',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Client Intelligence',
-      url: 'https://clientintelligence.com',
+      url: 'https://clientintelligence.ai',
     },
   }
 
