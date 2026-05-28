@@ -20,7 +20,7 @@ export default function Footer() {
           <div>
             <p className="text-white/40 text-xs uppercase tracking-wide mb-3">Who It's For</p>
             <ul className="space-y-2">
-              <li><Link href="/for" className="text-white/60 text-xs hover:text-white/90 transition-colors">Find Your Role →</Link></li>
+              <li><Link href="/for" className="text-white/60 text-xs hover:text-white/90 transition-colors">Who It's For →</Link></li>
               <li><Link href="/vs" className="text-white/60 text-xs hover:text-white/90 transition-colors">Why CI →</Link></li>
               <li><Link href="/use-case" className="text-white/60 text-xs hover:text-white/90 transition-colors">How It's Used →</Link></li>
               <li><Link href="/category/intelligence-as-a-service" className="text-white/60 text-xs hover:text-white/90 transition-colors">What Is IaaS? →</Link></li>
