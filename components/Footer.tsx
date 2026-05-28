@@ -16,25 +16,25 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Built For column */}
+          {/* Who It's For column */}
           <div>
-            <p className="text-white/40 text-xs uppercase tracking-wide mb-3">Built For</p>
+            <p className="text-white/40 text-xs uppercase tracking-wide mb-3">Who It's For</p>
             <ul className="space-y-2">
-              <li><Link href="/for" className="text-white/60 text-xs hover:text-white/90 transition-colors">All Personas →</Link></li>
-              <li><Link href="/vs" className="text-white/60 text-xs hover:text-white/90 transition-colors">Comparisons →</Link></li>
-              <li><Link href="/use-case" className="text-white/60 text-xs hover:text-white/90 transition-colors">Use Cases →</Link></li>
-              <li><Link href="/category/intelligence-as-a-service" className="text-white/60 text-xs hover:text-white/90 transition-colors">What is IaaS? →</Link></li>
+              <li><Link href="/for" className="text-white/60 text-xs hover:text-white/90 transition-colors">Find Your Role →</Link></li>
+              <li><Link href="/vs" className="text-white/60 text-xs hover:text-white/90 transition-colors">Why CI →</Link></li>
+              <li><Link href="/use-case" className="text-white/60 text-xs hover:text-white/90 transition-colors">How It's Used →</Link></li>
+              <li><Link href="/category/intelligence-as-a-service" className="text-white/60 text-xs hover:text-white/90 transition-colors">What Is IaaS? →</Link></li>
             </ul>
           </div>
 
-          {/* Explore column */}
+          {/* Learn More column */}
           <div>
-            <p className="text-white/40 text-xs uppercase tracking-wide mb-3">Explore</p>
+            <p className="text-white/40 text-xs uppercase tracking-wide mb-3">Learn More</p>
             <ul className="space-y-2">
-              <li><Link href="/industry" className="text-white/60 text-xs hover:text-white/90 transition-colors">By Industry →</Link></li>
-              <li><Link href="/pain" className="text-white/60 text-xs hover:text-white/90 transition-colors">By Pain Point →</Link></li>
-              <li><Link href="/feature" className="text-white/60 text-xs hover:text-white/90 transition-colors">Features →</Link></li>
-              <li><Link href="/alternatives" className="text-white/60 text-xs hover:text-white/90 transition-colors">Alternatives →</Link></li>
+              <li><Link href="/industry" className="text-white/60 text-xs hover:text-white/90 transition-colors">Your Industry →</Link></li>
+              <li><Link href="/pain" className="text-white/60 text-xs hover:text-white/90 transition-colors">Solve a Problem →</Link></li>
+              <li><Link href="/feature" className="text-white/60 text-xs hover:text-white/90 transition-colors">The Platform →</Link></li>
+              <li><Link href="/alternatives" className="text-white/60 text-xs hover:text-white/90 transition-colors">Switching From →</Link></li>
             </ul>
           </div>
         </div>
