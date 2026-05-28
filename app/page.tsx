@@ -30,13 +30,10 @@ export default function HomePage() {
         <p className="text-muted text-lg max-w-xl mx-auto mb-8 leading-relaxed">
           Centralize your proprietary frameworks and apply them to every client through isolated per-client AI workspaces. Built for agencies, consultants, coaches, and fractional executives.
         </p>
-        <div className="flex items-center justify-center gap-4 flex-wrap">
+        <div className="flex items-center justify-center">
           <a href="https://clientintelligence.ai" target="_blank" rel="noopener noreferrer" className="bg-ink text-cream rounded-full px-6 py-3 text-sm font-medium hover:opacity-90 transition-opacity">
             Learn More →
           </a>
-          <Link href="/for" className="border border-border rounded-full px-6 py-3 text-sm font-medium text-ink hover:bg-border/30 transition-colors">
-            Who It's For →
-          </Link>
         </div>
         <p className="text-muted text-xs mt-5">No long-term contracts. Your IP stays yours.</p>
       </section>
