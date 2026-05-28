@@ -18,36 +18,55 @@ const hubs = [
 
 export default function HomePage() {
   return (
-    <div className="bg-cream min-h-screen">
+    <div className="min-h-screen">
       {/* Hero */}
-      <section className="max-w-3xl mx-auto px-6 py-24 text-center">
-        <p className="text-xs font-semibold text-gold-accessible uppercase tracking-[0.2em] mb-4">
-          Intelligence as a Service
-        </p>
-        <h1 className="text-4xl sm:text-5xl font-semibold text-ink leading-tight tracking-tight text-balance mb-6">
-          Your methodology. Every client. At scale.
-        </h1>
-        <p className="text-muted text-lg max-w-xl mx-auto mb-8 leading-relaxed">
-          Centralize your proprietary frameworks and apply them to every client through isolated per-client AI workspaces. Built for agencies, consultants, coaches, and fractional executives.
-        </p>
-        <div className="flex items-center justify-center">
-          <a href="https://clientintelligence.ai" target="_blank" rel="noopener noreferrer" className="bg-ink text-cream rounded-full px-6 py-3 text-sm font-medium hover:opacity-90 transition-opacity">
-            Learn More →
-          </a>
+      <section className="landing-hero-bg pt-32 sm:pt-40 pb-24 sm:pb-32">
+        <div className="max-w-[1200px] mx-auto px-6">
+          <div className="mx-auto max-w-[800px] text-center">
+            <p className="text-[11px] font-medium uppercase tracking-[0.12em] text-gold mb-6">
+              Intelligence as a Service
+            </p>
+            <h1 className="warm-gradient-heading font-sans font-semibold text-[40px] sm:text-[56px] lg:text-[72px] tracking-[-0.04em] leading-[1.0] mb-6 text-balance">
+              Your methodology. Every client. At scale.
+            </h1>
+            <p className="mx-auto max-w-[560px] text-[18px] text-faint leading-[1.7] mb-10">
+              Centralize your proprietary frameworks and apply them to every client through isolated per-client AI workspaces. Built for agencies, consultants, coaches, and fractional executives.
+            </p>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-5">
+              <a
+                href="https://clientintelligence.ai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex h-12 items-center gap-2 rounded-xl px-8 text-[15px] font-semibold bg-gold text-ink transition-colors duration-brand ease-brand hover:bg-gold-hover w-full sm:w-auto justify-center"
+              >
+                Learn More
+              </a>
+            </div>
+            <p className="text-xs text-faint">No long-term contracts. Your IP stays yours.</p>
+          </div>
         </div>
-        <p className="text-muted text-xs mt-5">No long-term contracts. Your IP stays yours.</p>
       </section>
 
       {/* Hub grid */}
-      <section className="max-w-5xl mx-auto px-6 pb-24">
-        <h2 className="text-2xl font-semibold text-ink mb-8 text-center tracking-tight">Explore Client Intelligence</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {hubs.map((hub) => (
-            <Link key={hub.href} href={hub.href} className="bg-white rounded-2xl border border-border p-5 hover:shadow-md transition-shadow group">
-              <h3 className="text-base font-semibold text-ink group-hover:text-gold transition-colors mb-2">{hub.label}</h3>
-              <p className="text-muted text-xs leading-relaxed">{hub.description}</p>
-            </Link>
-          ))}
+      <section className="bg-cream py-24 sm:py-32">
+        <div className="max-w-[1200px] mx-auto px-6">
+          <div className="flex items-end justify-between mb-8">
+            <p className="text-[11px] font-medium uppercase tracking-[0.12em] text-gold">Explore Client Intelligence</p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {hubs.map((hub) => (
+              <Link
+                key={hub.href}
+                href={hub.href}
+                className="group block bg-white rounded-card border border-border p-6 shadow-card hover:shadow-card-hover transition-shadow duration-brand ease-brand"
+              >
+                <h3 className="text-base font-semibold text-ink group-hover:text-gold-accessible transition-colors duration-brand ease-brand mb-2">
+                  {hub.label}
+                </h3>
+                <p className="text-muted text-xs leading-relaxed">{hub.description}</p>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
     </div>

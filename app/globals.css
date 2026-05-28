@@ -2,6 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+.landing-hero-bg {
+  background-color: #1e1d1b;
+  background-image: radial-gradient(800px 400px at 50% 0, rgba(201,168,76,.08), transparent);
+}
+
+.warm-gradient-heading {
+  background: linear-gradient(135deg, #f4f0eb, #c8c0b0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.duration-brand { transition-duration: .15s; }
+.ease-brand { transition-timing-function: cubic-bezier(.16, 1, .3, 1); }
+
 @layer base {
   body {
     @apply bg-cream text-ink antialiased;

@@ -83,7 +83,7 @@ export default function Nav() {
             href="https://clientintelligence.ai"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm bg-ink text-cream px-4 py-2 rounded-full hover:bg-ink/80 transition-colors whitespace-nowrap"
+            className="inline-flex h-9 items-center rounded-lg px-5 text-sm font-semibold bg-gold text-ink transition-colors duration-brand ease-brand hover:bg-gold-hover whitespace-nowrap"
           >
             Learn More
           </a>

@@ -11,41 +11,43 @@ export default function PSEOHero({
   eyebrow,
   h1,
   subheadline,
-  ctaPrimary = 'Learn More →',
+  ctaPrimary = 'Learn More',
   ctaSecondary = 'See How It Works',
   ctaSecondaryHref = '#how-it-works',
 }: PSEOHeroProps) {
   return (
-    <section className="bg-cream min-h-[72vh] flex items-center">
-      <div className="max-w-3xl mx-auto px-6 py-20 text-center">
-        <p className="text-xs font-semibold text-gold-accessible uppercase tracking-[0.2em] mb-4">
-          {eyebrow}
-        </p>
-        <h1 className="text-4xl sm:text-5xl md:text-[3.5rem] font-semibold text-ink leading-tight tracking-tight text-balance mb-6">
-          {h1}
-        </h1>
-        <p className="text-muted text-lg max-w-xl mx-auto mb-8 leading-relaxed">
-          {subheadline}
-        </p>
-        <div className="flex items-center justify-center gap-4 flex-wrap">
-          <a
-            href="https://clientintelligence.ai"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="bg-ink text-cream rounded-full px-6 py-3 text-sm font-medium hover:opacity-90 transition-opacity"
-          >
-            {ctaPrimary}
-          </a>
-          <a
-            href={ctaSecondaryHref}
-            className="border border-border rounded-full px-6 py-3 text-sm font-medium text-ink hover:bg-border/30 transition-colors"
-          >
-            {ctaSecondary}
-          </a>
+    <section className="landing-hero-bg pt-32 sm:pt-40 pb-24 sm:pb-32">
+      <div className="max-w-[1200px] mx-auto px-6">
+        <div className="mx-auto max-w-[800px] text-center">
+          <p className="text-[11px] font-medium uppercase tracking-[0.12em] text-gold mb-6">
+            {eyebrow}
+          </p>
+          <h1 className="warm-gradient-heading font-sans font-semibold text-[40px] sm:text-[56px] lg:text-[72px] tracking-[-0.04em] leading-[1.0] mb-6 text-balance">
+            {h1}
+          </h1>
+          <p className="mx-auto max-w-[560px] text-[18px] text-faint leading-[1.7] mb-10">
+            {subheadline}
+          </p>
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-5">
+            <a
+              href="https://clientintelligence.ai"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex h-12 items-center gap-2 rounded-xl px-8 text-[15px] font-semibold bg-gold text-ink transition-colors duration-brand ease-brand hover:bg-gold-hover w-full sm:w-auto justify-center"
+            >
+              {ctaPrimary}
+            </a>
+            <a
+              href={ctaSecondaryHref}
+              className="inline-flex h-12 items-center gap-2 rounded-xl border border-gold/30 px-8 text-[15px] font-semibold text-gold transition-colors duration-brand ease-brand hover:bg-gold/10 w-full sm:w-auto justify-center"
+            >
+              {ctaSecondary}
+            </a>
+          </div>
+          <p className="text-xs text-faint">
+            No long-term contracts. Your IP stays yours.
+          </p>
         </div>
-        <p className="text-muted text-xs mt-5">
-          No long-term contracts. Your IP stays yours. Built for serious service providers.
-        </p>
       </div>
     </section>
   )
