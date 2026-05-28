@@ -58,7 +58,7 @@ export default async function FeatureDetailPage({ params }: { params: Promise<{ 
           h1={feature.h1}
           subheadline={feature.metaDescription}
           ctaPrimary="Learn More"
-          ctaSecondary="Learn More"
+          ctaSecondary="See the Details"
           ctaSecondaryHref="#details"
         />
 
