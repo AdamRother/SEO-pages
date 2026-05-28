@@ -56,7 +56,7 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
           eyebrow="Category Definition"
           h1={category.h1}
           subheadline={category.metaDescription}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="Read the Definition"
           ctaSecondaryHref="#definition"
         />
@@ -78,7 +78,7 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
         <CTABlock
           headline="Experience Intelligence as a Service"
           subtext="Client Intelligence is the platform built for the IaaS model. Per-client memory, encoded methodology, isolated workspaces. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

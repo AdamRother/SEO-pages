@@ -68,7 +68,7 @@ export default async function CompetitorPage({ params }: { params: Promise<{ com
           eyebrow="Comparison"
           h1={`Client Intelligence vs. ${competitor.label}`}
           subheadline={`${competitor.theirStrength} ${competitor.ourAdvantage}`}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="See the Comparison"
           ctaSecondaryHref="#comparison"
         />
@@ -101,7 +101,7 @@ export default async function CompetitorPage({ params }: { params: Promise<{ com
         <CTABlock
           headline={`Ready to Move Beyond ${competitor.label}?`}
           subtext="Client Intelligence is purpose-built for multi-client professional service delivery. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

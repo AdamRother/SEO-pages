@@ -57,7 +57,7 @@ export default async function FeatureDetailPage({ params }: { params: Promise<{ 
           eyebrow="Feature"
           h1={feature.h1}
           subheadline={feature.metaDescription}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="Learn More"
           ctaSecondaryHref="#details"
         />
@@ -84,7 +84,7 @@ export default async function FeatureDetailPage({ params }: { params: Promise<{ 
         <CTABlock
           headline="See It In Action"
           subtext="Experience per-client AI memory, framework encoding, and isolated workspaces in your own practice. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

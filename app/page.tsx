@@ -32,7 +32,7 @@ export default function HomePage() {
         </p>
         <div className="flex items-center justify-center gap-4 flex-wrap">
           <a href="https://clientintelligence.ai" target="_blank" rel="noopener noreferrer" className="bg-ink text-cream rounded-full px-6 py-3 text-sm font-medium hover:opacity-90 transition-opacity">
-            Start Free Trial →
+            Learn More →
           </a>
           <Link href="/for" className="border border-border rounded-full px-6 py-3 text-sm font-medium text-ink hover:bg-border/30 transition-colors">
             Find Your Persona →

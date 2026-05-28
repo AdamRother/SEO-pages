@@ -19,7 +19,7 @@ const standardRows = (competitorName: string, isolationNote: string, frameworkNo
   { criteria: 'Multi-client architecture', clientIntelligence: { value: 'Unlimited isolated Workspaces', positive: true }, competitor: { value: 'Shared context across all usage', positive: false } },
   { criteria: 'Methodology operationalization', clientIntelligence: { value: 'Core platform feature (Brain Dump)', positive: true }, competitor: { value: 'Not supported', positive: false } },
   { criteria: 'Per-client memory', clientIntelligence: { value: 'Each client remembered individually', positive: true }, competitor: { value: 'No persistent per-client memory', positive: false } },
-  { criteria: 'Pricing for operators', clientIntelligence: { value: 'Starter $97/mo, Pro $497/mo', positive: true }, competitor: { value: `${competitorName} pricing`, positive: false } },
+  { criteria: 'Pricing for operators', clientIntelligence: { value: 'Purpose-built for service businesses', positive: true }, competitor: { value: `${competitorName} pricing`, positive: false } },
   { criteria: 'Who it\'s for', clientIntelligence: { value: 'Consultants, agencies, coaches', positive: true }, competitor: { value: 'General knowledge workers', positive: false } },
 ]
 
@@ -263,7 +263,7 @@ export const competitors: CompetitorPage[] = [
       { criteria: 'Target user', clientIntelligence: { value: 'Service businesses under $5M', positive: true }, competitor: { value: 'Enterprise organizations 500+ employees', positive: false } },
       { criteria: 'Per-client isolation', clientIntelligence: { value: 'Architecture-level client isolation', positive: true }, competitor: { value: 'Internal team search, no client isolation', positive: false } },
       { criteria: 'Methodology training', clientIntelligence: { value: 'Encode your IP via Brain Dump', positive: true }, competitor: { value: 'Search existing enterprise knowledge', positive: false } },
-      { criteria: 'Pricing', clientIntelligence: { value: 'Starter $97/mo, Pro $497/mo', positive: true }, competitor: { value: 'Enterprise pricing, six-figure contracts', positive: false } },
+      { criteria: 'Pricing', clientIntelligence: { value: 'Purpose-built for service businesses', positive: true }, competitor: { value: 'Enterprise pricing, six-figure contracts', positive: false } },
       { criteria: 'Setup complexity', clientIntelligence: { value: 'Set up in hours', positive: true }, competitor: { value: 'Enterprise deployment, months', positive: false } },
     ],
     forYou: [

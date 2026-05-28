@@ -11,7 +11,7 @@ export default function PSEOHero({
   eyebrow,
   h1,
   subheadline,
-  ctaPrimary = 'Start Free Trial →',
+  ctaPrimary = 'Learn More →',
   ctaSecondary = 'See How It Works',
   ctaSecondaryHref = '#how-it-works',
 }: PSEOHeroProps) {

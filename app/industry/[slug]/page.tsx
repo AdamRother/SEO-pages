@@ -67,7 +67,7 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
           eyebrow={industry.label}
           h1={industry.h1}
           subheadline={industry.pain}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="See How It Works"
           ctaSecondaryHref="#how-it-works"
         />
@@ -95,7 +95,7 @@ export default async function IndustryDetailPage({ params }: { params: Promise<{
         <CTABlock
           headline={`Ready to Scale Your ${industry.label} Practice?`}
           subtext="Join consultants and agencies building with Intelligence as a Service. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

@@ -15,13 +15,13 @@ export default function Nav() {
             href="/for"
             className="hidden sm:block text-sm text-muted hover:text-ink transition-colors"
           >
-            For You
+            Who It's For
           </Link>
           <Link
             href="/vs"
             className="hidden sm:block text-sm text-muted hover:text-ink transition-colors"
           >
-            Compare
+            Why CI
           </Link>
           <a
             href="https://clientintelligence.ai"
@@ -29,8 +29,8 @@ export default function Nav() {
             rel="noopener noreferrer"
             className="text-sm bg-ink text-cream px-3 sm:px-4 py-2 rounded-full hover:bg-ink/80 transition-colors whitespace-nowrap"
           >
-            <span className="sm:hidden">Trial →</span>
-            <span className="hidden sm:inline">Start Free Trial →</span>
+            <span className="sm:hidden">Learn More →</span>
+            <span className="hidden sm:inline">Learn More →</span>
           </a>
         </div>
       </nav>

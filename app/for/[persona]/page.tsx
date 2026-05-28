@@ -68,7 +68,7 @@ export default async function PersonaPage({ params }: { params: Promise<{ person
           eyebrow={`Built for ${persona.label}`}
           h1={`The AI Platform for ${persona.label}`}
           subheadline={`${persona.pain} ${persona.outcome}`}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="See the Features"
           ctaSecondaryHref="#features"
         />
@@ -101,7 +101,7 @@ export default async function PersonaPage({ params }: { params: Promise<{ person
         <CTABlock
           headline={`Ready to Scale Your ${persona.label} Practice?`}
           subtext="Join consultants and agencies building with Intelligence as a Service. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

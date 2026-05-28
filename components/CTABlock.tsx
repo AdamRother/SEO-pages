@@ -7,7 +7,7 @@ interface CTABlockProps {
 export default function CTABlock({
   headline,
   subtext = 'Built for service providers serious about scaling their methodology.',
-  cta = 'Start Free Trial →',
+  cta = 'Learn More →',
 }: CTABlockProps) {
   return (
     <section className="bg-[#1C1700] px-6 py-20">

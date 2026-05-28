@@ -58,7 +58,7 @@ export default async function UseCaseDetailPage({ params }: { params: Promise<{ 
           eyebrow="How To"
           h1={uc.h1}
           subheadline={uc.metaDescription}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="See How It Works"
           ctaSecondaryHref="#how-it-works"
         />
@@ -86,7 +86,7 @@ export default async function UseCaseDetailPage({ params }: { params: Promise<{ 
         <CTABlock
           headline="Ready to Put This Into Practice?"
           subtext="Client Intelligence gives you the per-client memory, framework encoding, and delivery leverage you need. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

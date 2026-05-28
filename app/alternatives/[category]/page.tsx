@@ -67,7 +67,7 @@ export default async function AlternativePage({ params }: { params: Promise<{ ca
           eyebrow="A Better Alternative"
           h1={alt.label}
           subheadline={`${alt.whyLooking} ${alt.whatWeDoInstead}`}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="See How It Works"
           ctaSecondaryHref="#how-it-works"
         />
@@ -95,7 +95,7 @@ export default async function AlternativePage({ params }: { params: Promise<{ ca
         <CTABlock
           headline="Ready to Try the Alternative?"
           subtext="Client Intelligence is purpose-built for multi-client professional service delivery. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>

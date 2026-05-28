@@ -57,7 +57,7 @@ export default async function PainDetailPage({ params }: { params: Promise<{ slu
           eyebrow="We Know This Feeling"
           h1={pain.h1}
           subheadline={pain.metaDescription}
-          ctaPrimary="Start Free Trial"
+          ctaPrimary="Learn More"
           ctaSecondary="See the Solution"
           ctaSecondaryHref="#solution"
         />
@@ -80,7 +80,7 @@ export default async function PainDetailPage({ params }: { params: Promise<{ slu
         <CTABlock
           headline="Ready to Solve This?"
           subtext="Client Intelligence gives you the systems to break through the constraints that are holding your practice back. No long-term contracts."
-          cta="Start Free Trial →"
+          cta="Learn More →"
         />
       </main>
     </>
