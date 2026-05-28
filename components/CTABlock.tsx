@@ -18,7 +18,7 @@ export default function CTABlock({
         {subtext && (
           <p className="text-white/60 text-sm mb-8 leading-relaxed">{subtext}</p>
         )}
-        <div className="flex items-center justify-center gap-4 flex-wrap">
+        <div className="flex items-center justify-center">
           <a
             href="https://clientintelligence.ai"
             target="_blank"
@@ -26,14 +26,6 @@ export default function CTABlock({
             className="bg-white text-[#1C1700] rounded-full px-6 py-3 text-sm font-semibold hover:opacity-90 transition-opacity"
           >
             {cta}
-          </a>
-          <a
-            href="https://clientintelligence.ai/pricing"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="border border-white/30 text-white rounded-full px-6 py-3 text-sm font-medium hover:border-white/60 transition-colors"
-          >
-            See Pricing
           </a>
         </div>
         <p className="text-white/40 text-xs mt-5">Cancel anytime · Your IP stays yours</p>
