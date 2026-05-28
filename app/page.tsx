@@ -6,14 +6,14 @@ export const metadata = {
 }
 
 const hubs = [
-  { href: '/for', label: 'For Your Persona', description: 'Find the page built for your specific role — fractional executives, consultants, coaches, agencies.' },
-  { href: '/vs', label: 'Comparisons', description: 'See how Client Intelligence compares to ChatGPT, Claude Projects, Notion AI, and more.' },
-  { href: '/use-case', label: 'Use Cases', description: 'How to scale without hiring, train AI on your framework, protect client data, and more.' },
-  { href: '/pain', label: 'Pain Points', description: 'The specific problems Client Intelligence solves — from founder bottlenecks to inconsistent delivery.' },
-  { href: '/feature', label: 'Features', description: 'Per-client memory, isolated workspaces, Brain Dump mode, and the Intelligence assistant.' },
-  { href: '/industry', label: 'By Industry', description: 'Marketing agencies, consulting firms, coaching businesses, and more.' },
-  { href: '/alternatives', label: 'Alternatives', description: 'Looking for an alternative to ChatGPT, Notion AI, or generic AI tools for client work?' },
-  { href: '/category', label: 'What Is IaaS?', description: 'Understand Intelligence as a Service — the new model for scaling service businesses with AI.' },
+  { href: '/for', label: 'Who It\'s For', description: 'Built for fractional executives, consultants, coaches, and agency owners managing multiple clients.' },
+  { href: '/vs', label: 'Why CI', description: 'See how Client Intelligence compares to ChatGPT, Claude Projects, Notion AI, and more.' },
+  { href: '/use-case', label: 'How It\'s Used', description: 'Scale without hiring, train AI on your framework, protect client data, and deliver consistently.' },
+  { href: '/pain', label: 'Solve a Problem', description: 'The real frustrations of running a multi-client practice — and exactly how CI fixes them.' },
+  { href: '/feature', label: 'The Platform', description: 'Per-client memory, isolated Workspaces, Brain Dump mode, and the Intelligence layer.' },
+  { href: '/industry', label: 'Your Industry', description: 'Marketing agencies, consulting firms, coaching businesses, financial advisors, and more.' },
+  { href: '/alternatives', label: 'Switching From', description: 'Moving away from ChatGPT, Notion AI, or stitched-together AI tools? Here\'s what\'s different.' },
+  { href: '/category', label: 'What Is IaaS?', description: 'Intelligence as a Service — the new model for scaling service businesses with AI.' },
 ]
 
 export default function HomePage() {
@@ -35,7 +35,7 @@ export default function HomePage() {
             Learn More →
           </a>
           <Link href="/for" className="border border-border rounded-full px-6 py-3 text-sm font-medium text-ink hover:bg-border/30 transition-colors">
-            Find Your Persona →
+            Who It's For →
           </Link>
         </div>
         <p className="text-muted text-xs mt-5">No long-term contracts. Your IP stays yours.</p>
