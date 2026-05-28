@@ -10,20 +10,34 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        cream: '#FAF8F3',
-        'card-bg': '#F8F6F1',
+        cream: '#F7F5F2',
+        'card-bg': '#F0EDE8',
+        'card-hover': '#E8E3DB',
         gold: {
-          DEFAULT: '#B8962E',
-          dark: '#9A7E26',
-          light: '#D4B84A',
-          accessible: '#7A5C00',
+          DEFAULT: '#C9A84C',
+          dark: '#A88A38',
+          light: '#FBF5E6',
+          accessible: '#8A6A1E',
         },
-        ink: '#2D3036',
-        muted: '#6B6B6B',
-        border: '#E8E4D9',
+        ink: '#1E1D1B',
+        muted: '#6B6560',
+        faint: '#A09890',
+        border: '#E5E0D5',
       },
       fontFamily: {
-        sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
+        sans: ['var(--font-geist-sans)', 'system-ui', 'sans-serif'],
+      },
+      letterSpacing: {
+        tight: '-0.02em',
+        tighter: '-0.03em',
+        tightest: '-0.04em',
+      },
+      boxShadow: {
+        card: '0 1px 3px rgba(0,0,0,0.04)',
+        'card-hover': '0 4px 12px rgba(0,0,0,0.08)',
+      },
+      borderRadius: {
+        card: '16px',
       },
     },
   },

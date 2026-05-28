@@ -85,7 +85,7 @@ export default function Nav() {
             rel="noopener noreferrer"
             className="text-sm bg-ink text-cream px-4 py-2 rounded-full hover:bg-ink/80 transition-colors whitespace-nowrap"
           >
-            Learn More →
+            Learn More
           </a>
         </div>
 

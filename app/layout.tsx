@@ -1,14 +1,8 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { GeistSans } from 'geist/font/sans'
 import './globals.css'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
-
-const inter = Inter({
-  subsets: ['latin'],
-  variable: '--font-sans',
-  display: 'swap',
-})
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://clientintelligence.ai'),
@@ -52,7 +46,7 @@ const softwareApplicationSchema = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={GeistSans.variable}>
       <body className="font-sans">
         <script
           type="application/ld+json"

@@ -5,10 +5,15 @@
 @layer base {
   body {
     @apply bg-cream text-ink antialiased;
+    font-feature-settings: 'cv11', 'ss01';
   }
 
   ::selection {
     @apply bg-gold/20;
+  }
+
+  h1, h2, h3, h4 {
+    letter-spacing: -0.02em;
   }
 }
 
@@ -16,9 +21,13 @@
   .text-balance {
     text-wrap: balance;
   }
+
+  .tracking-display {
+    letter-spacing: -0.03em;
+  }
 }
 
-/* Article body prose — used in category pillar pages and feature detail pages */
+/* Article body prose — category pillar pages and feature detail pages */
 .article-body p,
 .prose-content p {
   @apply text-muted leading-relaxed mb-5 text-base;
@@ -26,7 +35,8 @@
 
 .article-body h2,
 .prose-content h2 {
-  @apply font-serif text-xl text-ink mt-10 mb-4 leading-snug;
+  @apply font-medium text-xl text-ink mt-10 mb-4 leading-snug;
+  letter-spacing: -0.02em;
 }
 
 @media (min-width: 640px) {
@@ -39,6 +49,7 @@
 .article-body h3,
 .prose-content h3 {
   @apply font-medium text-ink mt-6 mb-2;
+  letter-spacing: -0.01em;
 }
 
 .article-body blockquote,
@@ -48,12 +59,12 @@
 
 .article-body blockquote p,
 .prose-content blockquote p {
-  @apply text-ink font-serif text-lg italic mb-2;
+  @apply text-ink text-lg italic mb-2;
 }
 
 .article-body blockquote footer,
 .prose-content blockquote footer {
-  @apply text-xs text-muted;
+  @apply text-xs text-faint;
 }
 
 .article-body ol,
@@ -68,7 +79,7 @@
 
 .article-body a,
 .prose-content a {
-  @apply text-gold underline underline-offset-2 hover:text-gold-dark transition-colors;
+  @apply text-gold-accessible underline underline-offset-2 hover:text-gold transition-colors;
 }
 
 .article-body strong,
